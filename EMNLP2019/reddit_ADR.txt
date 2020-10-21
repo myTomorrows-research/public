@@ -1,0 +1,1453 @@
+post_id	ADR
+8zr5u3	panic attack
+8zr5u3	withdrawal symptoms
+8zp5pz	sexual side effects
+8zo764	lack of appetite
+8zo764	lack of sexual enjoyment
+8znc2a	crazy/delusional
+8zgs1n	withdrawal 
+8zgg5h	allergy
+8zgg5h	withdrawal symptoms
+8zgg5h	constant headache
+8zgg5h	diarrhea
+8zgg5h	fever
+8zgg5h	nausea/light headedness
+8zg3hu	withdrawal
+8zg3hu	visuals 
+8ze7tt	withdrawal 
+8zd4dn	withdrawal symptom
+8zd4dn	akathisia
+8zd4dn	involuntary tremors
+8zd4dn	restless legs
+8zd4dn	visual disturbances
+8zctsr	drug interactions
+8zbap8	decrease in sexual interest and function 
+8zbap8	withdrawal
+8zauo2	panic attacks
+8zaqdj	apathy
+8z992n	sensory disturbances 
+8z992n	withdrawal
+8z992n	anxiety
+8z5uyf	horror nightmares
+8z5uyf	exhaustion
+8z5uyf	suicidal thoughts
+8z5uyf	obese
+8z4ybt	obsessions
+8z4ybt	compulsions
+8z4ybt	depersonalization
+8yy4i2	passively suicidal
+8yv6vs	stoned
+8ytu95	destroyed my appetite
+8yjthx	shaking
+8yhett	withdrawal
+8ybvq5	sexual side effects
+8ybvq5	spaced out
+8ybvq5	dizzy
+8ybcfk	urinary retention
+8yacr5	Brain zaps
+8yacr5	crying spells
+8yacr5	intrusive thoughts
+8y7dy7	suicidal
+8y4kos	brain-zaps
+8y4kos	dizziness
+8y43xf	bladder neck obstruction
+8y43xf	urinary hesitancy
+8y41jg	weight I gained
+8y2ghj	groggy
+8y2ghj	manic
+8y2ghj	keyed-up
+8y0f0i	constipation
+8y0f0i	diarrhea
+8y0bw8	impotency
+8xzmho	weight gain
+8xzmho	water retention
+8xzmho	 brain tremors
+8xzmho	nausea
+8xzmho	irritability
+8xzmho	sweating
+8xzmho	Insomnia
+8xzmho	Bruising
+8xwgqt	withdrawals
+8xwgqt	brain zaps
+8xwgqt	vertigo
+8xv3cm	Nausea
+8xv3cm	tiredness
+8xv3cm	sadness
+8xv3cm	anger
+8zw7k9	memory issues
+8zw7k9	lowered mental capacity
+8zaku8	hallucination
+8yxkks	paranoia
+8yc887	tremors
+8y5ikz	 hearing demons
+8zydgi	addictive
+8zx6xq	anxious
+8zx6xq	irritable
+8zwz44	seizure
+8zww2q	panick
+8zul54	binging
+8zrymq	 irritability
+8znkw5	suppressed appetite
+8znigq	tired
+8zmff2	Inattentiveness
+8zmff2	anxious thoughts
+8zmff2	distractibility
+8zmagt	withdrawl
+8zmagt	hallucinations
+8zm4cm	tired
+8zm4cm	irritable
+8zm4cm	lethargic
+8zlud2	Angry
+8zlud2	agitated
+8zlud2	depressed
+8zlud2	 anxious
+8zlud2	 irritable
+8zgbrq	suicide
+8zcd4b	sleepiness
+8zbo5x	crash
+8zauyg	rash
+8zas8v	rash 
+8z5xlx	dependency 
+8z5xlx	withdrawal
+8z3i2z	daydream
+8z2se9	 withdrawals
+8z1oov	dehydrating
+8yxzgg	euphoria.
+8ywwbg	migraine 
+8ywra8	sleepy
+8ywra8	withdrawn
+8ywmnu	premature aging
+8yw5ox	Obsessive compulsive behaviour
+8yw5ox	anxiety
+8yvzwo	Delayed(Retarded) Ejaculation
+8yv7jp	anxiety 
+8yv7jp	sleepiness
+8yv7jp	irritable
+8yv7jp	jaw clenching
+8yv7jp	neurotoxicity 
+8yv7jp	depression
+8yv7jp	lethargy
+8yu39x	dehydration
+8yu39x	constipated 
+8yu39x	anxiety
+8ytxu4	diarrhoea
+8ytxu4	upset stomach
+8ytmpv	hyper-stimulation 
+8ytmpv	 tolerance 
+8yt43q	withdrawal
+8ysoyz	premature aging
+8yrj31	dehydration
+8yrj31	nausea,
+8yrj31	fatigue
+8yrj31	dry mouth,
+8yrj31	headache
+8yrj31	confused
+8yrj31	sluggish
+8yrj31	bruised
+8yqu6z	tired 
+8yqu6z	fluey-fatigue
+8ypzu6	nausea
+8ypzu6	lethargic
+8ypzu6	apathetic
+8ylp2s	depression
+8ylp2s	anxiety
+8ylp2s	demotivation
+8yl8x5	vasoconstriction
+8yl8x5	paranoia 
+8yl8x5	chest pains
+8yl8x5	hair also started falling out
+8ygjhb	 irritable
+8ygjhb	snappier
+8yffr0	distractibility
+8yffr0	 inattention
+8ye5tg	panic attacks
+8ye5tg	major brain fog
+8yd7lq	tolerance
+8ybc3o	depression
+8ybc3o	mood swings
+8yay2r	irritable 
+8yay2r	depressed
+8yay2r	sadness
+8yay2r	anxiety
+8y7zao	dependent
+8y6ojc	near death experiences
+8y6hfa	 withdrawal
+8y59tt	loss of appetite
+8y59tt	 joint pain
+8y59tt	stomach cramping
+8y59tt	loose stools
+8y59tt	back pain
+8y4uhx	comedown
+8y3ins	Dry mouth
+8y3ins	jaw and neck tension
+8y3ins	reduced appetite
+8y3ee6	hyperfocus
+8y3ee6	anxiety
+8y3ee6	killed my appetite
+8y30wh	blood in the stool
+8y1q59	addiction
+8y1q59	long term damage
+8y1cx5	addiction
+8y1cx5	fatigue
+8y0vd3	crash
+8y0d2e	 withdrawal
+8y0d2e	feeling like a zombie
+8y0d2e	depression
+8y0d2e	anxiety
+8y0d2e	insomnia
+8y0d2e	dizziness
+8xzrly	cold fingers
+8xzrly	Peripheral vasculopathy
+8xzrly	Raynaud’s phenomenon
+8xzrly	vasoconstriction
+8xyxz9	tolerance
+8xyxz9	sexually obsessed
+8xyv03	low blood pressure
+8xyv03	 high pulse
+8xyv03	very cold
+8xymb9	allergic
+8xymb9	tight throat
+8xymb9	aching jaw 
+8xymb9	swollen tongue
+8xymb9	congested airways
+8xymb9	hyperfixation 
+8xymb9	irritability
+8xymb9	insomnia
+8xxsyb	trouble sleeping
+8xxsyb	binge
+8xw65z	 irritated
+8xw65z	impulsive
+8xvbrs	depressed
+8xvbrs	withdrawals
+8zrete	mania 
+8zrete	paranoia
+8zr1ur	 manic
+8zr1ur	no motivation
+8zpziu	seizures
+8zfcf3	mania
+8zfcf3	panic attacks 
+8zfcf3	anxiety
+8zfcf3	psychosis
+8zfcf3	acne
+8zfcf3	 anhedonia
+8zfcf3	 avolition
+8zfcf3	psychosis
+8zfcf3	social anxiety
+8zfcf3	delusional
+8zfcf3	paranoia
+8ze63l	bleeding
+8ze63l	acne
+8ze63l	bumps
+8z6vsq	manic
+8z6vsq	skin picking
+8z6vsq	hypersexuality
+8z6vsq	psychosis
+8z6vsq	paranoia 
+8z6vsq	delusions
+8z4ub8	delusions
+8z4ub8	anxious
+8z4ub8	irrational fears
+8z4ub8	suicide attempts
+8z4ub8	paranoia
+8z1g6z	agoraphobia 
+8z047v	depressed
+8z047v	suicidal
+8yq1y5	suicidal thoughts 
+8yq1y5	depression
+8yongr	toxicity 
+8yongr	 depression
+8yk6kl	facial rashes
+8yk6kl	red hives 
+8yk6kl	allergic reactions
+8yfh7u	anxious
+8yfh7u	can't sleep
+8yfh7u	agitated
+8yfh7u	moody
+8yfh7u	sad
+8yd4cg	constipated
+8yd4cg	gastrointestinal discomfort
+8yd4cg	nausea
+8yd4cg	diarreah
+8yd4cg	lower abdominal cramping
+8ycpm6	delusional
+8ycpm6	trouble sleeping
+8ycpm6	manic
+8yaqim	 creative slump
+8y9dth	struggled with sleeping
+8y49dt	anhedonia
+8y49dt	lack of motivation 
+8y49dt	delusional
+8y2kmz	suicidal thoughts
+8xzqfb	 hungry
+8y4c00	Lazy eye
+8y4c00	droopy eye lid
+8zw3sh	sneezed
+8zw3sh	distressed
+8zw3sh	sore
+8zw3sh	headache
+8zvntt	addiction
+8zvntt	addiction
+8ztlw3	withdrawal
+8zt80p	bing
+8zsmbg	interaction
+8zsmbg	withdrawal
+8zsmbg	nausea
+8zsmbg	headaches
+8zsmbg	Opiod Abuse Disorder
+8zsmbg	addiction
+8zsf0r	addictions
+8zs3yv	Addiction
+8zov1l	 interactions
+8zov1l	get high
+8zomol	withdrawals
+8zomol	relapsing
+8znbcs	addiction
+8znbcs	withdrawal
+8zl8qz	 withdrawal
+8zkz1p	blackout
+8zjyf2	withdrawal
+8zczkn	mild headache
+8zczkn	RLS
+8zczkn	stomach discomfort
+8zczkn	trouble with sleep
+8zcys7	addicted 
+8zcys7	slurs his speech
+8zcys7	abuse
+8zbt14	Withdrawal
+8zahxs	dependence 
+8zahxs	abuse
+8z7z5b	 addictive
+8z7skx	addiction
+8z7fk8	addiction
+8z7fk8	tolerance
+8z4b9v	withdrawal 
+8z3hfq	Withdrawals
+8z3hfq	dehydrated
+8z3hfq	anxiety
+8z3hfq	headache,
+8z3hfq	vertigo
+8z3hfq	nausea
+8z3hfq	high heart rate
+8z3hfq	 dizziness
+8z3hfq	tolerance
+8z2n1p	breathing shallow
+8z2n1p	addiction
+8z2ixo	addiction
+8z2ixo	binging
+8z1x64	headache
+8z1opv	Withdrawals 
+8z078q	numbing
+8z04nh	kidney abscess
+8z04nh	kidney stone
+8z04nh	addiction 
+8yzizs	addict
+8yzizs	mental cravings
+8yzizs	tolerance
+8yzizs	depression
+8yzizs	overdose
+8yyqyb	withdrawal
+8yyqyb	suicide
+8yxyu4	withdrawals
+8yxyu4	asphyxiation
+8yxyu4	cravings
+8yxyu4	addiction
+8yxyu4	dependence
+8yxvk2	RLS
+8yxvk2	headache 
+8ywg0m	withdrawal
+8yw7hc	withdrawal
+8yw0bv	withdrawals
+8yvyf1	addicted
+8yvyf1	Anxiet
+8yvyf1	depression 
+8yvwb3	Tolerance
+8yvbw8	withdrawal
+8yvbw8	addicted
+8yvbw8	abuse
+8yrfja	withdrawals
+8yrfja	anxiety 
+8yrfja	tightness in my chest
+8yrfja	headache
+8yrfja	numb
+8yrfja	depression
+8yqm2y	withdrawals
+8yqk75	withdraws
+8yqh1o	withdrawals
+8yqh1o	anxiety
+8yqh1o	numb
+8yqh1o	Derealization
+8yqh1o	impaired thinking
+8yqh1o	paranoia
+8yqh1o	tinnitus
+8yoz12	withdrawals 
+8yoz12	dehydrated 
+8yoz12	sinus infection
+8yoz12	anxiety
+8yoz12	derealization
+8yoz12	headaches
+8yoz12	 muscle aches
+8yoz12	tinnitus
+8yoz12	numb
+8ynvwd	withdrawals
+8ymmv2	interactions 
+8ymmv2	withdrawals
+8ymf41	emotions are blunted
+8ylwyu	addict
+8yj69e	withdrawals
+8ygljv	depressed
+8ygljv	restless
+8ygljv	uncomfortable
+8ygljv	mentally bad
+8yfv4h	get high
+8yeld0	addiction
+8yeld0	 headache
+8yeld0	general discomfor
+8ye3p0	interactions
+8ye3p0	tolerance
+8ye3p0	WITHDRAWA
+8ydx3p	withdrawals
+8ycn9o	addiction
+8ycn9o	withdrawal 
+8ycn9o	cravings
+8y6yac	addictive
+8y1s4t	insomnia
+8y1s4t	restless legs 
+8y1s4t	 lethargic
+8y1s4t	watery eyes,
+8y1s4t	mentally fucked up
+8y1s4t	 irritable
+8y15qn	withdrawl
+8y15qn	stomach pains
+8y15qn	 insomnia
+8xzyqj	tolerance
+8xzd2w	cravings
+8xzd2w	hopeless
+8xxpa3	withdrawals
+8xxpa3	abused 
+8xwmru	sleepy
+8xwd1j	tolerance
+8zf824	tolerance
+8zf824	delusions
+8yz3r2	weak 
+8yz3r2	frail
+8yz3r2	suicidal thoughts 
+8ynyue	persecutory delusions
+8yhn8y	apathy
+8y6c1u	depression 
+8y6c1u	withdrawal
+8y270q	withdrawal
+8y270q	insomnia 
+8y270q	nightmares
+8y270q	tremors
+8y04sz	social anxiety
+8y04sz	introversion
+8zuci0	panic attack
+8zuci0	freaking out
+8zuci0	headspin
+8zuci0	panic
+8zuci0	seizures
+8zuci0	tolerance
+8zuci0	bad high
+8zk7as	hypomanic state
+8zfy12	crazy
+8zdb0e	nausea
+8zdb0e	withdrawal
+8zdb0e	diarrhea 
+8z8e5j	droopy
+8z3ezl	seizure
+8yz4ol	mania
+8yz4ol	irritable
+8yz4ol	depression
+8yz4ol	euphoric
+8yw9dr	dizzy
+8yw9dr	fatigued
+8yv0sl	derealization
+8yt1e0	 tremors
+8yt1e0	 tolerance
+8yt1e0	sleepy
+8yt1e0	 anxious
+8yt1e0	wakefulness
+8yrrp2	weight gain
+8yj4rg	crashed 
+8yj4rg	mood swings
+8yj4rg	hypomanic episode 
+8yctw6	depressive 
+8yctw6	manic
+8yctw6	Iron deficiency
+8y60qp	binging
+8y5xon	confusion 
+8y5xon	hallucination
+8zt3h7	swollen ankles
+8zt3h7	kidney damage
+8zshjg	swollen ankles
+8zshjg	kidney damage
+8zp8ov	 headache
+8zp8ov	headaches
+8zfq0p	Insomnia 
+8zfq0p	depressed
+8zfq0p	anxious 
+8zfq0p	withdrawals 
+8zfq0p	anxiety
+8zfq0p	addict.
+8ysbpe	 craving
+8ysbpe	depression
+8ysbpe	anxiety,
+8ysbpe	impulsivity.
+8ysbpe	withdrawal
+8ykdff	anxiety
+8ykdff	withdrawals
+8ygwt7	withdrawals
+8ygwt7	lost consciousness
+8yb7i8	detoxing
+8yb7i8	 irritable
+8xzuu9	withdrawal.
+8xzuu9	 tolerance
+8xzuu9	irritable
+8xzuu9	panic attack
+8xzuu9	addicted
+8z8rjk	depressed
+8yyuup	hallucinations
+8yyuup	brain zaps
+8yyuup	mood swings
+8yyuup	exhaustion
+8y1f25	emotional instability
+8y1f25	temper tantrums
+8ztsp2	anxiety.
+8ztsp2	depression
+8ztsp2	diarrhoea
+8ztsp2	withdrawals
+8ztsp2	addiction
+8zc8mw	 interaction
+8z6yzo	withdrawals
+8z6yzo	panic attacks 
+8z6yzo	euphoria 
+8z6yzo	tolerance
+8z1ml0	addicted
+8z1ml0	pain
+8yyg5a	TOLERACE
+8yt0xy	impulse control
+8ymfbj	bladder problems.
+8ymfbj	overactive bladder
+8xumcm	 euphoria
+8xu91a	mentally unstable 
+8xu91a	binge
+8zvtxy	anxiety
+8zvtxy	stomach pain
+8ytjvm	dependant
+8xz24g	suicidal depression
+8zjp1g	allergic 
+8z7vxm	toxicity
+8z7vxm	multiple join deteriorations
+8yu0e0	allergic
+8yu0e0	resistant
+8y60qe	diarrhea
+8y60qe	nausea
+8y60qe	vomiting
+8y60qe	fainting
+8y60qe	spotting
+8xv0jj	allergic
+8zr333	insomnia
+8zqbfy	Feel sick
+8zp7ti	weight gain
+8ze0ql	drowsiness
+8zbg4f	euphoric
+8zbg4f	impulsive
+8zbg4f	destructive
+8zbg4f	 confused 
+8zbg4f	paranoid
+8yiqkx	nightmares,
+8yiqkx	suicidal 
+8yiqkx	addicted
+8y54q5	hallucinations
+8xxrc8	weight gain
+8zfoh7	 euphoria
+8z5gey	hyper hidrosis
+8z5gey	anxiety
+8z4j48	psychotic
+8ylae3	anxiety
+8ylae3	panic attacks
+8yh3ru	tolerance
+8y0ocb	clots
+8zwvr1	seizure
+8zm1cc	anxiety
+8zgsq8	emotional blunting
+8zgsq8	extreme apathy
+8zgsq8	weight gain
+8zg35w	withdrawling
+8zg35w	dehydrated
+8zd7az	weight gain
+8zd7az	fatigue
+8zd7az	night sweats
+8z7zsk	 dehydrated
+8z7zsk	tachycardia 
+8z7ch8	Suicidal thoughts
+8ymc7d	nausea
+8y45xd	hallucinations
+8y45xd	sleepiness
+8y45xd	time-fog
+8y3ubd	killing my liver
+8y1png	withdrawal 
+8xuvga	I can’t walk
+8zxvsm	tolerance 
+8zbs0w	 respiratory depression
+8yw2w0	withdrawal
+8yvm1g	 anxiety
+8yvm1g	tolerance
+8yo6cz	euphoric
+8yo6cz	sweating 
+8yo6cz	CEVs 
+8yo6cz	Open eye visuals
+8yo6cz	nausea
+8ynodi	 tolerance 
+8ynodi	chronic pain 
+8ygy77	allergic 
+8ygevb	drunk
+8ygevb	 high
+8ygevb	tolerance
+8ybddf	fucked up
+8yb2w9	 depression
+8yb2w9	anxiety
+8y4adf	 radial neuropathy
+8ydjhq	fever 
+8y2g1z	headache
+8y2g1z	rebound effect
+8y2g1z	hard to concentrate
+8y2g1z	tense feeling headache
+8zilzd	heat exhaustion
+8zilzd	sweaty
+8zilzd	nauseous
+8zilzd	dizzy
+8zilzd	palpitations.
+8z9w1v	burning sensation
+8z9w1v	bloating
+8z74ui	diarrhea
+8ypoci	heart burn
+8ypoci	acid reflux
+8ypoci	coughing
+8ypoci	weezing
+8ynt89	burning sensation
+8ynt89	uncomfortable
+8ynt89	hole in my stomach
+8yjbcd	pulsating headache
+8yjbcd	migraine
+8yjbcd	anxiety
+8yjbcd	depression
+8yjbcd	major mood disorder
+8z5szm	low libido
+8z5szm	depressed
+8z5szm	anxious
+8z33xp	headaches
+8z33xp	nausea
+8z33xp	body sweats
+8yv62h	depression
+8yv62h	anxiety
+8yv62h	withdrawal 
+8yp6qj	 withdrawal
+8yaupp	hallucinogens 
+8yaupp	addicted
+8yaupp	shaking violently
+8yaupp	withdrawal
+8yaupp	anxiety
+8y1jh9	suicidal
+8ztgwd	Long QT syndrome
+8ztgwd	anxiety attacks
+8ztgwd	nausea 
+8ztgwd	vomiting
+8zjf53	skin issues
+8zg744	Weight loss 
+8zg4ii	overweight
+8z91dh	anxiety 
+8z91dh	eczema
+8z91dh	 acne 
+8z5fvm	Hyperthyroid 
+8z1yc4	weight gain
+8z1yc4	fatigue
+8z1yc4	brain fog
+8z1yc4	 lowered sex drive
+8z1yc4	brittle hair
+8ym91b	Tingling pins
+8ykfrn	depression 
+8ykfrn	anxiety.
+8yfsc5	sore nipples
+8ye4np	fatigue
+8zyhni	depression
+8zxp1p	fatigued
+8zxp1p	depressive episodes
+8zxp1p	panic attacks
+8zvq2g	severe dizziness
+8zvq2g	chest pain
+8zvq2g	anxiety
+8zvq2g	insomnia
+8zvq2g	lethargic
+8zvq2g	hypomanic states
+8zvq2g	depression
+8zsaqc	30 extra pounds
+8zsaqc	mood swings
+8zsaqc	depressed 
+8zr238	sluggish
+8zr238	unmotivated
+8zr238	lethargic
+8zq0hg	mania
+8zq0hg	chaotic
+8zq0hg	sleeplessness
+8zoiqy	withdrawals
+8zmeh1	irritable
+8zmeh1	anger issues
+8ziy9k	going crazy.
+8ziy9k	 depression
+8ziy9k	panic attacks
+8ziy9k	 hypomanic
+8zhsm2	feeling tired
+8zhq04	flattening my mood
+8zg729	dreaming
+8zfhkr	general anxiety
+8zfhkr	obsession
+8zfhkr	hallucinated
+8zfhkr	manic episode
+8zesrv	euphoric
+8zesrv	rage
+8zeess	crazy
+8zdld0	addicted 
+8zcwkl	withdrawal
+8zcwkl	anxiety
+8zcwkl	insomnia
+8zcwkl	vomited
+8zcwkl	migraines
+8zcwkl	exhausted
+8zcwkl	hot and sweaty
+8zcwkl	mood swings
+8zcwkl	anxious
+8zcwkl	Shaky hands 
+8zcwkl	addictive 
+8zc3wc	no libido
+8zc3wc	vaginitis
+8z9v7i	panic attacks
+8z9v7i	depression
+8z9v7i	anxiety 
+8z5jha	 auras
+8z5i2g	mania.
+8z5i2g	hypo
+8z3qcw	manic episode
+8z3qcw	psychosis
+8yzmra	feel like a zombie
+8yzmra	dissociation
+8yzmra	uicidal ideation
+8yyaw4	rash
+8yxq1d	 dependency 
+8ywlad	startle response
+8ywlad	anxiety 
+8ywlad	seizure 
+8yvf8x	fatigue
+8ysfrk	apathetic
+8ysfrk	depressed
+8ysfrk	irritable
+8ysfrk	constipation,
+8ysfrk	bloating
+8ysfrk	hypomanic
+8ysfrk	self destructive thoughts 
+8ysbr6	akathisia 
+8ysbr6	weight gain.
+8yq8xh	moody.
+8yq8xh	snappy
+8yp4gp	migraines
+8yp4gp	headaches
+8yp4gp	dizziness 
+8yp4gp	lightheadedness
+8yp4gp	extreme fatigue
+8yp4gp	dehydrated. 
+8yp4gp	agitation
+8yp4gp	tingling
+8yjwqc	panic attacks
+8yjwqc	paralyzed
+8yjwqc	tremoring
+8yjwqc	seizures
+8yjwqc	withdrawal
+8yjwqc	cravings
+8yjwqc	anxiety
+8yjwqc	paranoia 
+8yc2r9	withdrawal
+8yc2r9	fickle stomach
+8yc2r9	irritability
+8yc2r9	depression
+8yc2r9	headaches
+8yc2r9	migraines
+8yc2r9	fatigue
+8yc2r9	addictive
+8y4fvv	cravings
+8y4fvv	weight gain
+8y4fvv	chronic fatigue
+8y257x	head is buzzing 
+8y1h1b	weight gain
+8y1h1b	tics
+8y1h1b	ideations
+8xv3ql	anxiety
+8xu7iy	seizure
+8zbjbw	heartburn 
+8zbjbw	kidney damage
+8zbjbw	gastritis
+8zbjbw	 nausea
+8zwaqj	withdrawl
+8zwaqj	fatigue
+8zrmf3	mood swings
+8zrmf3	headaches
+8zrmf3	panic
+8zrmf3	depression
+8zac1m	stomach cramps
+8yrhpz	addictive 
+8yonsq	constipated
+8yonsq	sweating
+8yonsq	weight gain
+8yonsq	suicidal ideation
+8xwnsu	constipation 
+8zpdid	seizures
+8zj69y	 Withdrawal
+8zj69y	nauseous
+8zj69y	suicide
+8zj69y	weight gain
+8zj69y	emotional distress.
+8zj69y	diabetes
+8zj69y	depression
+8zj69y	severe anxiety,
+8zj69y	 panic attacks 
+8zj69y	hallucinations
+8zj69y	paranoia
+8zj69y	delusions
+8zj69y	muscle cramps
+8zj69y	convulsions
+8zj69y	diarrhea
+8zj69y	tremors
+8zj69y	heart palpitations
+8zj69y	suicidal thoughts
+8zj69y	weight loss
+8zj69y	insomnia
+8zj69y	nightmares
+8zj69y	depression
+8zj69y	anxiety
+8zj69y	paranoia
+8yzqh9	emotional numbness
+8ypshd	OCD symptoms
+8ydy7j	sleep trouble
+8ydy7j	dependent
+8y80b6	paranoia
+8y0pfb	weight gain
+8xv3v6	agitation
+8xv3v6	 stressed
+8xv3v6	white blood cell suppression
+8zvfvd	memory issues
+8zhiwa	ectasia
+8zhiwa	sleep apnea
+8zhiwa	suicide
+8yj0bl	increased urinary output
+8zxhll	bipolar
+8zmjck	gained 20 lbs
+8zdy32	flare
+8yw5m3	cloudy urine
+8yw5m3	 increased urgency
+8ysl1r	 concentration problems
+8yo9qh	sores on your feet
+8yna3m	pain
+8yna3m	 swelling
+8yfvh8	psoriasis
+8yfvh8	arthritis
+8yfvh8	swelling in my tendons
+8yfvh8	swelling in my lips
+8yfkko	nauses
+8yfkko	itchy
+8yb5vl	flare 
+8y7d0e	flaring
+8y7d0e	pain
+8y5yj9	spots
+8y5yj9	sore throat 
+8y5yj9	joints are achey
+8y4lkl	lose some weight
+8y4lkl	flare-ups
+8y4575	increased heart rate
+8y4575	increased blood pressure
+8y4575	tachyphylaxis
+8y4575	palpitations
+8y4575	palpitations
+8y4575	dehydration
+8zx9xe	nausea
+8zx9xe	depression
+8zx9xe	headaches
+8zx9xe	tremors
+8zx3lw	bad mood
+8zui5h	dyslexia
+8zt4mz	crazy dreams
+8zru47	sense of panic
+8zru47	mania
+8zqk3s	diarrhea
+8zpmss	depressive episode
+8zpmss	panic state
+8zpmss	 shaking
+8zpmss	panic attacks
+8zngut	foggy
+8zbgha	broken sleep
+8z2hhz	withdrawal
+8z28f0	Withdrawel
+8z28f0	sneezing
+8z28f0	runny nose
+8z28f0	sedated
+8z28f0	groggy
+8z0m8q	insomnia
+8z0m8q	exhausted
+8yyudv	tolerance
+8yvwkk	gaining weight 
+8yvwkk	antidepressants
+8yvcb6	irritable
+8yvcb6	panicking
+8yvcb6	groggy
+8ytcj3	Psychosis
+8ytcj3	lethargy
+8ytcj3	appetite increase
+8ytcj3	neurotoxic
+8yt91w	tired
+8ysz14	delusion
+8ysz14	psychotic 
+8yrubz	sweating
+8yrubz	fever
+8yrubz	sore throat
+8yrubz	red spots
+8yrubz	cold sore
+8yrubz	boil
+8yrubz	headaches
+8yro7s	epilepsy 
+8yro7s	seizures
+8yro7s	anxiety
+8yjwpi	depression 
+8yiujr	unwell
+8yiujr	depressed
+8yiujr	exhausted
+8yi1mv	hunger
+8yi1mv	increased appetite
+8yi1mv	weight gain
+8yasko	groggy
+8y7snx	 heat flurries
+8y7snx	euphoria
+8y3fo4	mania
+8y3fo4	depressive episode 
+8y3fo4	addiction
+8y3fo4	destructive
+8y3fo4	hallucinated 
+8y3fo4	psychosis
+8y30so	Maniac crisis
+8xw9l4	stomach ache
+8xw9l4	anxious
+8xw9l4	confusion
+8xw9l4	difficulties concentrating
+8xvc1j	sedated
+8zidk5	phobic
+8zidk5	severe panic thoughts,
+8zidk5	catastrophic thinking
+8zidk5	attacks
+8zidk5	mental breakdown
+8zhtai	red spots on penis
+8zhtai	irritation
+8yxu62	nauseous
+8yxu62	dizzy
+8yxak6	nausea
+8yvj5n	 depression
+8yvj5n	pain
+8yvj5n	discomfort
+8yvj5n	withdrawals
+8yqz5l	Static electric shocks
+8yqv0a	withdrawal
+8yqv0a	dizzy spells
+8yqv0a	insomnia
+8yhnyv	oil in my urine
+8yd5xd	 withdrawls
+8yd5xd	attacks
+8yaisd	depression
+8ya2a5	depressed
+8y62c9	no sex drive
+8y1ek7	groggy
+8y1ek7	cloudy
+8y1ek7	sick to my stomach
+8y1ek7	heart racing
+8y1ek7	withdrawals
+8y12vu	brain atrophy
+8xx6mf	fatigued
+8xx6mf	withdrawal
+8xwc93	 nightmares
+8xu2g0	anxiety 
+8xu2g0	flashbacks
+8zorxr	exhausted
+8zorxr	reduced my blood pressure
+8zorxr	agitation
+8zip2g	lowers my blood pressure
+8zckp0	hyperglycemia 
+8zckp0	manic rage
+8zckp0	diabetes
+8zc0xv	 insomnia
+8zc0xv	groggy
+8zc0xv	nervous
+8za7q5	insomnia
+8za7q5	mania
+8za7q5	Anxious
+8za7q5	Exhausted
+8za7q5	Restless
+8z910e	tolerance
+8z910e	auditory hallucinations
+8z8ymc	constipation
+8z1jpp	withdrawal
+8yx7u6	drowsiness
+8ytbzm	insomnia
+8ytbzm	woozy
+8ytbzm	mood swings
+8yppoo	panic
+8yppoo	crushing sadness
+8yppoo	stomach is upset
+8yppoo	sensitive to sunlight
+8ypfy8	sweating 
+8ypfy8	shaking
+8y8hj0	 addiction
+8y4jdy	panic attack
+8y4jdy	drowsiness
+8y4jdy	tired
+8y4jdy	tension headaches
+8y4jdy	dry mouth
+8xxeqe	drowsiness
+8xurrl	hypomanic episode 
+8z9ykj	painful bumps
+8z9ykj	painful bumps
+8z9ykj	painful bumps
+8z9ykj	painful bumps
+8z9ykj	painful bumps
+8y64av	confused
+8y64av	confused
+8y64av	more pain
+8zpoye	burning urination
+8ygimp	blurry
+8zsiou	anxiety
+8zsiou	loose stools 
+8zrve4	foggy
+8zrve4	numb
+8zrve4	libido went to shit
+8zmv9i	 collapse
+8zmv9i	pass out
+8zmv9i	pass out
+8zmv9i	dizzy
+8zmv9i	puking 
+8zcf8d	dependence
+8zcf8d	withdrawal.
+8zcf8d	agitation
+8zcf8d	insomnia
+8zcf8d	irritating
+8zcf8d	anxiety,
+8zcf8d	stiffness
+8zcf8d	sweating
+8zcf8d	anorgasmia
+8zcf8d	paranoia 
+8z6xjy	fatigue
+8ypcuy	addiction
+8y9o18	dominant behavior 
+8y7q53	suicide
+8y2e2n	sexual dysfunction 
+8y2e2n	tiredness
+8y2e2n	withdrawal
+8y2e2n	angry 
+8y2e2n	urge to hurt myself
+8xxvkz	suicidal thoughts 
+8xwsrg	haze
+8zvc7a	Addiction
+8zvc7a	withdrawal
+8zuhjy	nauseated
+8zsh02	fogginess
+8zq0ge	craving
+8zp71x	addicted
+8zo3wy	numb
+8zo3wy	light headed
+8znv4t	cravings 
+8znv4t	withdrawals
+8znv4t	weight gain
+8zn33z	tolerance
+8zlp9y	cravings
+8zlle3	gassy
+8zl6zd	 Cravings
+8zl6zd	Palpitation
+8zl6zd	feet tingling
+8zl6zd	withdrawal
+8zjzq1	panic attacks 
+8zjnk0	addicted
+8zj1dc	cravings
+8ziwvk	addicted
+8zhwso	withdrawal 
+8zhwso	cravings
+8zhwso	anger
+8zhkxb	cravings
+8zhc1m	numbness
+8zgxf9	withdrawals
+8zgxf9	addiction
+8zglhg	addiction
+8zglhg	cravings
+8zg4x0	crave
+8zg4x0	cravings
+8zfyf7	addiction
+8zfcsg	restless leg syndrome
+8zf28s	craving
+8zeop5	mouth ulcers
+8zeop5	Canker sores
+8zdtmy	Headache
+8zdjnb	addiction
+8zdg7l	irritability
+8zcye1	dizziness
+8zcye1	whole body shake
+8zcye1	vomiting
+8zcye1	headache
+8zcye1	anxiety
+8zcifd	Brain fog
+8zcifd	derealization
+8zcifd	withdrawal
+8zch5v	craving
+8zch5v	addictive
+8zbwk1	addiction
+8zbh1i	addiction
+8zaeut	 sensory deception
+8zaeut	bad vibrations
+8z9zyh	 addictions
+8z8lyu	withdrawal
+8z8ewj	stomach hurt
+8z8ewj	nausea
+8z8ewj	euphoria
+8z6zur	shaking
+8z6zur	sweating
+8z6zur	withdrawal
+8z6zq6	 addict
+8z6yoy	parosmia
+8z6yoy	phantosmia
+8z6yoy	vertigo
+8z6yoy	hives
+8z6yoy	rashes
+8z6jot	sedating
+8z5t2d	depression
+8z5cys	cravings
+8z559w	addicted
+8z4fwc	withdrawal
+8z4fwc	addiction
+8z4fwc	tired
+8z4fwc	emotionless
+8z1uvt	addicted
+8z1dbe	addiction 
+8z14u3	withdrawal
+8z14ek	mood is awful
+8z0wph	tightness
+8z0wph	coughing up
+8z0w1l	relapse
+8z0rha	addiction
+8z0po1	cravings
+8z06g2	coughing
+8z06g2	headaches
+8z06g2	dizziness
+8z06g2	sweating
+8z06g2	addiction
+8yz7sd	withdrawal
+8yz7sd	addicted
+8yz7sd	cravings
+8yz17y	yeast infection
+8yyhbc	 Nausea 
+8yyewu	panic attack
+8yyewu	depressed 
+8yxkbi	addiction
+8ywdoh	numbing
+8yvu8n	coughing 
+8yvobb	tolerance
+8yvi17	nauseous
+8yv8cw	addiction
+8yv8cw	addictive 
+8yv6dn	withdrawal
+8yv6dn	irritated
+8yurtc	addictive
+8ytos3	addicted
+8ytos3	crave
+8ysqvk	emotonial turmoil
+8ysqvk	cravings
+8ysqvk	antisocial
+8ypjjp	headaches
+8ypjjp	ear blocked
+8ypjjp	eyes feel quite irritated
+8ypjjp	jaw also starts to hurt
+8yoot7	Vision got weird
+8yoot7	nausea
+8yoot7	lerance 
+8yo6fk	addictive
+8yo6fk	risk for heart attack 
+8yo4w5	addictive
+8ynzgn	addiction
+8ynzgn	cravings 
+8ymx5j	brain freeze
+8ylmay	withdrawal
+8ylmay	cravings
+8yl2cn	social anxiety
+8ykz8g	depression
+8ykz8g	anxiety
+8ykfqh	 craving
+8yjp7x	cravings
+8yjp7x	dependent
+8yj4he	headaches
+8yil7y	addictions
+8yil7y	withdrawal 
+8yil7y	 unbearable body pain
+8yil18	cravings
+8yil18	irritated
+8yi2uh	addiction
+8yi2uh	binge
+8yhps2	addiction
+8yhps2	 dehydrated
+8ygxyd	addiction
+8ygcau	anxiety
+8ygcau	depression
+8yf4ny	withdrawals
+8yf4ny	delerious hallucinations
+8ycty2	addicted
+8ycd0n	Cravings
+8ycd0n	dependency
+8ycd0n	withdrawals
+8zyb3t	depressed
+8zyb3t	depressed
+8zxocg	depressed
+8zxocg	incontinence
+8zxocg	incontinence
+8zxocg	depressed
+8zxmjm	killed my libido 
+8zvowz	paranoid
+8zvowz	nightmares
+8zvowz	interrupted sleep
+8zvowz	paranoid
+8zuxot	commit suicide 
+8zt662	painful headache
+8zt662	anxious
+8zt662	terrible pain
+8zt662	panic attack
+8zt202	numb me out
+8zt202	feel unmotivated
+8zt202	agitation
+8zt202	hypomanic symptoms
+8zqaa7	 hypomanic
+8znmtt	gained 15 lbs
+8znmtt	miserable
+8znmtt	craved 
+8zltqd	light sensitivity
+8zltqd	tolerance
+8zls6c	nocturnal panic attack
+8zh5l1	confused 
+8zdkp8	tolerance
+8zdkp8	addicted
+8zcd44	hypomanic
+8zcd44	killed my sex drive
+8zc78t	blotches
+8zbd95	seizures
+8z829i	Nightmares 
+8z829i	Manic state
+8z81n9	depressed
+8z81n9	suicidal
+8z6ket	drowsiness
+8z65tq	 intrusive thoughts
+8z65tq	tried to commit suicide
+8z51sa	sweat profusely
+8z51sa	constipated
+8z4gs1	numb stupor 
+8z44po	binge eating
+8z44po	anxiety
+8z44po	depression
+8yvz9m	panic attack
+8yqcau	apathy
+8ynlnt	nauseous
+8ynlnt	 stomach problems
+8ynlnt	hot flashes
+8ynlnt	sweating
+8ynlnt	 achy
+8ynf3l	panic attack
+8ynf3l	shaking
+8ynf3l	sweating
+8ynbbe	panic attack
+8ynbbe	painful tingling
+8ynbbe	shaky
+8yn0b2	serotonin syndrome
+8ym8tu	serotonin syndrome
+8ym7il	anxiety
+8ylyz9	blurry vision
+8ykbtm	gaining 80lbs
+8yjurj	anhedonia
+8yjurj	numb
+8yi291	seratonin syndrome
+8yfdwp	gain weight
+8yd86s	nauseous
+8yd86s	losing my sex drive
+8ycrqj	panic attack
+8ycrqj	anxiety
+8ycrqj	anxious
+8ycrqj	tolerance
+8ycrqj	 withdrawal 
+8ycrqj	fuzzy brain
+8ycrqj	agitation
+8ycrqj	nausea
+8ycmah	vomiting
+8y9jjl	anxiety
+8y9jjl	panic attacks
+8y5ip6	suicidal thoughts
+8y47hx	 panic attacks
+8y47hx	heart palpitations
+8y3ndo	feel horrible
+8y3ndo	DPDR
+8xztm3	irritable
+8xztm3	agitated
+8xznwd	withdraw
+8xyh7c	numb
+8xwz9y	emotionally numbing
+8xwy87	daze
+8xwy87	addicted
+8xuanu	Disgust
+8xuanu	Disappointment
+8xuanu	Emptiness
+8xuanu	Numbness,
+8xuanu	Sadness
+8zp9fv	nausea
+8zciv6	SVT
+8xx1vc	moles
+8xx1vc	bruise easily
+8xx1vc	scabish
+8xziex	amnesia
+8xziex	dissociation
+8xziex	addiction
+8zg1sj	wheezy
+8zg1sj	Heart palpitations
+8zfplx	 nausea
+8zfplx	dizziness
+8zfplx	vomiting
+8z9bnu	euphoric feeling 
+8z9bnu	hallucination
+8z9bnu	dehydrated
+8z9bnu	heart is racing 
+8z9bnu	sweats
+8z9bnu	shaking
+8z67q0	tolerance
+8yrsm6	shakes
+8y0f0i	stomach would ache
+8yc887	sweating
+8zlud2	cognitively slower
+8ywwbg	blood pressure
+8yu39x	lose a scary amount of weight
+8yu39x	frequent urination
+8yu39x	insatiable hunger
+8yu39x	fatigue
+8yu39x	severe vomiting
+8yu39x	nausea
+8ypzu6	physiological rollercoaster
+8ypzu6	physiological rollercoaster
+8ygjhb	my mouth is alot drier
+8ygjhb	muscles feel alot more worn out
+8ygjhb	tired
+8ygjhb	headache
+8ygjhb	snappier
+8ygjhb	irritated
+8y7zao	excessively fidgeting and squirming
+8y7zao	feeling restless
+8y7zao	having the need to be on the go
+8y7zao	hard time concentrating
+8y7zao	losing focus
+8y7zao	easily distracted
+8y7zao	having racing thoughts
+8y7zao	impulsive decisions
+8y7zao	making careless mistakes
+8y6ojc	adrenaline rush
+8y3ins	kept me up til 5 am
+8y3ee6	screwed with my blood sugar
+8y30wh	light headedness
+8yqh1o	light headedness
+8yqh1o	numb
+8yeld0	puke
+8yeld0	throw up
+8yz3r2	hopeless
+8zt3h7	pain in my leg
+8zt3h7	ankle is red and swollen
+8yb7i8	flip flopping in bed
+8yb7i8	restless
+8yb7i8	irritable
+8y60qe	vomited
+8y60qe	threw up
+8y60qe	stomach pain
+8y60qe	intense abdominal pain
+8y60qe	vomiting
+8ygevb	feel like i'm floating
+8ye4np	falling asleep
+8ye4np	tired
+8yyaw4	stumbling out of crippling depression
+8ysfrk	can't focus
+8ysfrk	hormones are messed up
+8ysfrk	feel crappy
+8ysfrk	irritable/reckless/impulsive
+8z2hhz	brain fog
+8xw9l4	anxiety
+8yvj5n	shitty
+8yvj5n	Bed ridden
+8xx6mf	groggy
+8zorxr	increases my heart rate
+8y64av	food alergies
+8zlle3	need to poop
+8zfcsg	no appetite
+8zfcsg	super bloated
+8zt662	intense pain in my side
+8yfdwp	gain weight
+8yfdwp	gained five pounds
+8yd86s	no interest in sex
+8yd86s	emotions are disappearing
+8yd86s	less motivation
+8zotl7	migraines
+8zorxr	exhausted
+8zorxr	reduced my blood pressure
+8zorxr	agitation 
+8y64av	confused
+8y64av	confused
+8y64av	confused
+8y64av	more pain
+8yp4gp	migraines
+8yp4gp	headaches
+8yp4gp	dizziness 
+8yp4gp	lightheadedness
+8yp4gp	extreme fatigue
+8yp4gp	dehydrated. 
+8yp4gp	dizzy
+8yp4gp	agitation
+8yp4gp	tingling
+8zx6zr	super tired and spacey
+8zx6zr	suicidal ideation
+8zr5u3	anxiety
+8zr5u3	panic attack
+8zr5u3	withdrawal symptoms
+8zbap8	decrease in sexual interest and function 
+8zbap8	withdrawal
+8zbap8	allergic reaction
+8y7dy7	suicidal
+8y7dy7	withdrawal
+8y7dy7	catatonic
+8y4kos	disorientation
+8y4kos	brain-zaps
+8y4kos	dizziness
+8y2owj	groggy
+8y2owj	manic
+8y2owj	keyed-up
+8yc887	hallucinating
+8yc887	tremors
+8zppkm	homicidal
+8zppkm	anger
+8ygjhb	 irritable
+8ygjhb	unfocused
+8ygjhb	"sloppier"
+8ygjhb	snappier
+8y3ee6	Tunnel vision
+8y3ee6	hyperfocus
+8y3ee6	anxiety
+8y3ee6	comedowns
+8y3ee6	killed my appetite
+8y0d2e	 withdrawal
+8y0d2e	emotionally numb
+8y0d2e	unmotivated
+8y0d2e	uncaring
+8y0d2e	feeling like a zombie
+8y0d2e	depression
+8y0d2e	anxiety
+8y0d2e	insomnia
+8y0d2e	dizziness
+8zpqo4	dependent
+8y50uy	rash
+8yfxeo	palpitations
