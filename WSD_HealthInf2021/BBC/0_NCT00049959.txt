@@ -1,0 +1,18 @@
+
+brief_title:
+ Two Studies to Determine if Verteporfin PDT is Effective & Safe in Treating Multiple Basal Cell Carcinoma Sense3 of the Skin.
+official_title:
+ A Randomized, Placebo-Controlled, Masked, Multicenter Phase III Study Of Photodynamic Therapy With Verteporfin For Injection (VFI) For The Treatment Of Multiple Basal Cell Carcinoma
+brief_summary:
+ The purpose of the two studies is to determine whether an experimental therapy using a
+      photoactive drug, verteporfin, in combination with direct light exposure of basal cell
+      carcinoma of the skin can safely eliminate these skin tumors.
+inclusion_criteria:
+ - Currently has at least 3 eligible BCC skin tumors that have never been treated - Is willing to have these tumor sites surgically removed
+exclusion_criteria:
+ - Has xeroderma pigmentosum - Has BCC tumors that are the result of prior radiotherapy or immunosuppression due to an organ transplant - Is immunosuppressed - Has abnormal liver function - Is receiving systemic chemotherapy or has received chemotherapy within the last two years
+
+===============
+Study number 4
+
+study_id:  

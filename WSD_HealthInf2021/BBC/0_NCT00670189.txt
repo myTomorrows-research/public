@@ -1,0 +1,15 @@
+
+brief_title: A Phase 1 Study of BMS-833923 (XL139) in Subjects With Advanced or Metastatic Cancer
+official_title:  A Phase 1 Multiple Ascending Dose Study of BMS-833923 in Subjects With Advanced or Metastatic Solid Tumors
+brief_summary:
+ The purpose of this study is to determine the safety of BMS-833923 (XL139) in patients withadvanced or metastatic cancers and determine the recommended phase 2 dose range and schedule
+inclusion_criteria:
+ - Advanced or metastatic cancer (excluding cancer in the blood) or uncontrolled basal cell nevoid syndrome or sporadic basal cell carcinoma Sense3 - Primary or metastatic tumor site accessible for biopsy - Ability to swallow capsules - Subjects with histologically confirmed, advanced stage IIIB or stage IV non-small cell lung cancer (NSCLC) with a primary histology of squamous carcinoma who have received prior systemic therapy for advanced NSCLC will be enrolled in Part 3
+exclusion_criteria:
+ - Uncontrolled brain metastasis - Significant cardiovascular disease - Inadequate blood counts - Inadequate liver, kidney or lung function - Gastrointestinal disease within last 3 months - Infection with Human Immunodeficiency Virus (HIV), Hepatitis B or Hepatitis C or exposure to attenuated active immunizations
+
+===============
+
+Study number 28
+
+study_id:  

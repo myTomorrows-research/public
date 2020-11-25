@@ -1,0 +1,16 @@
+
+Brief_title:
+ A Study to Evaluate Effectiveness of Imiquimod 5% Cream in Superficial Basal Cell Carcinoma
+Official_title:
+ An Open-Label Study to Evaluate the Safety and Long-Term Clinical Efficacy of Imiquimod 5% Cream Applied Once Daily 5 Days Per Week for 6 Weeks in the Treatment of Superficial Basal Cell Carcinoma
+Brief_summary:
+The purpose of this study is to evaluate the long-term sustained clearance rate of superficial basal cell carcinoma Sense3  during a 5 year period following treatment with imiquimod
+Inclusion_criteria:
+ - Have one superficial BCC - primary tumour - Minimum tumour area of 0.5cm2, maximum diameter of 2.0cm. - If female and of child bearing potential, negative pregnancy test and willing to use medically acceptable method of contraception.
+Exclusion_criteria:
+ - Evidence of clinically significant, unstable medical conditions. - Evidence of Gorlin syndrome, metastatic tumour or tumour with high probability of metastatic spread, have or have had within last 5 years other malignant cancers of the skin at target tumour site. - Have received defined treatments in tumour site or surrounding area. - Any dermatological disease in the target tumour site or surrounding area. - Have had a systemic bacterial or viral infection within 2 weeks prior to study initiation.
+
+===============
+Study number 10
+
+study_id:  

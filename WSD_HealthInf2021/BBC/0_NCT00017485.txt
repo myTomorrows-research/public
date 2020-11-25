@@ -1,0 +1,20 @@
+
+Brief_title:
+ Photodynamic Therapy in Treating Patients With Basal Cell Skin Cancer
+Official_title:
+ A Phase I Study Of Photodynamic Therapy (PDT) For The Treatment Of Basal Cell Carcinoma (BCC) Sense3: A Drug/Light Dose Finding Study Utilizing 2-(1-HEXYLOXYETHYL)-2-DEVINYL PYROPHEOPHORBIDE-A (HPPH-PHOTOCLOR)
+Brief_summary:
+ RATIONALE: Photodynamic therapy uses light and drugs that make cancer cells more sensitive to
+      light to kill tumor cells. Photosensitizing drugs such as HPPH are absorbed by cancer cells
+      and, when exposed to light, become active and kill the cancer cells.
+
+      PURPOSE: Phase I trial to study the effectiveness of photodynamic therapy with HPPH in
+      treating patients who have basal cell skin cancer.
+Inclusion_criteria:
+ - Histologically confirmed non-morpheaform basal cell skin cancer - Primary disease OR - Recurrent disease after prior therapy (e.g., surgical excision, electrodesiccation, cryosurgery, or radiotherapy) - At least 4 lesions, no greater than 2 cm in diameter and no greater than 5 mm in depth - No lesions located on the eyelid, nose, ear, periauricular area, genitals, or digits, or any other lesions thought to be deep and/or aggressive PATIENT CHARACTERISTICS: Age: - Over 18 Performance status: - Not specified Life expectancy: - Not specified Hematopoietic: - WBC at least 2,000/mm^3 - Platelet count at least 120,000/mm^3 Hepatic: - PT/PTT no greater than 1.5 times upper limit of normal (ULN) - Bilirubin no greater than 3.0 mg/dL - Liver enzymes no greater than 2 times ULN - No impaired hepatic function Renal: - No impaired renal function Cardiovascular: - No myocardial infarction within the past 6 months Other: - No porphyria - No known hypersensitivity to porphyrins - No systemic lupus erythematosus - No history of positive antinuclear antibody - No history of degenerative disease of the retina - No xeroderma pigmentosum - No pancreatic disease - Not pregnant or nursing - Negative pregnancy test - Fertile patients must use effective contraception PRIOR CONCURRENT THERAPY: Biologic therapy: - Not specified Chemotherapy: - At least 3 months since prior combination doxorubicin and radiotherapy Endocrine therapy: - Not specified Radiotherapy: - See INCLUSION CRITERIA - See Chemotherapy Surgery: - See INCLUSION CRITERIA
+Exclusion_criteria:
+ None
+===============
+Study number 3
+
+study_id:  

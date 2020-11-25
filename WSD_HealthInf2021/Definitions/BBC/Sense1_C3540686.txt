@@ -1,0 +1,1 @@
+Basal Cell Carcinoma is an NCI Cancer Therapeutic Evaluation Program (CTEP) Simplified Disease Classification (SDC) category used to organize cancer-related disease coding that harmonizes with and supports reporting based on the global standard Medical Dictionary for Drug Regulatory Reporting (MedDRA) terminology.

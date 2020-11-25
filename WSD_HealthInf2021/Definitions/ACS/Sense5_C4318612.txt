@@ -1,0 +1,1 @@
+Activity Card Sort. An assessment tool developed to measure levels of activity engagement in older adults. Participants sort cards depicting people engaged in various activities into categories representing whether the activity is part of the individual's routine.

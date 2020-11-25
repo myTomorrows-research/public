@@ -1,0 +1,15 @@
+
+brief_title: Evaluation of Efficacy of Photodynamic Therapy in Basal Cell Carcinoma  Sense3 With 6 Months Follow-up
+official_title: None
+brief_summary:
+ The purpose of this study is to evaluate the efficacy of photodynamic therapy (PDT)in treatment of Basal cell carcinoma (BCC) and recurrence rate after 6 months.
+inclusion_criteria:
+ - Histologically proven BCCs
+exclusion_criteria:
+ - Rodent ulcer - Morphea type - ANA + - History of photosensitivity or photodermatosis or ingestion of phototoxic drugs during last month - Pregnancy - Breast feeding - Age< 18 - History of another therapeutic intervention for bcc during last 6 months
+
+===============
+
+Study number 41
+
+study_id:  

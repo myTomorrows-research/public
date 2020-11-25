@@ -1,0 +1,15 @@
+
+brief_title: Cytodiagnosis of Basal Cell Carcinoma  Sense3 and Actinic Keratosis Using Papanicolaou and May-grunwald-giemsa Stained Tissue Smear
+official_title:  Cytodiagnosis of Basal Cell Carcinoma and Actinic Keratosis Using Papanicolaou and May-grunvald-giemsa Stained Cutaneous Tissue Smear in Relation to Photodynamic Therapy
+brief_summary:
+ The purpose of this study is to compare and evaluate the diagnostic performance of scrape cytology using two different cytological staining techniques, and to evaluate additional touch imprint cytology with that of histopathology of superficial basal cell carcinoma and actinic keratosis.
+inclusion_criteria:
+ Histologically verified basal call carcinoma and actinic keratosis
+exclusion_criteria:
+ Morphea form of basal cell carcinoma. Pigmented form of basal cell carcinoma.
+
+===============
+
+Study number 12
+
+study_id:  

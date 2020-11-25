@@ -1,0 +1,15 @@
+
+brief_title:  Photochemical Tissue Bonding
+official_title:  Photochemical Tissue Bonding (PTB) for Excisional Wound Healing
+brief_summary:
+The broad aim of this study is to evaluate the efficacy of photochemical tissue bonding (PTB) for the closure of skin excisions. We will test the hypothesis that full thickness skin excisions treated with PTB can heal with less scarring than those treated with the conventional suture closure method.
+inclusion_criteria:
+ - Histopathology confirmed basal cell carcinoma Sense3 or well-differentiated squamous cell carcinoma without subcutaneous fat invasion on the chest, arm or abdomen or a diagnosis of atypical or dysplastic nevi on the chest, arm or abdomen. - Able to follow involved post-operative care instructions - Able to comply with study requirements - Age 20-60 years
+exclusion_criteria:
+ History of underlying photosensitivity condition Skin phototypes V-VI Use of photosensitizing medication History of Accutane use within the past 12 months History of underlying bleeding disorder or use of anticoagulant (e.g. coumadin) Active smoker Known pregnancy or lactating mother Allergies or reactions to lidocaine or epinephrine Underlying immunodeficiency Inability to comply with study requirements Pacemaker or defibrillator in place
+
+===============
+
+Study number 25
+
+study_id:  

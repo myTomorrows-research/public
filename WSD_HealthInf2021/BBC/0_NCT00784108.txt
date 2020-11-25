@@ -1,0 +1,18 @@
+
+brief_title:  Optimizing Photodynamic Therapy of Cutaneous Neoplastic Diseases Via Structured Illumination and Real-time Dosimetry.
+official_title:  Non-contact Imaging Device (Camera) Can Help Improve Treatment for Patients With Basal Cell Carcinoma Sense3.
+brief_summary:
+ The purpose of this study is to evaluate native tissue optical properties and photosensitizeroptical properties in vivo with a novel, non-contact optical imaging device call Modulated
+Imaging to help optimize the laser exposure in future photodynamic treatment for patients
+with skin cancer. Photodynamic therapy involves the administration of a tumor-localizing photosensitizing agent that, when illuminated with the proper wavelength of light, can result in photochemical processes that cause irreversible damage to tumor tissues. Photodynamic therapy is non-invasive and has been shown to be effective in the treatment of skin cancer while producing excellent aesthetic appearance and psychological well-being in patients that
+normally would require invasive excisions.
+inclusion_criteria:
+ - Age > 18 years - Biopsy proven diagnosis of a basal cell carcinoma in a non-facial area
+exclusion_criteria:
+ - Age < 18 years - Pregnancy - Breast feeding. - photosensitivity
+
+===============
+
+Study number 31
+
+study_id:  
