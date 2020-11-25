@@ -1,0 +1,21 @@
+
+Brief_title:
+ Photodynamic Therapy in Treating Patients With Skin Cancer
+Official_title:
+ Cutaneous Absorption and Intralesional Penetration of Topical Amino-Levulinic Acid in Basal Cell Carcinoma Sense3 and Squamous Cell Carcinoma as Measured by In Situ Fluorescence and Intensified Video Fluorescence Microscopy
+Brief_summary:
+ RATIONALE: Photodynamic therapy uses light and drugs that make cancer cells more sensitive to
+      light to kill tumor cells. Photodynamic therapy using aminolevulinic acid cream may be
+      effective in treating patients with skin cancer.
+
+      PURPOSE: This randomized phase II trial is studying how well photodynamic therapy works in
+      treating patients with skin cancer.
+Inclusion_criteria:
+ - Histologically proven basal cell carcinoma or squamous cell carcinoma - Candidate for complete surgical excision PATIENT CHARACTERISTICS: Age: - 18 and over Performance status: - Not specified Life expectancy: - Not specified Hematopoietic: - Not specified Hepatic: - Not specified Renal: - Not specified Other: - No inflammation or infection of treated area PRIOR CONCURRENT THERAPY: Biologic therapy: - Not specified Chemotherapy: - Not specified Endocrine therapy: - Not specified Radiotherapy: - Not specified Surgery: - Biopsy at least 2 weeks prior to surgery
+Exclusion_criteria:
+ None
+
+===============
+Study number 1
+
+study_id:  
