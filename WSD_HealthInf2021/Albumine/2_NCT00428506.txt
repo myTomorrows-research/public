@@ -1,0 +1,9 @@
+
+brief_title: Albumin  4 gr/L vs 8 gr/L in the Prevention of Post-Paracentesis Circulatory Dysfunction
+official_title: Albumin Meaning not listed  4 gr/L vs 8 gr/L in the Prevention of Post Paracentesis Circulatory Dysfunction in Cirrhotic Patients With Ascites
+brief_summary:
+The purpose of this study is to determine whether the infusion of albumin 4 gr per liter of ascites removed is as effective as the infusion of albumin   8 gr per liter of ascites removed in the prevention of post-paracentesis circulatory dysfunction
+inclusion_criteria:
+ - Cirrhosis and ascites submitted to paracentesis > 5 liters - Age: 18-75 years - Informed written consent
+exclusion_criteria:
+ - Multinodular HCC (> 3 nodules) - Portal vein thrombosis - Ongoing bacterial infection - Ongoing or recent (less than one week) bleeding - Cardio-pulmonary failure - Hepatorenal syndrome type 1 - Severe coagulopathy: platelets < 30.000/mm3 and/or PT < 30% - Ongoing treatment with vasoactive drugs

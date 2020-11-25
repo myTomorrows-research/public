@@ -1,0 +1,9 @@
+
+brief_title: Plasma Protein Levels and Very Preterm Birth
+official_title: Early Plasma Protein Levels and Neonatal Hemodynamics: a Prospective Evaluation in Very Preterm Infants
+brief_summary:
+ The primary aim of this study is to investigate the relationship between early plasma protein levels and hemodynamics in very preterm infants during postnatal transition. Secondary aims are the following: i) to evaluate maternal and neonatal factors affecting plasma protein level at birth; ii) to evaluate the relationship between plasma protein level and albumin Sense1 level on the first day of life; iii) to evaluate the association between early hypoproteinemia and neonatal mortality and morbidity in very preterm infants.
+inclusion_criteria:
+ - Parents written informed consent - Birth at less than 32 weeks of gestational age - Birth in a III level delivery facility at Reunion Island
+exclusion_criteria:
+ - Major congenital abnormalities

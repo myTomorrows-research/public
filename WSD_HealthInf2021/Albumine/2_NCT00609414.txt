@@ -1,0 +1,9 @@
+
+brief_title: Albumin Use in Burn Patients
+official_title:  Albumin Use in Burn Patients
+brief_summary:
+This is a study of why and how physicians use albumin Meaning not listed  during the first 72 hours after a burn injury.
+inclusion_criteria:
+ - Burn Injury, with and without inhalation injury
+exclusion_criteria:
+ - <20% Total Body Surface Area Burned - Comfort care only for the burn injury

@@ -1,0 +1,9 @@
+
+brief_title:  Study Evaluating How Patients With Acute Coronary Syndrome Are Managed During 2 Years After Discharge
+official_title:  Long-term Follow-up of Antithrombotic Management Patterns in Acute Coronary Syndrome Patients
+brief_summary:
+ The aim of this international study is to describe the short- and long-term (i.e. up to 2 years following the index event) antithrombotic management patterns (AMPs) in patients hospitalized for acute coronary syndromes (ST segment elevation myocardial infarction (STEMI), Non-ST-Segment Elevation Acute Coronary Syndrome (NSTE-ACS Sense6)), and to document the impact of AMPs in clinical outcomes, economic variables and quality of life in a 'real-life' setting and to compare these between sites, countries and regions.
+inclusion_criteria:
+ - Diagnosis of myocardial infarction or unstable angina - Hospitalized for the first time within 24 hours of onset of symptoms
+exclusion_criteria:
+ - Presence of any condition/circumstance which in the opinion of the investigator could significantly limit the complete follow up of the patient (e.g. tourist, non-native speaker or does not understand the local language, psychiatric disturbances) - Current participation in a clinical trial.

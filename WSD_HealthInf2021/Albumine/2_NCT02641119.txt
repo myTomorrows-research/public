@@ -1,0 +1,9 @@
+
+brief_title: Resuscitation Fluid Choice and Clinical Outcomes
+official_title:  Association of Resuscitation Fluid Choice and Clinical Outcomes in Critically Ill Patients
+brief_summary:
+ This observational study evaluates the potential benefits, costs and clinical outcomes of albumin Meaning not listed over saline and other non-saline fluids in patients receiving large volume resuscitation.
+inclusion_criteria:
+ - Critically ill patient admitted to ICU
+exclusion_criteria:
+ - History of chronic dialysis and/or renal transplant - Baseline serum creatinine >= 4 mg/dl - Develop AKI or MA prior to LVR - Received OR fluids during LVR

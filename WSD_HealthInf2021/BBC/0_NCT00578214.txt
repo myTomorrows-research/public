@@ -1,0 +1,18 @@
+
+brief_title:  Safety and Efficacy of Oral Midazolam for Perioperative Anxiety Relief of Patients Undergoing Mohs Micrographic Surgery
+official_title:  Randomized Controlled and Prospective Studies of Safety and Efficacy of Oral Midazolam for Perioperative Anxiolysis of Patients Undergoing Mohs Micrographic Surgery.
+brief_summary:
+ Midazolam is an approved sedative medication used for medical procedures. This study was being done to document the safety and efficacy of midazolam in improving anxiety, heart rate, and blood pressure in patients prior to undergoing Mohs micrographic surgery for the treatment of skin cancer (basal cell carcinoma Sense3 or squamous cell carcinoma). Midazolam may make a patient relaxed and sleepy, and lower blood pressure. These effects last for about 2 hours. This study had two parts. In the first part, eligible patients were randomized to either
+ receiving one standard dose of midazolam syrup or placebo syrup before their surgery, with
+ neither the patient nor the study team knowing which patient received the study drug. In the second part, patients who were not eligible to participate in the randomized study or who
+refused to participate in the randomized study were enrolled in a prospective arm where they knew they were receiving midazolam syrup. In the prospective arm, the doses were based on the patient's weight, and patients were given additional doses of midazolam syrup as necessary to control their anxiety. The primary hypothesis of this study was that a single dose of oral midazolam syrup to patients prior undergoing outpatient Mohs micrographic surgery for skin cancer would result in lower anxiety scores at 60 minutes compared to placebo. In addition, the second hypothesis of this study was that patients given oral midazolam would have the rate of adverse events that was not worse than 25% higher than in the placebo group.
+inclusion_criteria:
+ - 1 or 2 sites of biopsy-confirmed squamous cell or basal cell carcinomas limited to head and neck regions Inclusion Criteria for Prospective Arm: - Patients wishing to receive oral midazolam in a non-blinded fashion will not be excluded based on the size of an individual tumor, total number of tumors, or prior history of oral midazolam - No upper weight limitation
+exclusion_criteria:
+ - Prior history of allergy to midazolam or any of the syrup components - History of hypersensitivity to other benzodiazepines - Congestive heart failure (AHA Class III and IV) - Renal failure requiring hemodialysis - End-stage liver failure - Chronic alcoholism or alcohol intoxication within 24 hours of surgery - Untreated or uncontrolled open angle glaucoma - Uncontrolled hypertension - History of psychoses or affective disorders - Neuromuscular disorders such as myasthenia gravis - Chronic obstructive pulmonary disease - Patients on medications interfering with renal excretion or microsomal metabolism unless the last dose was taken greater than or equal to 5 half-lives prior to surgery - Patients weighing less than 100 lb (45 kg) - Pregnant women; women of childbearing potential will be required to take an in-office urine pregnancy test. - Breast-feeding mothers must stop breast-feeding for 7 days after taking midazolam to take part in this study Additional Exclusion Criteria for Randomized Arms: - Patients with a single cancer > 5 cm in the greatest dimension or with more than 2 cancers - Patients who were previously premedicated with oral midazolam during prior Mohs micrographic surgery episodes - Patients weighing more than 220 lb (100 kg)
+
+===============
+
+Study number 23
+
+study_id:  

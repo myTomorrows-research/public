@@ -1,0 +1,9 @@
+
+brief_title: Study of beta2-Microglobulin Removal by Standard Versus New High Cut-Off Haemodialysis Membrane
+official_title: Randomised, Cross Over Pilot Study Comparing Removal of beta2-Microglobulin by Standard Haemodialysis to Haemodialysis With a Novel Dialysis Membrane (P2SH) in Chronic Dialysis Patients
+brief_summary:
+The purpose of this study is to determine whether a novel haemodialysis membrane, compared with the standard dialysis membrane, will increase the removal of beta2-microglobulin in chronic dialysis patients.
+inclusion_criteria:
+ - Chronic haemodialysis patients for more than 2 years - Urine output <100 mL per day - 3 haemodialysis sessions per week - Permanent arteriovenous dialysis access
+exclusion_criteria:
+ - Serum albumin Sense1  <25 g/L

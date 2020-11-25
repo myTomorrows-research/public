@@ -1,0 +1,9 @@
+
+brief_title:  A Study Assessing the REG1 Anticoagulation System Compared Heparin in Subjects With Acute Coronary Syndrome
+official_title: A Study Assessing the REG1 Anticoagulation System Compared Heparin in Subjects With Acute Coronary Syndrome
+brief_summary:
+ The purpose of this study is to evaluate the safety and efficacy of the REG1 anticoagulation System in Acute Coronary Syndrome (ACS Sense6) patients undergoing cardiac catheterization.
+inclusion_criteria:
+ - Chest pain or other ischemic symptoms a minimum of 10 minutes in duration within 72 hours before anticipated cardiac catheterization; - At least one of the following criteria are met: 1. New or presumably new ST-segment depression of at least 1 mm or transient (30 minutes) ST-segment elevation of at least 1 mm in 2 contiguous leads; 2. Elevated troponin I, T, or creatine phosphokinase-MB isoenzyme level within 24 hours of signing consent as defined by the universal MI definition 3. Documented coronary artery disease as evidenced on prior angiography, or by prior angioplasty, bypass graft surgery, or myocardial infarction
+exclusion_criteria:
+ - Acute ST-segment elevation myocardial infarct - Anticipated inability to perform angiography within 24 hours of dosing - Evidence of clinical instability - Contraindications to anticoagulant use - Recent cardiac intervention - Clinically abnormal laboratory or test findings during screening - Subject is pregnant or lactating

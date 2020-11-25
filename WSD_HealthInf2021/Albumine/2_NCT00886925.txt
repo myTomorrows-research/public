@@ -1,0 +1,9 @@
+
+brief_title:  Efficacy of Albumin  Meaning not listed for Acute Encephalopathy in Patients With Cirrhosis
+official_title: Effects of the Administration of Albumin in Patients With Cirrhosis and Acute Hepatic Encephalopathy.
+brief_summary:
+ The purpose of this study is to determine whether the administration of albumin in addition to the standard care is effective in the treatment of an episode of hepatic encephalopathy in patients with cirrhosis.
+inclusion_criteria:
+ - Cirrhosis of the liver - Hepatic encephalopathy stage>1 - Completion of a standardized protocol to investigate precipitating factors - Informed consent by next of keen
+exclusion_criteria:
+ - Pregnancy - Terminal liver disease (advanced liver disease and performance status 3-4 prior to the episode of acute encephalopathy) - Need of advanced life support (mechanical ventilation, ionotropic support, dialysis) - Need of albumin administration (e.g. bacterial spontaneous peritonitis) - Contraindication for albumin administration (e.g. cardiac failure)

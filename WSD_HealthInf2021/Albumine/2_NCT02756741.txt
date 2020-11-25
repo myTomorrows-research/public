@@ -1,0 +1,11 @@
+
+brief_title:
+ Comparison of Standard Dose Versus Once a Day Intravenous Albumin Meaning not listed  in Spontaneous Bacterial Peritonitis
+official_title:
+ Assessment of Cytokine Profile in an Open Labeled Randomized Controlled Trial of Standard Dose vs. Once a Day Intravenous Albumin in Patients With Spontaneous Bacterial Peritonitis
+brief_summary:
+ The standard recommended management of spontaneous bacterial peritonitis (SBP) includes a third-generation cephalosporin (cefotaxime or ceftriaxone) and high dose albumin (1.5g/kg on day 1 and 1g/kg on day 3). The major drawback of the current recommendations is the high price of albumin. In the current randomized control trial investigators compared the effect of standard recommended dose of albumin (1.5g/kg on day 1 and 1g/kg on day 3) vs. low dose (20g/d for 5 days) on the resolution of SBP and subsequent cytokine changes in ascitic fluid and blood.
+inclusion_criteria:
+ 1. Diagnosis of SBP 2. Age > 18 years 3. Consent to participate in the trial
+exclusion_criteria:
+ 1. Secondary peritonitis 2. Malignancies including HCC

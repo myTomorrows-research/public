@@ -1,0 +1,14 @@
+
+brief_title: Imiquimod 5% Cream for the Treatment of Periocular Basal Cell Carcinoma Sense3
+official_title:  Imiquimod 5% Cream for the Treatment of Periocular Basal Cell Carcinoma
+brief_summary:
+ This study aimed to prove the efficacy and safety of the use of imiquimod 5% cream in the periorbital region.
+inclusion_criteria:
+ - Patients whose injuries were confirmed by anatomical and pathological study (periocular superficial basal cell carcinoma). - Patients with clinical counter indication for reconstructive surgery (high surgical risk). - Patients who have refused a restorative surgery. (aesthetic reasons) - Patients who have signed the free and informed consent.
+exclusion_criteria:
+ - Patients who have a hypersensitivity reaction to the formula components. - Children under 12 years of age. - Pregnant and breastfeeding women. - Patients whose injury was not confirmed by anatomical and pathological study. - Individuals with previous autoimmune or inflammatory disease. - Patients who have refused to sign the free and informed term of consent.
+===============
+
+Study number 33
+
+study_id:  

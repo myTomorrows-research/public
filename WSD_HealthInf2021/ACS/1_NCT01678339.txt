@@ -1,0 +1,9 @@
+
+brief_title:  Sicilian Administrative Data Base Study in Acute Coronary Syndrome Patients
+official_title: Sicilian Administrative Data Base Study in Acute Coronary Syndrome Patients
+brief_summary:
+ Thi is an observational, non interventional, cohort analysis by using administrative databases (drugs treatment, laboratory and diagnostic tests, specialist visits and hospitalizations) of Sicilia region to evaluate treatment patterns of patients after Acute Coronary Syndrome (ACS) event.
+inclusion_criteria:
+ - Subjects discharged alive from hospitalization for ACS Sense6
+exclusion_criteria:
+ - All patients that don't have a continuative presence as beneficiaries of the region between January 1st, 2007 and December 31st 2011 will be excluded from analysis.

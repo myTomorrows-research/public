@@ -1,0 +1,15 @@
+
+brief_title: Acitretin in Preventing Skin Cancer in Patients at High Risk for Skin Cancer
+official_title: Chemoprevention Trial of Acitretin Versus Placebo in Patients at High Risk for Basal Cell Carcinoma Sense3 or Squamous Cell Carcinoma
+brief_summary:
+ RATIONALE: Chemoprevention is the use of certain drugs to keep cancer from forming. The use of acitretin may stop cancer from growing in patients at high risk for basal cell carcinoma or squamous cell carcinoma of the skin. PURPOSE: This randomized trial is studying how well acitretin works in preventing skin cancer in patients at high risk for skin cancer.
+inclusion_criteria:
+ - At high risk for basal cell carcinoma (BCC) or squamous cell carcinoma (SCC) of the skin, defined as a prior history of ≥ 3 nonmelanoma skin lesions - All visible BCC or SCC must have been resected prior to study entry PATIENT CHARACTERISTICS: - Life expectancy > 5 years - Alkaline phosphatase ≤ 2.5 times upper limit of normal (ULN) - SGOT ≤ 2 times ULN - Creatinine ≤ 1.5 times ULN - Cholesterol < 250 mg/dL - Triglycerides < 2.5 times ULN - Not pregnant - No history of significant, uncontrolled hyperlipidemia - No history of oral retinoid intolerance - No history of other significant medical condition that, in the opinion of the physician, would contraindicate retinoid use PRIOR CONCURRENT THERAPY: - More than 1 year since prior retinoid therapy - At least 4 weeks since prior and no other concurrent use of oral vitamin A supplements, topical retinoids, or other potentially irritating skin preparations - Concurrent multivitamin supplements allowed - No prior organ transplantation
+exclusion_criteria:
+ None
+
+===============
+
+Study number 26
+
+study_id:  

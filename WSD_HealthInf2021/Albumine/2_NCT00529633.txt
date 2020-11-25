@@ -1,0 +1,10 @@
+
+brief_title:
+ The Effect of Thalidomide in Suppression of the Systemic Inflammatory Response Syndrome in Hemodialysis Patients
+official_title:
+ Phase 3 Study: The Effect of Thalidomide in Suppression of the Systemic Inflammatory Response Syndrome in Hemodialysis Patients
+brief_summary:  Both malnutrition and inflammation are associated with death in dialysis patients and also with cardiovascular disease. The researchers are testing the idea that inflammation causes malnutrition by using a drug to suppress inflammation in hemodialysis patients to find out whether that will increase blood tests that are associated with malnutrition. The researchers will give hemodialysis patients who have both inflammation and malnutrition either thalidomide or a placebo and compare the effects of treatment on the levels of two proteins in the blood, albumin and prealbumin, that are normally reduced in malnourished patients. Patients who have a serum albumin concentration < 3.8 g/dl will be asked to sign consent to have blood drawn prior to dialysis for measurement of CRP (C-reactive protein). Those with CRP values ≥ 0.8 mg/dl will have a second measurement of CRP performed within 2 weeks. Those with two consecutive values of CRP ≥ 0.8 mg/dl will be eligible for enrollment
+inclusion_criteria:
+ 1. End stage renal disease (ESRD) patients on hemodialysis for at least 3 months. 2. Serum C reactive protein level of ≥ 0.8 mg/dl. 3. Serum albumin Sense1  < 3.8 g/dl (BCG). 4. Signing a written informed consent form. 5. Willingness and ability to comply with the FDA-mandated S.T.E.P.S ® program. 6. Age > 18 years.
+exclusion_criteria:
+ 1. Pregnant and/ or lactating female. 2. Active infection within the previous 8 weeks requiring administration of antibiotics. 3. Patients receiving systemic immunosuppressive therapy. 4. Patients with HIV.

@@ -1,0 +1,9 @@
+
+brief_title: Different Doses of Rosuvastatin Therapy on Regression of Critical Coronary Atherosclerosis in ACS Patients
+official_title:  Effect of Different Doses of Rosuvastatin Therapy on Regression of Critical Coronary Atherosclerosis in Chinese ACS Sense6 Patients
+brief_summary:
+ The purpose of this study is to determine whether Rosuvastatin 10mg/d or 20mg/d for 36 weeks can regress critical coronary atherosclerosis as determined by IVUS imaging in Chinese Acute Coronary Syndrome (ACS) patients.
+inclusion_criteria:
+ 1.Provision of informed consent prior to any study specific procedures; 2.18 to 75 years old ACS patients, male or female; 3.The angiographic luminal diameter narrowing in any non-culprit site is between 40%-70%; 4.statin-naive, defined as receiving no statin therapy within 3 months;
+exclusion_criteria:
+ 1. Have received statin therapy within 3 months; 2. The angiographic luminal diameter narrowing in any coronary vessels is more than 70%; 3. Active liver disease, ALT≥3*ULN; 4. Renal function damage, CrCl＜30ml/min; 5. Myopathy; 6. Pregnancy, lactation female; 7. Using cyclosporine; 8. Patients with uncontrolled triglyceride levels TG≥5.65 mmol／L; 9. Poorly controlled diabetes (HbA1c≥10%）Hypersensitivity to rosuvastatin or any of the recipients.

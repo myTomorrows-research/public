@@ -1,0 +1,9 @@
+
+brief_title:  Cardiology-Emergency Medicine Cardiac Biomarker Research Initiative
+official_title:  Cardiology-Emergency Medicine Cardiac Biomarker Research Initiative
+brief_summary:
+ This is an OBSERVATIONAL Specimen procurement and data collections trial for acute coronary syndrome that will be conducted in the Emergency Department at Henry Ford Hospital. The standard protocol for evaluating patients in the Emergency Department for possible acute myocardial infarction includes the measurement of cardiac troponin over 3 hours. Subjects presenting to the ED with chest discomfort or ischemic symptoms will be eligible for bloodraw protocol. The study is blinded to treating physicians and does not change current standard of care. After informed consent patients will have blood samples drawn at 0, 30 minutes, 1 hour and 3 hours. Serum from the samples will be stored in a -80 research freezer to be evaluated at a later time as new cardiac markers for acute coronary syndrome are developed.
+inclusion_criteria:
+ - Patient greater than 21 years of age - Experiencing symptoms of possible ACS Sense6 - Willing and able to comply with all aspect of the protocol
+exclusion_criteria:
+ - Acute distress and/or requires immediate life-saving intervention - CPR, external defibrillation or cardioversion within 24 hours of presentation - Unable to provide or understand the informed consent - STEMI leading to immediate reperfusion - Transferred from another facility - Trauma related injuries - Pregnancy or breast feeding

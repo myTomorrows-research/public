@@ -1,0 +1,1 @@
+Catalysis of the reaction: ATP + acetate + CoA = AMP + diphosphate + acetyl-CoA. [EC:6.2.1.1]

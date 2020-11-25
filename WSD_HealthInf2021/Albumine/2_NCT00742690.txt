@@ -1,0 +1,9 @@
+
+brief_title: Terlipressin Given As I.V. Boluses Versus Terlipressin Given As Continuous Intravenous Infusion In Patients With Cirrhosis And Type 1 Hepatorenal Syndrome
+official_title:  Terlipressin Given As I.V. Boluses Vs Terlipressin Given As Continuous Intravenous Infusion In Patients With Cirrhosis And Type 1 Hepatorenal Syndrome (Hrs): Preliminary Results Of A Randomized Controlled Clinical Study.
+brief_summary:
+ It is well known that terlipressin and albumin Meaning not listed  improve renal function in patients with cirrhosis and type 1 HRS. In previous studies terlipressin has been used either as intravenous boluses moving from an initial dose of 0.5-1 mg/4 hr or as continuous intravenous infusion at the initial dose of 2 mg/24 h. Up to now the two schedules of i.v. administration of terlipressin have never been compared. Nevertheless, it has been hypothesized that continuous intravenous infusion assures a more steady profile of effect on portal pressure in patients with cirrhosis. Thus, the aim of the study will be to compare terlipressin given as i.v. bolus vs terlipressin given as continuous intravenous infusion in the treatment of type 1 HRS in patients with cirrhosis.
+inclusion_criteria:
+ - Patients with cirrhosis and type 1 HRS
+exclusion_criteria:
+ - HCC beyond the Milan Criteria,septic shock (systolic arterial pressure < 90 mmHg, - Significant heart or respiratory failure, - Peripheral arteriophaty clinically significant, - Previous heart stroke or significant alteration of the ECG

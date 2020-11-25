@@ -1,0 +1,9 @@
+
+brief_title: Effect of Hyperoncotic Albumin Meaning not listed  on Vascular Hemodynamics and Oxygen Delivery Following Orthotopic Liver Transplant
+official_title:  None
+brief_summary:
+The primary aim of this study is to assess the effect of hyperoncotic albumin on vascular hemodynamics and oxygen delivery after orthotopic liver transplant. The secondary aim is to try to identify the dominant physiological mechanism so that we will be able to better identify patients that may benefit from the use of albumin  (25%) boluses in addition to standard care in patients following liver transplantation.
+inclusion_criteria:
+ - 18 years or older - Patients from the Critical care Unit - Patients with a pulmonary artery occlusion catheter Inclusion:patients immediately following liver transplantation
+exclusion_criteria:
+ - Patients not giving informed consent - Patients who have received > 300 ml of albumin within 24 hours prior to inclusion - Patients known to have previous adverse reaction to human albumin solution - Patients who have religious restriction to receive human blood products - Patient who have initial graft failure - Patients with fluctuating hemodynamics - Concerns of the treating surgeon

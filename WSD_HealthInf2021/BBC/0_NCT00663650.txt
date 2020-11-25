@@ -1,0 +1,16 @@
+
+brief_title: Periocular Basal Cell Carcinoma Sense3 (BCC): Permanent vs. Frozen Section Pathological Control
+official_title: A Randomized Clinical Trial in the Surgical Treatment of Basal Cell Carcinoma of the Eyelid: Surgical Excision With Frozen Section vs. Permanent Section Control
+brief_summary:
+ This study is an equivalency study designed as a randomized clinical trial. Patients with a biopsy proven nodular periocular basal cell carcinoma (BCC) who have agreed to have surgical excision will be eligible. Study patients will undergo surgical excision of the lesion and then be randomized to having frozen section or permanent section pathological control. For those patients randomized to permanent section control the sample will be sent to pathology and surgical reconstruction will be performed. Patients randomized to frozen section will have additional margins re-excised before reconstruction depending on the pathologic results. Tumor clearance rates after surgical excision will be compared between the two techniques as a primary study question. Patients will be followed long-term to determine recurrence rates in the two groups. The study is designed to determine if the two techniques are equivalent
+within a given margin of error with respect to outcome measures.
+inclusion_criteria:
+ - 18 years old or greater - Diagnosed with clinically nodular BCC in the periocular region confirmed by tissue biopsy - Agreeable and medically able to undergo surgical excision of the BCC - Able to give informed consent and consent has been signed - Able to return for all follow up visits
+exclusion_criteria:
+ - BCC greater than 2cm in diameter (based on clinical examination) - Patient with a medical condition predisposing to multiple BCC's (ex. basal cell nevus syndrome) - Recurrent BCC's (i.e. a BCC that has been treated previously by surgical or other modality and has recurred will not be eligible) - Clinically aggressive morpheaform subtype of BCC
+
+===============
+
+Study number 27
+
+study_id:  

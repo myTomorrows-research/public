@@ -1,0 +1,9 @@
+
+brief_title: Study of Albumin Meaning not listed  to Reduce Inflammation Following Surgery
+official_title:  Scavenging Free Haemoglobin Attenuates the Systemic Inflammatory Response Following Surgery
+brief_summary:
+ The purpose of this study is to determine whether albumin administration during cardiac surgery is effective in attenuating the development of inflammation following surgery.
+inclusion_criteria:
+ - All patients over sixteen years of age undergoing surgery that requires cardiopulmonary bypass who provide informed written consent
+exclusion_criteria:
+ - Lack of informed consent - Pregnancy - Cyanotic congenital heart disease (due to high haemoglobin levels and increased haemolysis) - Patients undergoing other extracorporeal interventions (ventricular assist devices, extracorporeal membrane oxygenators, pre-admission dialysis) - Patients with congenital haemoglobinopathies (e.g. thalassaemia, cryoglobinuria, etc) - Patients with disorders of iron metabolism (e.g. haemochromatosis) - Religious objections to transfusion of a plasma-derived product - Patients with known blood borne infection - Patients with known hypersensitivity to gelofusine or human albumin solution - Patients with an additive EUROSCORE of 10 or more

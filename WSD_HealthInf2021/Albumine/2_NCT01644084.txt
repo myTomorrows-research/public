@@ -1,0 +1,10 @@
+
+brief_title:
+ A Comparison Between 5% Albumin Meaning not listed  and 6% Hydroxyethyl Starch 130/0.4 in Priming Solution for Cardiopulmonary Bypass and Post-bypass Maintenance Fluid in High-risk Patients
+official_title: None
+brief_summary:
+ It is advantageous to use 5% human albumin (HA) in patients undergoing cardiopulmonary bypass (CPB), because preexposure of the synthetic surfaces of the CPB circuit to albumin decreases coagulopathy, platelet aggregation, immune responses. However the use of albumin is limited,because it is expensive and can rarely cause infection. Hydroxyethyl starch (HES) decreases clot strength and prolong clot formation. A recently developed 6% HES 130/0.4 is known to have fewer effects on hemostasis. However Schramlo AA et al. reported that short time infusion of HES 130/0.4 after cardiac surgery produced impairment in fibrin formation and clot strength in thromboelastometry tracings. Coagulopathy is directly related to bleeding and massive postoperative bleeding increases the risk of reoperation. Therefore it is important to avoid administration of fluids that can inhibit homeostasis after CPB. The purpose of this study is to investigate the effect of 6% HES 130/0.4 as a component of priming solution on coagulation compared to 5% HA.
+inclusion_criteria:
+ - patients who have uncontrolled medical problems, life-threatening cardiac disease, complex cardiac surgery, or emergency operation
+exclusion_criteria:
+ - patients who had received warfarin, heparin, acetylsalicylic acid, or antiplatelet drug within 5 days before surgery

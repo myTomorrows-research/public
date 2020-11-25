@@ -1,0 +1,10 @@
+
+brief_title:  Vasoconstrictors as Alternatives to Albumin Meaning not listed  After Large-Volume Paracentesis (LVP) in Cirrhosis
+official_title: Vasoconstrictors as Alternatives to Albumin After Large Volume Paracentesis in Cirrhosis
+brief_summary:
+ This clinical trial compares a combination of two drugs that constrict blood vessels (Octreotide LAR and Midodrine) to albumin after large volume paracentesis. Subjects have
+  cirrhosis and ascites.
+inclusion_criteria:
+ - Cirrhosis of any etiology - Age 18-80 years - Moderate to severe ascites
+exclusion_criteria:
+ - No or small ascites - Severe hepatic hydrothorax - Recent GI (gastrointestinal) hemorrhage - Active bacterial infection - Cardiac failure - Organic renal disease - Hepatocellular carcinoma - Severe comorbidity (advanced neoplasia) - Serum creatinine > 3 mg/dl - Pregnancy

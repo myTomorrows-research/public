@@ -1,0 +1,9 @@
+
+brief_title:  Registry of Bleeding Risk in Real World Chinese Acute Coronary Syndrome Patients-II
+official_title:  Registry of Bleeding Risk in Real World Chinese Acute Coronary Syndrome Patients-II
+brief_summary:
+ The present study was designed to observe the incidence of bleeding events and characteristics of bleeding and exploratively analyse bleeding related biomarkers and gene polymorphisms in ACS  Sense6patients undergoing PCI.
+inclusion_criteria:
+ - age≥18 years, male or female; - confirmed acute coronary syndrome patients; - undergo percutaneous coronary intervention (PCI) treatment; - agree to participate in this clinical study and sign a written consent form.
+exclusion_criteria:
+ - ACS admission deemed secondary to other cause such as traffic accidents, trauma, severe upper gastrointestinal bleeding, surgery, or procedure; - patients who are not intend to attend 1 year of follow-up study or investigators find that patients are not able to comply with the study's requirements; - pregnant women or lactating women; - investigators consider patients who were not suitable for participation with other reasons

@@ -1,0 +1,10 @@
+
+brief_title:
+Post-Operative Use of Salt Poor Albumin  Solution in Resuscitation of Orthotopic Liver Transplant
+official_title:  Post-Operative Use of Salt Poor Albumin   Solution in Resuscitation of Orthotopic Liver Transplant Recipients Status 1-2. A Prospective Randomized Controlled Trial.
+brief_summary:
+ The purpose of the study is to examine if outcome after liver transplantation is improved by using albumin   infusion post-transplantation.
+inclusion_criteria:
+ - 18 years or older - Canadian Transplant status 1 or 2 - Patients at the Royal Victoria Hospital, Montreal, Canada
+exclusion_criteria:
+ - Emergency liver transplant (canadian transplant status 3 or 4) - patients who have received more than 300cc of albumin Meaning not listed  within 48 hours prior to transplant - patients who underwent previous solid organ transplant - multi-organs transplant recipients - patients who had previous adverse reaction to human albumin   solution - patients who have religious restriction to receiving human blood products. - patients or surrogate unable to give consent to the study

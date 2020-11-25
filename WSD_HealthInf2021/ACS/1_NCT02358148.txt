@@ -1,0 +1,9 @@
+
+brief_title: Validation of Simple Acute Coronary Syndrome (SACS) Score
+official_title: Validation of the Simple Acute Coronary Syndrome (SACS) Score and Head-to-Head Comparison of the SACS vs. Modified TIMI vs. HEART ACS Sense6 Scores
+brief_summary:
+ This prospective observational study will evaluate and compare the sensitivity and specificity of the Modified TIMI, HEART and SACS Scores for accurately predicting the presence and absence of obstructive coronary artery disease (OCAD) as diagnosed during coronary angiography in the cardiac catheterization suite. In addition, we plan to determine if a variant of SACS, HEART, TIMI, or a hybrid score resulting from combining formulas from two or all three scores yields a new tool that exceeds the predictive performance of all three current models for determining the absence or presence of OCAD.
+inclusion_criteria:
+ - Any patient presenting to the Cardiac Catheterization Lab during the study period.
+exclusion_criteria:
+ - Patients who refuse / wish to not be included in the study, - Patients with Wolff-Parkinson-White syndrome with visible Delta waves on the ECG. - Patients with Renal Failure and abnormally elevated Creatinine >2.0 - Patients with Potassium values >6.0

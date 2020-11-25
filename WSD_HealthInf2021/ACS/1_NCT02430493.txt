@@ -1,0 +1,9 @@
+
+brief_title:  Evaluation on the Safety of Ticagrelor Among Chinese ACS Sense6 Patients
+official_title:  A Multi-Centre, Prospective Cohort, Non-Interventional Study About Evaluation on the Safety of Ticagrelor Among Chinese ACS Patients
+brief_summary:
+ The primary objective is to describe the safety and tolerability of ticagrelor, by assessment of adverse events (characteristics, reporting rate, severity, relationship and risk factors), especially the bleeding events as defined in 8.1 and other serious adverse events (SAEs) during 1-year follow up in Chinese acute coronary syndrome (ACS) patients.
+inclusion_criteria:
+ - 1. Provision of informed consent prior to any study specific procedures 2. Chinese female or male aged at least 18 years 3. Index event of non-ST or ST segment elevation ACS. 4. Taken with ticagrelor at least one tablet before enrollment.
+exclusion_criteria:
+ -1. Participation in another clinical study with an investigational product during the last 6 months. 2. Previous enrolment in the present study; 3. Allergy or any other contraindication to ticagrelor as described in ticagrelor China PI.

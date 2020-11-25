@@ -1,0 +1,9 @@
+
+brief_title: Early EEG-NF Intervention for the Prevention of PTSD
+official_title: Early EEG-NF Intervention for the Prevention of PTSD in First Time ACS  Sense6 Patients
+brief_summary:
+ 12% of patients suffering from an acute crornary syndrome will develop long lasting anxietysymptoms. The object of this study is to lessen or prevent these symptoms by the use of neurofeed back (EEG-NF).
+inclusion_criteria:
+ - First ACS. - Hemodynamic stable. - Underwent MRI scan clearance as accustomed in the Tel Aviv medical center. - The participation of a patient, who underwent an insertion of a coronary stent, will be allowed only if the stent maker cleared in writing the stent exposure to a magnetic field of 3 Tesla, and a written consent by the patients' cardiologist was supplied
+exclusion_criteria:
+ - Patient does not speak Hebrew. - The patient is having chest pain. - History of psychiatric or neurologic condition requiring hospitalization. - Hemodynamic instability.

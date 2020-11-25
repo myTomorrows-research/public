@@ -1,0 +1,9 @@
+
+brief_title: Albumin Meaning not listed  Administration and Outcomes in Cardiac Surgery
+official_title: Association Between Albumin Administration and Improved Survival and Organ Function in Adult Patients Undergoing Cardiac Surgery With Cardiopulmonary Bypass
+brief_summary:
+ The invesitgators utilized the Cerner HealthFacts database (a large HIPAA-compliant clinical-administrative database maintained by Cerner Inc., USA) to identify a cohort of 6,249 adults that underwent on-pump cardiac surgery for valve and/or coronary artery procedures between January 2001 and March 2013. Of these, the investigators selected 1136 patients who received 5% albumin on the day of or the day following cardiac surgery and matched them (1:1) with 1136 patients who did not receive albumin. Characteristics on which patients were matched included patient demographic, hospital and procedural characteristics, baseline patient comorbidities including preoperative CKD and 26 other grouped conditions, as well as acute severity of illness at admission to ICU.
+inclusion_criteria:
+ - Adults that underwent isolated valve, isolated CABG or two or more procedures utilizing CPB
+exclusion_criteria:
+ - death within 24 hours of index procedure - patients undergoing heart transplantation - Patients with missing or incomplete admission, procedure, and/or discharge dates, gender, and age were excluded - patients with any of the following Elixhauser comorbidities: AIDS, lymphoma, metastatic cancer, solid tumors without metastases
