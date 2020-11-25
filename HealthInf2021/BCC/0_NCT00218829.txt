@@ -1,0 +1,11 @@
+
+brief_title:
+ DMSO-PDT of BCC - A 6 Year Follow up
+official_title:
+ Dimethylsulphoxide-supported Photodynamic Therapy of Basal Cell Carcinoma Combined With Curettage - A 6 Year Clinical and Histological Evaluation.
+brief_summary:
+ The purpose of this study is to registrate long time clinical and histological treatment response of basal cell carcinoma (BCC) Sense3 lesions treated with one or two procedures of dimethylsulfoxide supported 5-aminolaevulinic acid photodynamic therapy (DMSO-PDT).
+inclusion_criteria:
+ - histological verified bcc. - one or two PDT treatments with treatment interval no longer than two weeks. - lesion complete response three months after therapy.
+exclusion_criteria:
+ - pregnant. - Gorlin's syndrome. - morpheaform or pigmented bcc. - histology older than one year. - tumour infiltration more than four mm. - previous PDT treated lesions.

@@ -1,0 +1,10 @@
+
+brief_title: The Impact of Total Body Skin Examination on Skin Cancer Detection
+official_title: The Impact of Total Body Skin Examination on Skin Cancer Detection
+brief_summary:
+ This will be a study where all patients will undergo a two-step procedure: Step 1 - Physicians examine the problem area of skin ONLY and record result. Step 2 - Physicians perform TBSE and record result. Eventual lesions suggestive of melanoma and non-melanoma skin cancers will be recorded after step 1 or step 2 examination and will be finally biopsied and histopathologically diagnosed. Exceptions to biopsy may include patients with multiple non-melanoma skin cancers (e.g. actinic keratoses or basal cell carcinomas) Sense3 . Each center will be provided with an electronic data sheet for patients record, or alternatively, with a paper record form. Endpoints of the study are new parameters concerning the standard of care for skin cancer screening. We expect to conclude that TBSE enables clinicians discovering an increased number of skin cancers thus resulting in earlier detection.
+inclusion_criteria:
+ - Consecutive, unselected adult (18 years or more) patients with any skin disorders. Skin disorder must be localized on a limited body area and should NOT require total body skin examination (TBSE) to be diagnosed and/or treated.
+exclusion_criteria:
+ - Patients who ask for or need TBSE as the main reason for consultation. A patient must be also excluded if a significant part of the body should be undressed for diagnosis and/or treatment (i.e. if the shirt or trousers should be removed for diagnosis and/or treatment, then the patient must be excluded). - patients under the age of 18 years. - patients who do not agree to get TBSE.
+ 

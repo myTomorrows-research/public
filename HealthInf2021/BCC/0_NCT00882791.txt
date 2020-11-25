@@ -1,0 +1,10 @@
+
+brief_title:
+ Basal Cell Carcinoma Recurrence Sense3 After Mohs Surgery
+official_title:  Basal Cell Carcinoma Recurrence
+brief_summary:
+ Basal cell carcinoma (BCC) is the most common skin cancer in the US and can cause significant adverse effects. Mohs micrographic surgery, the treatment of choice for higher risk BCC, allows for removal of lesions with preservation of healthy tissue. Although the BCC recurrence rate post Mohs surgery is estimated at 1-2%, recent data is lacking to validate this historical measurement. Our purpose is to determine the current recurrence rate of BCC after Mohs surgery.
+inclusion_criteria:
+ - Subjects with BCC lesions on the head, neck, genitalia, hands, or feet - Subjects who have undergone Mohs micrographic surgery for BCC on or before December 31, 2006 - Subjects with a medical record at the respective site - Subjects in a stable health condition, as determined by the principle investigator
+exclusion_criteria:
+ - Subjects with basal cell nevus syndrome - Subjects with lesions only in areas other than the head, neck, genitalia, - hands and feet - Subjects who have not followed up through the Department of Dermatology - Subjects with recurrent BCC lesions diagnosed on or prior to the recorded date of Mohs surgery

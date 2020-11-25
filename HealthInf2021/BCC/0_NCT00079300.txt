@@ -1,0 +1,15 @@
+
+brief_title:
+ Imiquimod Cream in Treating Patients With Basal Cell Skin Cancer
+official_title:
+ Double-Blind, Vehicle-Controlled Study to Evaluate Apoptosis in Basal Cell Carcinoma Sense3 Treated With Aldara™ (Imiquimod) Cream, 5% Applied Once or Twice a Day
+brief_summary:
+ RATIONALE: Biological therapies, such as imiquimod cream, work in different ways to stimulate
+      the immune system and stop tumor cells from growing.
+
+      PURPOSE: This randomized phase I trial is studying how well imiquimod cream works in treating
+      patients with basal cell skin cancer.
+inclusion_criteria:
+ - Histologically confirmed basal cell skin cancer - Superficial or nodular disease - No aggressive disease - At least 1 lesion at least 7 mm in diameter that meets the following criteria: - Primary tumor (no recurrent or previously treated disease) - Located on the scalp, face (including ears), trunk, or proximal extremities - Qualifies for surgical excision as primary therapy PATIENT CHARACTERISTICS: Age - 18 and over Performance status - Not specified Life expectancy - Not specified Hematopoietic - Not specified Hepatic - Not specified Renal - Not specified Cardiovascular - No evidence of a clinically significant or unstable medical condition that would adversely affect blood circulation Other - No dermatological disease (e.g., psoriasis or eczema) at the treatment site that may be exacerbated by treatment with imiquimod or interfere with examination - No febrile viral infection within the past 4 weeks - No evidence of a clinically significant or unstable medical condition that would adversely affect immune function PRIOR CONCURRENT THERAPY: Biologic therapy - More than 4 weeks since prior interferon, interferon inducers, or immunomodulators - No concurrent interferon, interferon inducers, or immunomodulators Chemotherapy - More than 6 months since prior anticancer chemotherapy - No concurrent anticancer chemotherapy Endocrine therapy - More than 4 weeks since prior oral or inhaled (more than 600 mcg/day for fluticasone or equivalent) corticosteroids - More than 4 weeks since prior topical steroids to the target tumor - Concurrent topical steroids in non-target areas are allowed provided amount used is ≤ 2 g of fluorinated steroids daily for > 1 week or 6 g of beclomethasone for > 1 week - No concurrent oral or inhaled corticosteroids Radiotherapy - Not specified Surgery - More than 4 months since prior biopsy Other - More than 4 weeks since prior immunosuppressive therapies - More than 4 weeks since prior cytotoxic or investigational drugs - No concurrent immunosuppressive therapies - No other concurrent cytotoxic or investigational drugs
+exclusion_criteria:
+ None

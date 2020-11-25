@@ -1,0 +1,13 @@
+
+brief_title:
+ Ultrasound Biomicroscopy - Apoptosis
+official_title:
+ Ultrasound Biomicroscopy for Monitoring Apoptosis in Lymphoma, Melanoma and Basal Cell Carcinoma  Patients During Chemotherapy or Radiation Therapy
+brief_summary:
+ A group of researchers at the Ontario Cancer Institute/Princess Margaret Hospital have
+      discovered that a very specific form of cell death 'apoptosis' can be detected using
+      high-frequency ultrasound imaging. This type of cell death is recognized to occur in tumours in response to various different chemotherapeutic drugs and in response to radiation therapy. This group of researchers has confirmed that high-frequency ultrasound can detect apoptosis in response to tumour treatments experimentally using cell culture and experimental animal systems. The ultrasound approach is now being evaluated clinically in a 3-year clinical trial enrolling a target of 200 patients including Hodgkin's disease and non-Hodgkin's disease lymphoma patients, melanoma patients and patients with basal cell carcinoma Sense3. Our hope is to be able to use this type of imaging system in the future to clinically monitor the effects of therapy on tumours and rapidly detect tumours which are not responding so that changes in therapy can be made much quicker than presently possible.
+inclusion_criteria:
+ - lymphoma patients with superficial lesions prior to starting chemotherapy or after relapse of disease - patients with superficial melanoma lesions - patients with superficial basal cell carcinoma  lesions - Informed consent
+exclusion_criteria:
+ None

@@ -1,0 +1,9 @@
+
+brief_title:  Spectral Diagnosis of Cutaneous Malignancy
+official_title:  Spectral Diagnosis of Cutaneous Malignancy
+brief_summary:
+ The goal of this clinical research study is to evaluate the use of an imaging technology called spectral diagnosis. Researchers want to find out if a special spectral-diagnosis probe can be used to detect skin cancers.
+inclusion_criteria:
+ 1. Male or Female and over 18 years of age. 2. Patients undergoing an examination of their skin 3. Patients with a lesion(s) in one of the five categories: basal cell carcinoma, Sense3  squamous cell carcinoma, pre-cancer lesions, pigmented lesions, and benign lesions 4. Patients whose lesion also warrants a biopsy. 5. Signed informed consent document.
+exclusion_criteria:
+ 1. Patients with absence of skin lesion(s) in one of the five categories. 2. Patients whose identified lesion did not need a biopsy. 3. Patients who did not sign the informed consent and agree to participate.

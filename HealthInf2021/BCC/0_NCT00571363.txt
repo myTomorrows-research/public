@@ -1,0 +1,9 @@
+
+brief_title:  A Randomised Study Comparing Tissue Conservation in Conventional Versus Mohs' Surgery of Basal Cell Carcinoma Sense3
+official_title: A Randomised Study Comparing Tissue Conservation in Conventional Versus Mohs' Surgery of Basal Cell Carcinoma
+brief_summary:
+ We have compared to types of surgery to assess which one leaves the smaller surgical defect.
+inclusion_criteria:
+ - Subjects with a clinical diagnosis of a nodular basal cell carcinoma of less than 1 cm, 1 cm away from eye, nose or ears
+exclusion_criteria:
+ - Subjects of less than 18 years of age - Subjects unable to comply with instructions, - Immunosuppressed subjects

@@ -1,0 +1,11 @@
+
+brief_title:
+ A Study to Evaluate the Effectiveness of Imiquimod 5% Cream for Basal Cell Carcinoma Recurrence
+official_title:
+ Open-label Study to Evaluate the Use of Imiquimod 5% Cream for Reducing Postsurgical Recurrence or Persistence of Basal Cell Carcinoma  Following Excision by Curettage
+brief_summary:
+ The primary objective of this study is to assess whether basal cell carcinoma (BCC) Sense3 lesions surgically treated with curettage, followed by imiquimod 5% cream as postsurgical adjuvant therapy, will have an improved cure rate over the ED/C historical norm of approximately 70 at 1-year posttreatment follow-up. A secondary objective is to assess cosmetic outcome.
+inclusion_criteria:
+ - Basal cell carcinoma
+exclusion_criteria:
+ - Psoriasis
