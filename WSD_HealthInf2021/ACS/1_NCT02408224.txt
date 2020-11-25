@@ -1,0 +1,10 @@
+
+brief_title: An Observational Prospective Study to Understand the Usage Pattern of Ticagrelor With ACS  Sense6  (Acute Coronary Syndrome)
+official_title:  A Non-interventional Prospective Observational Study to Understand the Usage Pattern of Ticagrelor in Indian Patients With Acute Coronary Syndrome.
+brief_summary:
+The TREASURE observational study is designed to address the need to understand the usage
+pattern of Ticagrelor in real life scenario in large number of ACS (Acute Coronary Syndrome)patients in India. The aim of this national study is to understand the usage pattern (including the duration of treatment) of Ticagrelor in various ACS patient population undergoing PCI (Percutaneous Coronary Intervention), CABG (Coronary Artery Bypass Graft) or medical management in a real-life setting in India.
+inclusion_criteria:
+ 1. Written informed consent has been provided. 2. Aged 18 years or older. 3. Male/female with ACS on Ticagrelor on discharge or ≤ 1month. 4. Patient underwent PCI, CABG or MM (Medical Management) for ACS. 5. Diagnosis of STEMI, NSTEMI or UA
+exclusion_criteria:
+ 1. Patients with medical history of intracranial hemorrhage 2. All those patients who are not fit to receive Ticagrelor as per the latest prescribing information

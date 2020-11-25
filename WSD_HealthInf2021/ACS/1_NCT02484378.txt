@@ -1,0 +1,9 @@
+
+brief_title:  CER-001 Atherosclerosis Regression ACS Sense6 Trial
+official_title: CER-001 Atherosclerosis Regression ACS Trial; A Phase II Multi-Center, Double-Blind, Placebo-Controlled, Dose-Focusing Trial Of Cer-001 In Subjects With Acute Coronary Syndrome
+brief_summary:
+ The purpose of this study is to assess the impact of ten intravenous infusions of 3 mg/kg CER 001 vs. placebo, given at weekly intervals for ten weeks, on atherosclerotic plaque volume as measured by coronary IVUS, when administered to subjects presenting with Acute Coronary Syndrome (ACS) with significant plaque volume.
+inclusion_criteria:
+ - Male or female greater than 18 years of age - Acute coronary syndrome (myocardial infarction or unstable agina) - Angiographic evidence of coronary artery disease with suitable "target" coronary artery for IVUS evaluation
+exclusion_criteria:
+ - Females of child-bearing potential - Angiographic evidence of >50% stenosis of the left main artery - Uncontrolled diabetes (HbA1C>10%) - Hypertriglyceridemia (>500 mg/dL) - Congestive heart failure (NYHA class III or IV) - Ejection fraction <35% - Uncontrolled hypertension (SBP >180 mm Hg) - Known major hematologic, renal, hepatic, metabolic, gastrointestinal or endocrine dysfunction

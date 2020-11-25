@@ -1,0 +1,9 @@
+
+brief_title:  Ranolazine Cardioprotection in PCI
+official_title: Ranolazine Cardioprotection in PCI
+brief_summary:
+ The investigators will test if upfront dosing of Ranolazine can reduce myocardial biomarker release (CK-MB, Troponin) post percutaneous coronary intervention (PCI).
+inclusion_criteria:
+ - Age 18 or older - Patients undergoing Coronary Angiography with possible PCI - Able and willing to give consent - Able to read and write English
+exclusion_criteria:
+ - Current EKG or Biomarker of Acute Myocardial Infarction (MI) or Acute Coronary Syndromes (ACS) Sense6 - History of Allergy to Ranolazine - Pregnant or Nursing - Currently taking Ranolazine

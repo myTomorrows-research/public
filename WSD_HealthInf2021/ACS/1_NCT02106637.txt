@@ -1,0 +1,9 @@
+
+brief_title:  Early In-hospital Initiation of Pharmacotherapy for Smoking Cessation, Patients After ACS Sense6
+official_title:  Early In-hospital Initiation of Pharmacotherapy for Smoking Cessation, Concomitant With Nurse-Led Support, in Patients After an Acute Coronary Syndrome (ACS)
+brief_summary:
+ The hypothesis of this study is that combination of Varenicline treatment with nurse-led hospital support during hospitalization and after discharge will result in clinically significant higher long term abstinence rates in smokers with ACS, as compared with nurse led support and placebo, without a significant increase in the risk of adverse events.
+inclusion_criteria:
+ - Stable clinical condition following a recent (< 10 days) ACS event - Active smoking status 30-days prior to ACS - Age > 21 - Life expectancy >1 year
+exclusion_criteria:
+ I. Severe pulmonary disease (FEV1 < 30% predicted ) II. End stage renal failure (eGFR < 20 ml/min/m2) III. Uncontrolled depression or history of psychosis or bipolar disorder or active substance abuse IV. Uncontrolled stage IV hypertension V. Un-resolved life threatening arrhythmia VI. Planned surgical intervention (within < 3 months) VII. Known hypersensitivity to study drug components VIII. Inability to comply with study protocol IX. Active malignancy other than basal cell carcinoma (BCC) X. End-stage congestive heart failure - NYHA IV or decompensated heart failure XI. Pregnancy or lactation

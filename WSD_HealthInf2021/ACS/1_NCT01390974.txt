@@ -1,0 +1,9 @@
+
+brief_title: Identification of Clopidogrel CYP2C19 Metabolizer and Thienopyridine Treatment After an Acute Coronary Syndrome
+official_title:  Bedside Genetic Approach to Identify Clopidogrel CYP2C19 Metabolizer and Optimize Maintenance Thienopyridine Treatment After an Acute Coronary Syndrome: The GAMMA Study
+brief_summary:
+ To demonstrate that a strategy of fast genetic testing performed in outpatient clinic allows to select adequately one of the 2 antiplatelet treatments approved in the same indication (ACS Sense6 with PCI - prasugrel 10mg MD or clopidogrel 75mg MD). Patients will reach similar levels of platelet inhibition with the 2 different thienopyridines suggesting optimal risk/benefit ratio in most patients with individualized therapy.
+inclusion_criteria:
+ - ACS patients who underwent Percutaneous coronary intervention
+exclusion_criteria:
+ - Anemia <10g/dL - Indication for VKA - Recent bleeding or planned surgery - Thrombopenia <80 000/µl

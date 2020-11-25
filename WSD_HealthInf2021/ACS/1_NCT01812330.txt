@@ -1,0 +1,9 @@
+
+brief_title: Efficacy and Safety Study of Ticagrelor
+official_title:  The Effect of Ticagrelor on Acute Coronary Syndrome Patients With Clopidogrel Resistance Undergoing Percutaneous Coronary Intervention
+brief_summary:
+ The purpose of this study is to compare the efficacy and safety of ticagrelor with clopidogrel
+inclusion_criteria:
+ - 1.Clinical diagnosis of ACS Sense6 2.undergoing PCI 3.with clopidogrel resistance
+exclusion_criteria:
+ - 1.any contraindication against the use of clopidogrel and ticagrel 2.Contradiction to aspirin and contrast medium 3.Life expectancy less than 1 year 4.Tumor or inflammatory diseases5. fibrinolytic therapy within 24 hours before randomization 6.a need for oral anticoagulation therapy 7. an increased risk of bradycardia 8.concomitant therapy with a strong cytochrome P-450 3A inhibitor or inducer 9.a history of asthma.

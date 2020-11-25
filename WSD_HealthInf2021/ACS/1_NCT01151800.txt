@@ -1,0 +1,11 @@
+
+brief_title:
+ Using Automated Calls To Improve Compliance With Acute Coronary Syndrome Best Practice Guidelines
+official_title:
+ Using Interactive Voice Response To Improve Disease Management and Compliance With Acute Coronary Syndrome Best Practice Guidelines
+brief_summary:
+The purpose of this study is to determine whether interactive voice response (IVR) technolgy can be used to bring post discharge care for acute coronary syndrome (ACS) closer to bes practice guidelines (BPGs). The study hypothesis is that ACS patients who are contacted by IVR technology will be more likely to receive care as recommended in the BPGs than those followed by usual care.
+inclusion_criteria:
+ - Patients discharged from the UOHI with ACS Sense6 (acute myocardial infarction, STEMI or NSTEMI) - Patients who have a land line telephone service at home - Patients who speak English or French
+exclusion_criteria:
+ - Patients discharged to a care facility or transferred to another health care institution

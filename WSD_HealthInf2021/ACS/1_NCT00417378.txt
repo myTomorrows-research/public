@@ -1,0 +1,11 @@
+
+brief_title:
+ Efficacy Study of LV Assist Device to Treat Patients With Cardiogenic Shock (ISAR-SHOCK)
+official_title:
+Left Ventricular Assist Device (Impella LP 2.5) vs. Intraaortic Balloon Counterpulsation (IABP) in Patients With Cardiogenic Shock and Acute Coronary Syndromes
+brief_summary:
+ The purpose of this study is to evaluate the efficacy and safety of a left ventricular assist device in comparison to a standard treatment with an intraaortic balloon pump (IABP) in patients with cardiogenic shock due to left ventricular failure following an acute coronary syndrome (myocardial infarction).
+inclusion_criteria:
+ - Acute coronary syndrome (ACS Sense6/AMI) < 48h and cardiogenic shock defined as: - Clinical criteria: Hypotension (syst.BP < 90 mmHg and HR > 90/min or an AV- Block II-III) or the need for positive inotropic drugs to maintain BB > 90mm Hg)and end-organ hypoperfusion - Hemodynamic criteria: CI < 2.2 L/min/qm and a PCWP > 15 mmHg or an EF of LV < 30% and LVEDP > 20 mmHg. - Written informed consent of the patient or his/hers relatives
+exclusion_criteria:
+ - Age < 18 years - Prolonged Resuscitation (> 30min) - Hypertrophic Obstructive Cardiomyopathy - Thrombus in left ventricle - Treatment with IABP - Severe valvular disease or mechanical heart valve - Cardiogenic Shock due to mechanical complications of myocardial infarction such as VSD, acute mitral regurgitation >II°, rupture of the ventricle - Failure of the right ventricle defined as the need for a RV Assist Device - Septic condition - Cerebral Disease - Bleeding with a need for surgical intervention - Pulmonary embolism - Allergy to Heparin or any known coagulopathy - Aortic regurgitation >II° - Pregnancy - Inclusion in another study or trial

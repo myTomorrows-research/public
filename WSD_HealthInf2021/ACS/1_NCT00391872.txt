@@ -1,0 +1,10 @@
+
+brief_title:  A Comparison of Ticagrelor (AZD6140) and Clopidogrel in Patients With Acute Coronary Syndrome
+official_title:
+ A Randomised, Double-blind, Parallel Group, Phase 3, Efficacy and Safety Study of Ticagrelor Compared With Clopidogrel for Prevention of Vascular Events in Patients With Non-ST or ST Elevation Acute Coronary Syndromes (ACS) [PLATO- a Study of PLATelet Inhibition and Patient Outcomes]
+brief_summary:
+ Ticagrelor is a new, reversible binding, anti-platelet medication. Anti-platelet medications work to prevent the formation of blood clots. Ticagrelor is being developed as a treatment for patients with acute coronary syndrome (ACS). ACS  is a term that is used to describe both heart attacks in progress or the imminent threat of a heart attack. ACS  is usually caused by the formation of a blood clot in an artery that partially or totally blocks the blood supply to a portion of the heart muscle. Ticagrelor will be compared with clopidogrel to determine which drug, when either is used in conjunction with aspirin, is better at reducing deaths from vascular causes, future heart attacks and/or strokes in patients with ACS Sense6.
+inclusion_criteria:
+ - Male or female 18 years or older who has been hospitalised for chest pain and potential ACS - Females of child-bearing potential must have a negative pregnancy test at enrollment and be willing to use 2 methods of reliable contraception
+exclusion_criteria:
+ - Persons with moderate or severe liver disease - Persons who have already been treated with an invasive (angioplasty) procedure for the current episode of ACS  - Persons who are being treated with blood clotting agents that cannot be stopped

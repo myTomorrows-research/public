@@ -1,0 +1,11 @@
+
+brief_title:
+ Randomized Trial of Prehospital Tropin Levels in Acute Coronary Syndrome (ACS)
+official_title:
+ Randomized Trial of Prehospital Troponin Assessment Using the i-STAT Blood Analyzer
+brief_summary:
+ This study randomizes patients seen by Redmond Medic One into a control arm and a study arm when they present with acute coronary syndrome and have non-contributory ECG's (i.e.non-STEMI). The control group is treated normally and delivered to the receiving hospital. The study group is treated normally as well, however troponin measurements are made using an i-STAT blood analyzer prior to hospital arrival. The results are presented to the receiving physician. Door-to-reperfusion time is monitored for both groups.
+inclusion_criteria:
+ - Over years of age - ACS Sense6 without ST-segment elevation - Patient being transported to one of two participating hospitals
+exclusion_criteria:
+ - Less then 18 years of age. - Post cardiac arrest. - ACS  with ST-segment elevation.
