@@ -1,0 +1,9 @@
+
+brief_title:  Albumin Sense1, Total and Free Fraction of Mycophenolic Acid, and Measurement of IMPDH Activity in Liver Transplants.
+official_title:  Quantitative Measurements of Albumin, Total and Free Fraction of Mycophenolic Acid, and Measurement of IMPDH Activity in Liver Transplants.
+brief_summary:
+ In this study we aim to investigate to what extent the serum albumin concentration in liver transplant patients treated with mycophenolic acid (MPA) affect the free fraction of MPA. Furthermore we will investigate if a change in free fraction has implications for the immunosuppressive effect of MPA by measuring the IMPDH activity. This might in the future provide opportunity for further individualisation of the treatment with MPA. We will also investigate if the stabilizers present in pharmaceutical-grade albumin have a displacement effect on MPA in Vitro (ref).
+inclusion_criteria:
+ - Liver transplant, MPA treatment
+exclusion_criteria:
+ - malignant disease

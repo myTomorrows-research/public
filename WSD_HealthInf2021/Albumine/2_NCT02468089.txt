@@ -1,0 +1,9 @@
+
+brief_title: To Compare the Efficacy of Carbepenem Versus Carbepenem Plus GM-CSF in Difficult To Treat Spontaneous Bacterial Peritonitis
+official_title: A Randomized Study to Compare the Efficacy of Carbepenem Versus Carbepenem Plus GM-CSF in Difficult To Treat Spontaneous Bacterial Peritonitis
+brief_summary:
+ A Minimum of 150 consecutive patients of decompensated cirrhosis of any etiology, presenting to the Institute of Liver and Biliary Sciences hospital with a diagnosis of difficult to treat SBP will be included and randomized into two treatment groups. Group A - Carbepenem+albumin Meaning not listed  Group B - Carbepenem+albumin+GMCSF.
+inclusion_criteria:
+ 1. Age more than 18 years 2. Patients of decompensated liver cirrhosis who present with- Spontaneous bacterial peritonitis (Presence of more than 250 neutrophils per cc of ascetic fluid, in the absence of a surgical abdomen, in the presence of decompensated cirrhosis and portal hypertension) that is not responding to initial therapy- DTT-SBP: - Hospital acquired - New onset SBP (Spontaneous bacterial peritonitis) after 48 h of hospitalization. - Recurrent SBP - One or more prior episode(s) of SBP in year. - Antibiotic resistant - Resistance to 3rd Gen Cephalosporin in last 3 m. - Antibiotic non-response -Non-response to 3rd Gen Cephalosporin, sepsis on 3rd Gen Cephalosporin.
+exclusion_criteria:
+ 1. < 18 years. 2. Advanced HCC (HepatoCellular Carcinoma) 3. Post liver transplant 4. HIV + ve, Immunosuppressive therapy 5. Pregnancy 6. Domiciliary treatment 7. No consent

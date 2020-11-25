@@ -1,0 +1,9 @@
+
+brief_title: To Study The Incidence And Outcome Of Paracentesis Induced Circulatory Dysfunction in Decompensated Cirrhotics Undergoing Less Than 5 Litres Of Ascitic Fluid Tap With Or Without Albumin Infusion.
+official_title:  To Study The Incidence And Outcome Of Paracentesis Induced Circulatory Dysfunction In Decompensated Cirrhotics Undergoing Less Than 5 Litres Of Ascitic Fluid Tap With Or Without Albumin Meaning not listed  Infusion
+brief_summary:
+All consecutive patients admitted in ILBS from MAY 2015 to DECEMBER 2016. Decompensated cirrhosis patients will be randomized into Group 1: MVP (Moderate Volume Paracentesis) of less than 5 litres with iv albumin at a dose 8 gms/l of ascitic fluid Group 1: MVP (Moderate Volume Paracentesis) of less than 5 litres without albumin .
+inclusion_criteria:
+ 1. All Cirrhotics decompensated with ascites admitted in the hospital. 2. Grade II/III ascites 3. Need for paracentesis.
+exclusion_criteria:
+ 1. Age <12 or > 75 years 2. Hepatocellular carcinoma 3. Non cirrhotic ascites such as malignancy or tubercular peritonitis 4. Serum Cr >1.5mg% 5. Refractory septic shock 6. Grade III/IV hepatic encephalopathy 7. Abdominal wall cellulitis 8. Active variceal bleed 9. Respiratory, cardiac and renal failure 10. Refusal to participate in the study

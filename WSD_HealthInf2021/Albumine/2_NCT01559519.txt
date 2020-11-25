@@ -1,0 +1,9 @@
+
+brief_title:  Post Transjugular Intrahepatic Portosystemic Shunt (Tips) Albumine Meaning not listed  Infusion to Prevent Hepatic Encephalopathy
+official_title:  Effect of Albumine Infusion in the Prevention of Hepatic Encephalopathy After Transjugular Intrahepatic Portosystemic Shunt
+brief_summary:
+ The purpose of this study is to evaluate the efficacy of albumin infusion to prevent post tips hepatic encephalopathy'
+inclusion_criteria:
+ - Cirrhotic patients - TIPS placement - Absence of Hepatic Encephalopathy at the enrolement - Age > 18 years - No pregnancy
+exclusion_criteria:
+ - Non-cirrhotic portal hypertension - Previous liver transplantation - Impossibility to attend the scheduled follow-up including the weekly visit as outpatients during the first month after TIPS (see the description of follow-up below) - Sings of overt hepatic encephalopathy as well as a history of persistent HE at entry. The latter as a contraindication for TIPS placement

@@ -1,0 +1,9 @@
+
+brief_title: Lactated Ringer Versus Albumin Meaning not listed  in Early Sepsis Therapy
+official_title: Ringer Versus Albumin In Septic Patients: a Randomized Controlled Clinical Trial
+brief_summary:
+The use of albumin in critical ill patients is a matter of controversy. A large randomized controlled trial reported that albumin was as safe and effective as crystalloid solution for fluid replacement in intensive care unit, although the last one was less expensive. In Surviving Sepsis Campaign International Guidelines there are no preference for crystalloids over colloids. But recently, a retrospective analysis of patients with severe sepsis from SAFE study reported that the use of albumin in these patients would be superior, regarding reduction of mortality. The aim of this study is determine whether the use of albumin improve clinical outcomes in patients with severe sepsis or septic shock.
+inclusion_criteria:
+ - Age equal or higher than 18 years-old - Severe sepsis or septic shock into 6 hours of evolution - Written informed consent
+exclusion_criteria:
+ - Shock from other causes - Adverse reactions to human albumin - Previous fluid resuscitation during current disease - Previous use of albumin in the last 72 hours - Religion objection - Enrollment in another study - Traumatic brain injury - Hepatic cirrhosis - End stage renal disease - Plasmapheresis - End of life patients

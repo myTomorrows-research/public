@@ -1,0 +1,9 @@
+
+brief_title: Fresh Frozen Plasma as a Substitute for Albumin Meaning not listed  in Patients Receiving a Large Volume Paracentesis
+official_title: Fresh Frozen Plasma as a Substitute for Albumin in Patients Receiving a Large Volume Paracentesis
+brief_summary:
+ Large volume paracentesis with albumin administration is the standard of care for patients with refractory ascites complicating end-stage liver disease. However, the use of albumin is frequently limited due to expense and occasional short supply. The goal of this study is to demonstrate if the administration of fresh frozen plasma (FFP) is as effective as albumin for volume expansion at the time of a large volume paracentesis.
+inclusion_criteria:
+ 1. Age 18 years or older 2. Cirrhosis of the liver based on biopsy or clinical and radiographic criteria 3. Ability to provide informed consent (Grade 0 to 1 HE) 4. Grade 3 ascites or refractory ascites 5. Ascites requiring frequent large volume paracentesis of at least 5 liters at least once a month 6. No diuretic use
+exclusion_criteria:
+ 1. Inability to obtain informed consent 2. Age less than 18 3. Hepatic Encephalopathy Grade > 1 4. Septic shock 5. Active infection 6. Respiratory failure 7. Heart failure with reduced ejection fraction of ≤ 50% 8. Moderate or severe pulmonary hypertension 9. History of stroke 10. Unstable coronary artery disease 11. Chronic kidney disease (GFR <60) 12. GI bleed within 2 weeks 13. Any licorice within 2 weeks of starting the study 14. Any Beta Blocker use within the last 2 weeks 15. Any diuretic use within 2 weeks 16. Absence of paracentesis within 2 weeks 17. Absence of volume expanders within 2 weeks 18. INR > 1.7

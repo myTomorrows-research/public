@@ -1,0 +1,9 @@
+
+brief_title: Hypoalbuminemia in Burn Patients
+official_title:  Hypoalbuminemia in Burn Patients: Should we Care? - A Randomized Controlled Clinical Pilot Trial
+brief_summary:
+ The purpose of this study is to determine whether 5% human albumin Meaning not listed  solution, given to correct hypoalbuminemia, could improve organ dysfunction in burn patients as assessed by a change in the SOFA score from baseline to day 7 (or before if the patient is discharged from the ICU or died).
+inclusion_criteria:
+ 1. Patients admitted to the BICU in the Centre hospitalier de l'Université de Montréal within 24 hours following their thermal burn injury. 2. Patients with second or third degree burns greater or equal than 20% of total body surface area. 3. Patients aged 18 years or older. -
+exclusion_criteria:
+ 1. Patients with serum albumin greater than 30 g/dl at the time of randomization. 2. Patients with a do not resuscitate order. 3. Patients needing total parenteral nutrition. 4. Patients with the following chronic diseases that could affect baseline SOFA calculation or serum albumin levels: end-stage kidney disease, nephrotic syndrome, hepatitis, exudative enteropaty, chronic thrombocytopenia or hematological malignancy. 5. Patients with a known reaction to albumin. 6. Pregnant or lactating women. 7. Patients younger than 18 years old. -

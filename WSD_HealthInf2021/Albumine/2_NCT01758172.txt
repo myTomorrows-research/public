@@ -1,0 +1,9 @@
+
+brief_title: Comparison of Hemodynamic Effects of Two Colloid Therapies in Post-operative Patients Undergoing Pancreaticoduodenectomy
+official_title: Comparison of Hemodynamic and Clinical Effects of Two Colloid Therapies in Post-operative Patients Undergoing Pancreaticoduodenectomy
+brief_summary:
+From postoperative patients having undergone pancreaticoduodenectomy; 1. To compare the hemodynamic parameters from the patient administrated 5% HA and 6% Voluven 2. To assess the efficacy of the treatment as regards the clinical outcomes and laboratory parameters of the patient 3. To compare the safety of the 2 intravenous colloids in the patient population
+inclusion_criteria:
+ - Subjects should be meet inclusion criteria to participated into the study 1. Age-from 18-75 years adult 2. In the immediate post-operative period of pancreaticoduodenectomy 3. Written informed consent and admitted ICU immediate post-operative patient
+exclusion_criteria:
+ - Any patient meeting one or more of the following exclusion criteria may not be entered into the study. 1. Refusal to participate in the study 2. Evidence of pre-operative oliguria (Serum creatinine>1.5mmol/dL) 3. Known Severe congestive heart failure (NYHAIII,IV) 4. Known severe respiratory diseases (PaO2/FiO2 <200) 5. Known coagulopathy (Platelet<100k/mm3, aPTT>70s, PT(INR)>2.5) 6. Known allergy to hydroxyethyl starch 7. Known pregnancy or lactation 8. Has participated in any other clinical trial within 3months 9. Any contraindication to Voluven® or albumin  Meaning not listed according to their package inserts.

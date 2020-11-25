@@ -1,0 +1,9 @@
+
+brief_title: To Study the Safety and Efficacy of Midodrine With Albumin Meaning not listed  Versus Albumin Alone in Hepatic Hydrothorax
+official_title:  To Study the Safety and Efficacy of Midodrine With Albumin Versus Albumin Alone in Hepatic Hydrothorax- A Pilot Randomised Controlled Trial
+brief_summary:
+ Hepatic hydrothorax is defined with accumulation of transudate fluid (500 ml) in the pleural cavity in patients with decompensated liver cirrhosis but without cardiopulmonary and pleural diseases. The Prevalence is 5-12% The treatment for hydrothorax is diuretics, repeated thoracocentensis, TIPS and liver transplant.. Midodrine increases effective arterial blood volume and also increases renal perfusion.It has also been used in Refractory ascitis .It has been shown to mobilise ascitis. In patients who are ineligible for TIPS and Liver transplant  there is no data on Midodrine and its effects on Hydrothorax in cirrhotics.There are also no guidelines on the use of albumin during Pleural fluid tapping and the dose to be used. This study is being done to assess the safety and efficacy of Midodrine in hydrothorax.
+inclusion_criteria:
+ - Patients with hepatic hydrothorax - Patients with age from 18-75 years - No evidence of Cardiac and pulmonary disease
+exclusion_criteria:
+ - Renal failure ( Creatinine>2.5mg/dl) - Gastrointestinal bleeding - Spontaneous bacterial empyema/ Peritonitis - Patients with urinary retention - Intrinsic advanced pulmonary disease (CXR, HRCT thorax) - Cardiovascular disease (Electrocardiogram, 2D Echo) - Systemic arterial hypertension - Presence of hepatocellular carcinoma or portal vein thrombosis, Budd chiari syndrome - Patients with active untreated sepsis - Pregnancy - Patients with hepatic encephalopathy - Patients eligible for TIPS - No use of drugs affecting systemic hemodynamics prior to 7 day of enrollment

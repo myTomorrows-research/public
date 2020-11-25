@@ -1,0 +1,9 @@
+
+brief_title: Early Albumin Resuscitation During Septic Shock
+official_title:  Multicenter, Prospective, Randomized, Controlled Open Study Albumin  20% Versus Saline
+brief_summary:
+Objective: To determine whether the early administration of albumin Meaning not listed  as an expander and antioxidant would improve survival on the 28th day for septic shock patients. Design: Prospective, multicenter, randomized, controlled versus saline, stratified on nosocomial infection and center. Setting: 27 Intensive Care Units (ICU) in France. Coordinator: Pr J.P. Mira and Dr J. Charpentier - Cochin Hospital- Paris. Patients: 800 patients could be included during the first 6 hours of their septic shock.
+inclusion_criteria:
+ - Over 18 years old - Septic shock < 6 hours - Agreement of patients
+exclusion_criteria:
+ - Allergy to albumin  - Weight > 120 kg - Non septic shock - Burned - Cirrhosis - Albumin perfusion 48 hours before randomization - Pregnant women - Cardiac dysfunction New York Heart Association (NYHA) 3 or 4 - Patients with therapeutic limitation

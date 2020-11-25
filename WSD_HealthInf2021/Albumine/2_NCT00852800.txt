@@ -1,0 +1,11 @@
+
+brief_title:
+ Low-dose Albumin  Solution in SBP: a Randomized Double-blind Pilot Study
+official_title:
+ Effect of Intravenous Albumin  (Standard vs Dose Reduced Regimen) On Renal Impairment and Mortality in Patients With Cirrhosis and Spontaneous Bacterial Peritonitis: A Double Blind Randomized Clinical Trial
+brief_summary:
+Spontaneous bacterial peritonitis (SBP) is a common and severe complication of cirrhosis. The most serious complication of SBP is the hepatorenal syndrome (HRS), which occurs in up to 30 percent of patients, with high mortality. Intravenous albumin Meaning not listed (1.5 g/kg at diagnosis and 1g/kg 48 hours later - standard regimen) helps to prevent HRS and improves survival. No information exists on the efficacy of lower doses of albumin. This study was designed to allow direct comparison among different doses of intravenous albumin in patients with SBP - standard (SR) vs dose reduced regimen (DRR) - in order to prevent renal failure and mortality.
+inclusion_criteria:
+ - cytological diagnosis of spontaneous bacterial peritonitis - age between 18 and 80 years - written informed consent
+exclusion_criteria:
+ - findings suggestive of secondary peritonitis - antibiotic treatment within one week before the diagnosis of spontaneous bacterial peritonitis (except for prophylactic treatment with norfloxacin or trimethoprim/sulfamethoxazole) - other infections, shock, gastrointestinal bleeding, grade 3 or 4 hepatic encephalopathy, cardiac failure, and any disease (e.g., advanced neoplasia) that could affect the short term prognosis - creatinine level of more than 3 mg per deciliter - potential causes of dehydration (such as diarrhea or an intense response to diuretic treatment) within one week before the diagnosis of peritonitis

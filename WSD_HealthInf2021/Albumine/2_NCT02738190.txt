@@ -1,0 +1,9 @@
+
+brief_title: Albumin Meaning not listed  vs. Plasma for PEdiAtric pRiming Trial
+official_title: Albumin vs. Plasma for PEdiAtric pRiming Trial
+brief_summary:
+ This is a randomized controlled trial that compares two different priming composition (albumin vs. fresh frozen plasma) for extracorporeal circulation of pediatric patients under 10 kg of weight. The two approaches are both employed at the moment but there is actually no evidence on the superiority of one over the other. This study is aimed to test the hypothesis that Albumin is superior to fresh frozen plasma in terms of minor bleeding and transfusional requirements.
+inclusion_criteria:
+ - weight under 10 kg - cardiovascular surgery procedure with extracorporeal circulation - need for hematic priming solution - elective surgery - informed consent signed
+exclusion_criteria:
+ - congenital disorders of coagulation system - emergency surgery

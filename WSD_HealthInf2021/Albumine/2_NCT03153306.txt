@@ -1,0 +1,9 @@
+
+brief_title: Importance of the Infusion Rate for the Plasma Expanding Effect of 5% Albumin Meaning not listed in the Septic Patient
+official_title: None
+brief_summary:
+ Correction of hypovolemia is an important therapeutic measure，Even though there is no consensus regarding infusion rates, a plasma volume (PV) expander is often given at a fast rate to treat a suspected hypovolemia without delay which can be associated with aggravation of adverse interstitial accumulation of macromolecules and fluid, especially in inflammatory conditions such as sepsis.the smallest possible volumes for PV resuscitation to maintain normovolemia should be used to reduce the risk of simultaneous interstitial fluid accumulation. The investigators tested the hypothesis that a slow infusion rate of a PV expander results in better plasma expansion than a fast infusion rate to patients with severe sepsis or septic shock.
+inclusion_criteria:
+ - admitted to the ICU patients with severe sepsis or septic shock (diagnosis according to the 2012 surviving sepsis campaign guidelines) - there is low blood pressure (SBP < 90 or mean arterial pressure(MAP) < 65 or the systolic blood pressure is decreased 40 mmHg more than the basic level) or lactic acid or greater for 4 mmol/l - the informed consent
+exclusion_criteria:
+ - less than 18 years of age - more than 80 years old - pregnant women - albumin allergies - the dying patients expected lifetime no more than 24 hours) - patient with myocardial infarction, heart failure - liver failure - refused to sign the informed consent

@@ -1,0 +1,9 @@
+
+brief_title:  The Effect of Natural Protein vs. Protein Supplements on Peritoneal Dialysis Patients
+official_title: The Effect of Natural Protein vs. Protein Supplements on Peritoneal Dialysis Patients An Open-label Prospective Clinical Trial
+brief_summary:
+This study is a prospective open label clinical trial comparing serum albumin Sense1  levels and total protein intake in the peritoneal dialysis patient population. A total of 60 patients were enrolled, 16 chose to be in the natural food group and 44 in the supplement group. 4 were lost to follow-up in the supplement group leading to an n of 40. Both groups were educated by dietitians on how to increase their protein intake to a goal of 1.4g/kg/day. The groups were followed for 3 months with protein intake calculated according to the patient's food diaries. Patient demographics and characteristics were compared in both groups.
+inclusion_criteria:
+ - Age over 18 years - Initiation of peritoneal dialysis for at least a one-month time period, with the expectation to stay on peritoneal dialysis for the next 3 months - Independence with all activities of daily living (especially being able to cook)
+exclusion_criteria:
+ - Age under 18 years - Expectation of termination of peritoneal dialysis within 3 months of entering the study - Life expectancy less than three months - Termination of life or peritoneal dialysis during the study period - Patient refusal

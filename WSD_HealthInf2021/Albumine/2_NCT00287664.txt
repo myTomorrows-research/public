@@ -1,0 +1,9 @@
+
+brief_title: Treatment of Hepatorenal Syndrome With Terlipressin Plus Albumin vs Albumin Meaning not listed
+official_title: Terlipressin as Treatment of Patients With Cirrhosis and Hepatorenal Syndrome. Effect on Survival and Renal Function. Multicenter, Randomized and Prospective Study
+brief_summary:
+Hepatorenal syndrome is a common complication of cirrhotic patients. The prognosis of patients with HRS is very poor. It have been demonstrated that vasoconstrictors agents (Terlipressin) plus albumin  are effective in the reversal of the treatment. However, previous studies are pilot studies and they are not able to give information about an improvement in survival. This comparative randomized study was delineated to test the efficacy of terlipressin on survival.
+inclusion_criteria:
+ 1. Patients with HRS type 1 or 2 with serum creatinine >2 mg/dL 2. Age between 18 and 75 years 3. Written informed consent. 4. Absence of exclusion criteria
+exclusion_criteria:
+ 1. Hepatocarcinoma (3 nodules greater than 3 cm or 1 nodule > than 5 cm) 2. Active infection with systemic inflammatory response syndrome 3. Respiratory or cardiac dysfunction. 4. Arteriopathy. 5. Ischemic cardiopathy. 6. Arterial hypertension ( >140/90 mmHg during hospitalization )

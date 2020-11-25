@@ -1,0 +1,21 @@
+
+brief_title:  Efficacy and Safety of Terlipressin With Albumin  Meaning not listed Versus Midodrine With Albumin Versus Albumin Alone in Prevention of Paracentesis Induced Circulatory Dysfunction in Cirrhosis
+official_title: Randomized Trial Comparing the Efficacy and Safety of Terlipressin With Albumin Versus Midodrine With Albumin Versus Albumin Alone in Prevention of Paracentesis Induced Circulatory Dysfunction in Cirrhosis
+brief_summary:
+ -  Study Population: Patients admitted or seen in Out Patient Department, Department of Hepatology, Institute of Liver and Biliary Sciences.
+
+        -  Study Design: Prospective Open Labeled Randomized Controlled Trial.
+        -  Study Period: January 2017 to December 2017
+        -  Intervention- Subjects will be randomized to 3 groups
+        -  All patients will receive Standard medical therapy - Albumin-8g/L of tap- one half of
+           dose at beginning of tap and rest half after 6 hours of tapping.
+      Group A - Subjects will receive Terlipressin 1mg intravenous bolus at the onset of
+      paracentesis and the remaining as 1 mg doses intravenous at 8 and 16 h after the first dose. ( total -3mg) Group B - Midodrine 7.5 mg TDS x 3 days Group C - Standard medical therapy only
+        -  Monitoring and Assessment: Clinical evaluation will be done at regular intervals.
+        -  Adverse Effects: Rise in blood pressure, arrthymias, hyponatremia and rarely
+           cardiovascular side effects have been noted.
+        -  Stopping Rule: Development of PICD, hypertension ( BP>160/90mmhg-JNC class II)
+inclusion_criteria:
+ 1. Patients with cirrhosis who undergo Large volume paracentesis (> 5L) 2. Patients with age from 18-75 years
+exclusion_criteria:
+ 1. Renal failure ( Creatinine>1.5mg/dl) 2. Recent Gastrointestinal bleeding within 7 days 3. Spontaneous bacterial Peritonitis 4. Patients with Cardiovascular disease (Electrocardiogram, 2D Echo) 5. Systemic arterial hypertension ( >160/90mmhg) Presence of hepatocellular carcinoma or portal vein thrombosis, Budd chiari syndrome 6. Patients with active untreated sepsis 7. Pregnancy 8. Patients with hepatic encephalopathy 9. No use of drugs affecting systemic hemodynamic 3 days prior to enrollment 10. Refusal to participate

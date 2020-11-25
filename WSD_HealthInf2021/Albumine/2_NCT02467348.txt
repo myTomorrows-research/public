@@ -1,0 +1,9 @@
+
+brief_title: Incidence And Outcome Of Paracentesis Induced Circulatory Dysfunction In Acute-On-Chronic Liver Failure.
+official_title:  To Study the Incidence And Outcome Of Paracentesis Induced Circulatory Dysfunction In Acute-On-Chronic Liver Failure Undergoing Less Than 5 Litres Of Ascitic Fluid Tap With Or Without Albumin Meaning not listed  Infusion.
+brief_summary:
+ All consecutive patients admitted in ILBS from MAY 2015 to DECEMBER 2016.ACLF (Acute on chronic Liver Failure). ACLF will be randomize into Group 1: MVP (Modest Volume Paracentesis) OF Less than 5 liters with IV albumin at a dose 8 gms/L of ascitic fluid Group 2: MVP (Modest Volume Paracentesis) of Less than 5 liters without albumin
+inclusion_criteria:
+ 1. All patients with acute hepatic insult manifesting as jaundice (Sr. Bil. ≥ 5 mg/dL) and coagulopathy (INR≥1.5), complicated within 4 weeks by ascites and/or encephalopathy in a patient with previously diagnosed or undiagnosed chronic liver disease (ACLF) admitted in the hospital. 2. All Cirrhotics decompensated with ascites admitted in the hospital. 3. Grade II/III ascites 4. Need for paracentesis.
+exclusion_criteria:
+ 1. Age <12 or > 75 years 2. Hepatocellular carcinoma 3. Non cirrhotic ascites such as malignancy or tubercular peritonitis 4. Serum Cr >1.5mg% 5. Refractory septic shock 6. Grade III/IV hepatic encephalopathy 7. Abdominal wall cellulitis 8. Active variceal bleed 9. Respiratory, cardiac and renal failure 10. Refusal to participate in the study

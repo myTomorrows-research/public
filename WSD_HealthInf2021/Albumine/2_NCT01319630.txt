@@ -1,0 +1,9 @@
+
+brief_title: The Effect of Three Different Fluids(Albumin Meaning not listed  5%, Normal Saline, Hydroxyethyl Starch 130 kD) on Microcirculation in Severe Sepsis/Septic Shock Patients
+official_title: The Effect of Three Different Fluids(Albumin 5%, Normal Saline, HES 130 kD) on Microcirculation in Severe Sepsis/Septic Shock Patients Using Sidestream Dark Field (SDF) Microscopy and Near-Infrared Spectroscopy (NIRS) Analysis
+brief_summary:
+ Major microvascular blood flow alterations have been documented in patients with severe sepsis. It was also demonstrated that the microcirculation improved in survivors of septic shock but failed to do so in patients dying from acute circulatory failure or with multiple organ failure after shock resolution. Early, effective fluid resuscitation is a key component in the management of patients with severe sepsis and septic shock with the goal of improving tissue perfusion. The best fluid in this early resuscitation phase has been and still is under debate. The aim of this study is to evaluate the effect of Three different Fluids(Albumin 5%, Normal Saline, HES 130 kD) on microcirculation in severe sepsis/septic shock patients using Sidestream Dark Field (SDF) Microscopy and Near-Infrared Spectroscopy (NIRS) analysis.
+inclusion_criteria:
+ - Adult patients will be enrolled within 24 hrs of onset of severe sepsis/septic shock with an indication for fluid bolus administration.
+exclusion_criteria:
+ - Liver cirrhosis - shock from other causes - Oral injuries (precluding SDF imaging) - Severe peripheral vascular disease, dialysis fistula, or mastectomies precluding safe forearm occlusion - Age < 18 years

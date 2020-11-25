@@ -1,0 +1,9 @@
+
+brief_title:  The Use of Drugs to Improve Kidney Function in Patients With Liver and Kidney Dysfunction
+official_title: The Use of Midodrine, Octreotide and Albumin  in Refractory Ascites
+brief_summary:
+ We will address the hypothesis that refractory ascites and Type 2 hepatorenal syndrome are mediated in part by diminished circulatory volume and that treatment with midodrine, octreotide and albumin Meaning not listed can improve renal and patient outcomes by restoring effective circulating volume and systemic perfusion. Our primary objective is to assess change in creatinine clearance using inulin. We will enroll 15 patients with Type 2 hepatorenal syndrome or refractory ascites once inclusion and exclusion criteria are satisfied. They will be treated for 1 month with octreotide LAR, albumin  and midodrine. Renal, serum and neurohormonal parameters will be measured before, during, and after initiation of drug and compared.
+inclusion_criteria:
+ - Cirrhosis (biopsy or compatible clinical (ascites, varices), laboratory (low albumin, elevated bilirubin, elevated INR) and radiologic data (nodular appearing liver on ultrasound)). Type 2 hepatorenal syndrome and/or refractory ascites
+exclusion_criteria:
+ - Secondary causes of renal dysfunction (proteinuria >500 mg/day, active urinary sediment, abnormal renal ultrasound, nephrotoxic medications) Bacterial infection (positive blood, urine or ascites cultures) within the past 2 weeks Gastrointestinal hemorrhage or encephalopathy within the past 2 weeks Age <18 Transvenous intrahepatic portosystemic stent shunt (TIPS) Hepatocellular carcinoma beyond the Milan criteria
