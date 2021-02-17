@@ -1,0 +1,1991 @@
+pref_name,umls_cui_linked,average_depth,trials_count,pubmed_count,search_frequency,select_frequency
+"Linitis plastica",C0006936,6.6977,1,266,1,1
+"Infectious bovine rhinotracheitis",C0006645,3.8148,1,735,2,NULL
+"Myasthenia gravis associated with thymoma",C0051581,8.5,1,NULL,1,NULL
+"Congenital atransferrinemia",C0087380,8.4737,1,NULL,5,NULL
+"Inactive tuberculosis of lung",C0115036,9.9438,1,NULL,1,4
+"Bilateral sciatica",C0115775,10.497,1,NULL,1,NULL
+"Brittle asthma",C0113610,6.6667,1,NULL,1,NULL
+"Acute post-traumatic stress disorder",C0114973,5,1,NULL,1,NULL
+"Narcolepsy and hypersomnia",C0122077,3,1,NULL,1,NULL
+"Central nervous system melanoma",C0153796,4.76,1,NULL,2,NULL
+"Trance state",C0124074,4,1,NULL,1,NULL
+"Prostate cancer stage c",C0156304,10.8,1,NULL,2,NULL
+"Type i usher syndrome",C0170641,11.7544,1,NULL,6,NULL
+"Infantile onset spinocerebellar ataxia",C0182885,9.6849,1,NULL,1,NULL
+"Visceral abdominal pain",C0205574,7.0769,1,NULL,1,1
+"Corn of toe",C0005469,8.9091,1,NULL,1,NULL
+"Acute urinary tract infection",C0024388,7.56,1,NULL,1,NULL
+"Malignant neoplasm of transverse colon",C0003878,13.1198,1,NULL,2,NULL
+"Hepatic vein thrombosis",C0006370,7.8,1,NULL,4,NULL
+"Mild recurrent major depression",C0011926,7.4444,1,NULL,1,NULL
+Trimethylaminuria,C0045005,4.24,1,NULL,7,NULL
+"Ulcer of esophagus",C0010331,6.275,1,NULL,3,NULL
+"Type 1 diabetes mellitus without complication",C0084123,6.6667,1,NULL,1,1
+"Helicobacter-associated disease",C0086921,6,1,NULL,1,NULL
+"Dry cough",C0121176,5,1,NULL,2,NULL
+"Alzheimer disease 9",C0178394,NULL,1,NULL,2,NULL
+"Facioscapulohumeral muscular dystrophy 1b",C0177119,NULL,1,NULL,1,NULL
+"Severe hereditary factor viii deficiency disease with inhibitor",C0205210,8.4,1,NULL,1,1
+"Monomelic amyotrophy",C0190941,4,1,NULL,1,NULL
+"Alzheimer disease 4",C0182084,9.2,1,NULL,14,3
+"Opioid use, unspecified with withdrawal",C0257389,5,1,NULL,1,NULL
+"Adult-onset growth hormone deficiency",C0174681,11.6,1,NULL,1,2
+"Insomnia due to other mental disorder",C0257845,5,1,NULL,1,NULL
+"Anal hsil",C0321570,NULL,1,NULL,1,NULL
+"Braf np_004324.2:p.t599_v600inst",C0335944,5,1,NULL,1,NULL
+"Lifelong obesity",C0030060,5,1,NULL,1,NULL
+"Crohn's disease of esophagus",C0043770,9.4286,1,NULL,2,NULL
+"Newcastle disease",C0007404,4.7,1,2125,1,NULL
+"Lingual-facial-buccal dyskinesia",C0010400,6.9333,1,NULL,1,NULL
+"Deficit in attention motor control and perception",C0075632,7,1,NULL,1,NULL
+"Cystic fibrosis with meconium ileus",C0088619,11.3778,1,NULL,1,1
+"Brain oligodendroglioma",C0047522,10.235,1,NULL,1,2
+"Neurogenic pain",C0063963,6,1,NULL,1,NULL
+"Wolcott-rallison syndrome",C0069062,10.8868,1,NULL,4,NULL
+"Psoriasis of face",C0143864,7.6087,1,NULL,3,2
+"Neuropathy ataxia and retinis pigmentosa",C0153170,4.1818,1,NULL,1,NULL
+"Chordoma of clivus",C0153963,10,1,NULL,3,1
+"Colon carcinoma metastatic in the liver",C0153973,12.0168,1,NULL,1,NULL
+"Chlamydia trachomatis infection of anus and rectum",C0127180,7.4,1,NULL,1,NULL
+"Genital cancer",C0117100,5,1,NULL,1,NULL
+"Adult acne",C0187843,NULL,1,NULL,3,1
+"Hereditary elliptocytosis",C0005779,5.5185,1,630,2,NULL
+"Acute graft-versus-host reaction following bone marrow transplant",C0352352,6.3333,1,NULL,3,4
+"Carcinoma in situ of stomach",C0011708,8.5396,1,NULL,2,NULL
+"Altered behavior in alzheimer's disease",C0320828,10.1818,1,NULL,3,2
+"Hereditary motor and sensory neuropathy type i",C0001300,8.6341,1,NULL,4,NULL
+"Gingival neoplasm",C0006168,8.3116,1,1746,1,NULL
+"Type iii hyperammonemia",C0030488,4.5,1,NULL,3,NULL
+"Vaginal intraepithelial neoplasia grade 1",C0049896,11.0155,1,NULL,1,NULL
+"Malignant neoplasm of nipple and areola",C0085794,4.6667,1,NULL,1,NULL
+"General and unspecified fear of cancer",C0086270,2,1,NULL,1,NULL
+"Aid i",C0021323,NULL,1,NULL,1,NULL
+"Heroin withdrawal",C0024258,NULL,1,NULL,1,NULL
+"Norrie disease",C0028816,6.3977,1,NULL,1,NULL
+"Experimental parkinsonism",C0116156,NULL,1,NULL,1,1
+"Brittle type 1 diabetes mellitus",C0096926,4,1,NULL,1,1
+"Delayed onset post-traumatic stress disorder",C0138510,6,1,NULL,7,NULL
+"Gender identity disorder of adult",C0125372,NULL,1,NULL,1,NULL
+"Fap gene mutation",C0335794,5,1,NULL,1,NULL
+"Cholangiocarcinoma metastatic",C0353387,NULL,1,NULL,12,NULL
+"Severe major depression",C0311389,7,1,NULL,11,1
+Arthritis/arthrosis,C0000254,7.5,1,NULL,2,NULL
+"Isoniazid resistant tuberculosis of lung",C0319110,9.9663,1,NULL,1,2
+"Choanal atresia",C0005288,7.7432,1,641,1,NULL
+"Acute myeloid leukemia, m1",C0007265,10.8961,1,NULL,3,NULL
+"Edema of the tongue",C0010126,6.6575,1,NULL,1,NULL
+"Leudet tinnitus",C0087368,7.2727,1,NULL,2,NULL
+"Other polyneuropathies",C0084243,3,1,NULL,1,NULL
+"Myelopathic muscular atrophy",C0032297,8.9091,1,NULL,5,NULL
+"Neuroendocrine cell cancer",C0114857,NULL,1,NULL,5,NULL
+"Stage iiia small cell lung carcinoma ajcc v7",C0155687,12.0619,1,NULL,3,3
+"Brain stem glioblastoma",C0153726,12.4198,1,NULL,4,1
+"Childhood neuroblastoma",C0352958,8.7143,1,NULL,1,2
+"Egfr exon 19 deletion",C0334741,NULL,1,NULL,1,NULL
+"Intermittent joint effusion",C0002216,5.4898,1,NULL,2,NULL
+"Malignant neoplasm of frontal lobe",C0011399,10.6,1,NULL,10,NULL
+"Cecal disease",C0005204,7.2121,1,3661,2,NULL
+Pseudogout,C0008134,6.1,1,NULL,1,NULL
+"Scleredema adultorum",C0008400,5.3506,1,318,1,1
+Rhabdomyoma,C0008299,6.2273,1,1057,1,NULL
+Oligodendroblastoma,C0046226,11.4,1,NULL,1,NULL
+"Limb-girdle muscular dystrophy type 2a",C0192365,NULL,1,NULL,1,NULL
+Carcinogenicity,C0126930,4,1,NULL,1,NULL
+"Colorectal sessile serrated adenoma/polyp",C0213907,8.3333,1,NULL,9,NULL
+"Adult form of celiac disease",C0021374,9.6842,1,NULL,1,NULL
+"Gastric neuroendocrine tumor",C0306161,8.6154,1,NULL,2,NULL
+Hodgkin's-like,C0020634,NULL,1,NULL,1,NULL
+Melanoderma,C0018238,6.6071,1,NULL,4,NULL
+"Meningitis in lyme disease",C0041715,10.0847,1,NULL,2,NULL
+"Congenital deficiency of pulmonary surfactant protein b",C0303271,6.5,1,NULL,4,NULL
+"Poor peripheral circulation",C0086728,4.6154,1,NULL,1,NULL
+"Metastasis to brain of unknown primary",C0094177,10.3228,1,NULL,1,NULL
+"Graves' ophthalmopathy worsened",C0174878,NULL,1,NULL,1,NULL
+"Prostate cancer stage a",C0156306,10.8,1,NULL,1,NULL
+"Usher syndrome, type 1b",C0294413,NULL,1,NULL,1,NULL
+Byssinosis,C0005122,6.19,1,652,1,NULL
+"Low grade tumor",C0358932,NULL,1,NULL,1,NULL
+"Frameshift mutation function",C0009167,4.3125,1,4349,1,NULL
+"Severe autosomal recessive muscular dystrophy of childhood north african type",C0055510,9.5,1,NULL,4,NULL
+"Intraepithelial squamous cell carcinoma",C0002330,9.5676,1,NULL,4,NULL
+Pseudotumor,C0008149,4,1,NULL,1,NULL
+"Abscess of breast",C0010045,5.7458,1,NULL,10,9
+"Iron deficiency without anemia",C0043672,6.6667,1,NULL,1,NULL
+"Suprascapular neuropathy",C0319190,7.45,1,NULL,1,NULL
+"Minor depressive disorder",C0086842,6,1,NULL,1,NULL
+"Degeneration of lumbosacral intervertebral disc",C0026638,10.1111,1,NULL,1,NULL
+"Escherichia coli urinary tract infection",C0105984,8.1765,1,NULL,1,NULL
+"Adult stuttering",C0115804,NULL,1,NULL,1,NULL
+"Costello syndrome",C0109484,4.0333,1,13,2,NULL
+"Alzheimer disease 8",C0181987,NULL,1,NULL,1,NULL
+"Prostate cancer stage b",C0156305,10.8,1,NULL,2,NULL
+"Chronic anxiety",C0107697,8,1,NULL,2,NULL
+"Idiopathic transverse myelitis",C0174242,8.9048,1,NULL,1,NULL
+"X-linked alport syndrome",C0170638,11.6286,1,NULL,2,3
+"Charlevoix-saguenay type spastic ataxia",C0182917,5.5,1,NULL,1,NULL
+"Obstructive defaecation",C0349324,4,1,NULL,1,2
+"Malignant epithelial neoplasm of alveolus dentalis",C0003285,10.7052,1,NULL,9,NULL
+"Acute interstitial nephritis",C0009693,10.0652,1,NULL,1,NULL
+"Acute post-trauma stress state",C0042124,6,1,NULL,1,2
+"Multi-core congenital myopathy",C0032445,7.2143,1,NULL,1,NULL
+"Retinal scar",C0032502,6.9318,1,NULL,1,NULL
+"Knee locking",C0018725,7.25,1,NULL,1,NULL
+"Vaccine allergy",C0100880,5,1,NULL,1,NULL
+"Mitochondrial dna deletion",C0136349,3.8182,1,NULL,1,NULL
+"Stage iv skin cancer",C0155888,8,1,NULL,1,NULL
+"Lymphocytic gastritis",C0145254,9.9429,1,NULL,1,NULL
+"Fungus foot",C0136923,NULL,1,NULL,1,NULL
+"Liver neuroendocrine tumor",C0154408,9.1429,1,NULL,1,NULL
+"Glycogen storage disease type x",C0030205,7.8205,1,NULL,2,NULL
+"Atypical teratoid tumor",C0177916,2,1,NULL,6,NULL
+"Drug-induced obesity",C0049427,4,1,NULL,6,NULL
+"Congenital naevus",C0151792,4,1,NULL,3,NULL
+"Chronic lyme disease",C0199003,NULL,1,NULL,2,NULL
+"Breast cancer model",C0158895,5,1,NULL,5,2
+"Inflammation of bursa of patella",C0293240,9.125,1,NULL,1,NULL
+"Lobular breast cancer",C0315254,2,1,NULL,7,NULL
+"Glioblastoma category",C0211028,12.5,1,NULL,4,NULL
+"Libman-sacks disease",C0024424,10.1111,1,NULL,4,5
+"Multiple sulfatase deficiency disease",C0030281,8.1417,1,8,1,NULL
+"Hypothalamic hamartoma",C0044747,6.3804,1,NULL,2,NULL
+"Cerebral cyst",C0012158,5.4902,1,NULL,2,1
+"Linear scleroderma",C0026257,10.15,1,NULL,1,NULL
+"Methylmalonic aciduria",C0185800,4.2571,1,NULL,3,NULL
+"Cerebellar glioblastoma",C0153807,12.3824,1,NULL,1,NULL
+"Sclerodermoid chronic graft-versus-host disease",C0151151,7,1,NULL,1,5
+"Acute retroviral syndrome",C0192342,5.2647,1,2,2,2
+"Mitochondrial dna mutation",C0136642,4,1,NULL,1,NULL
+"Malignant neoplasm of breast stage iv",C0202031,NULL,1,NULL,1,1
+"Colorectal gastrointestinal stromal tumor",C0153993,8.8182,1,NULL,1,NULL
+"Autosomal dominant cerebellar ataxia",C0353287,NULL,1,NULL,3,NULL
+"Stage iiib small intestinal cancer ajcc v7",C0297552,11.7273,1,NULL,4,NULL
+"Sideroblastic anemia",C0004786,5.0364,1,1770,1,NULL
+"Sphenopalatine neuralgia",C0008555,7.6304,1,NULL,1,NULL
+"Diabetes with coma",C0140489,4.0408,1,2257,1,1
+"Congenital melanocytic nevus",C0152033,6.596,1,NULL,2,NULL
+"Shoulder lesion",C0084530,4.1667,1,NULL,2,NULL
+"Malignant myeloma",C0120982,NULL,1,NULL,6,NULL
+"Neurofibromatosis, type 4, of riccardi",C0018009,7.8571,1,NULL,1,NULL
+"Actively extending plaque psoriasis",C0151114,8.7,1,NULL,1,1
+"Parkinson disease 6, autosomal recessive early-onset",C0185248,NULL,1,NULL,3,1
+"Alzheimer disease 6, late-onset",C0185390,NULL,1,NULL,2,2
+"Spinal muscular atrophy with respiratory distress 1",C0187845,9.5833,1,NULL,8,NULL
+"Acute anaemia",C0114184,NULL,1,NULL,2,NULL
+Gestosis,C0153054,NULL,1,NULL,2,NULL
+"Split cord malformation",C0293460,8.3103,1,NULL,1,NULL
+"Constitutional eczema",C0024236,8.4211,1,NULL,7,1
+"Dmd-associated dilated cardiomyopathy",C0319907,9.8636,1,NULL,2,NULL
+"Spondyloepiphyseal dysplasia",C0008576,4,1,NULL,3,2
+"Idiopathic edema",C0021400,5.3333,1,NULL,1,NULL
+"Silent myocardial infarction",C0043166,8.25,1,NULL,1,1
+"Udpglucose 4-epimerase deficiency disease",C0115565,6.5,1,NULL,2,NULL
+"Fibrocystic disease of pancreas",C0161280,5.7353,1,NULL,1,NULL
+"Stage iv oral cavity cancer ajcc v6 and v7",C0155878,10.52,1,NULL,1,NULL
+"Tsc2 gene mutation",C0335414,5,1,NULL,1,NULL
+"Graft versus host disease in gastrointestinal tract",C0331668,4,1,NULL,1,NULL
+"Gustatory sweating",C0008680,4.9429,1,515,1,1
+"Low grade ductal breast carcinoma in situ",C0154655,10.5517,1,NULL,2,NULL
+"Amyotrophic lateral sclerosis 3",C0182257,NULL,1,NULL,1,NULL
+"Alzheimer disease 7",C0185157,NULL,1,NULL,1,NULL
+"Multiple tumor",C0024558,3.5,1,NULL,5,1
+Chilblain,C0005279,6.0306,1,210,1,NULL
+"Cerebral ataxia",C0032258,5.5909,1,NULL,1,NULL
+"General paralysis",C0001685,8.3704,2,662,34,NULL
+"Bovine anaplasmosis",C0004766,4.5814,2,1156,2,NULL
+Cherubism,C0005271,4.617,2,310,2,NULL
+"Cornelia de lange syndrome",C0032454,4.534,2,538,2,NULL
+"Kidney problem",C0117041,NULL,2,NULL,1,2
+"Refractory malignant testicular germ cell tumor",C0156343,9.3684,2,NULL,2,5
+"Narcolepsy 1",C0177000,NULL,2,NULL,1,NULL
+"Alzheimer disease, familial, type 3",C0180514,9.2,2,NULL,1,2
+"Stage iia uveal melanoma",C0297641,10.125,2,NULL,1,NULL
+"Kras np_004976.2:p.g12c",C0306530,6,2,NULL,1,NULL
+"Cancer of jaw",C0003447,5.4756,2,2860,15,2
+"Mite allergy",C0353278,4,2,NULL,1,NULL
+"Lamin a/c gene mutation",C0334336,4,2,NULL,4,NULL
+"Parkinsonism due to drug",C0032265,9.7619,2,NULL,1,NULL
+"Pitt-hopkins syndrome",C0196063,5,2,NULL,2,NULL
+"Asymptomatic multiple myeloma",C0205338,9.4,2,NULL,1,4
+"Sickle beta 0 thalassemia",C0306855,9.5,2,NULL,1,NULL
+"Bursitis of hip",C0026674,8.3729,2,NULL,1,NULL
+"Proliferative glomerulonephritis",C0020642,9.8596,2,NULL,1,NULL
+"Asxl1 gene mutation",C0306458,5,2,NULL,1,NULL
+"Miller fisher syndrome",C0051452,6.2655,2,335,1,NULL
+"Moderate hereditary factor viii deficiency disease",C0033547,7.4,2,NULL,1,1
+"Glomus tumor",C0006183,5.3696,2,1761,2,NULL
+"Rubinstein-taybi syndrome",C0008337,4.5436,2,344,2,NULL
+"Endometrial cancer stage iii",C0038722,4.1818,2,NULL,1,NULL
+"Familial alzheimer disease (fad)",C0037098,NULL,2,NULL,1,1
+"Cystic fibrosis with other manifestation",C0084156,4.5,2,NULL,2,NULL
+"Sleep-related bruxism",C0051432,9.68,2,NULL,1,NULL
+"Acute idiopathic thrombocytopenic purpura",C0033519,7.7,2,NULL,3,4
+"Orthostatic hypertension",C0088305,4,2,NULL,1,3
+"Generalized headache",C0077811,8.6,2,NULL,1,1
+"Lung sarcomatoid carcinoma",C0173424,10,2,NULL,1,NULL
+"Stage ii lung cancer ajcc v6",C0298656,10.4545,2,NULL,1,NULL
+"Not otherwise specified central nervous system embryonal tumor",C0334022,8.7143,2,NULL,1,NULL
+"Central nervous system cyst",C0049932,4.4091,2,570,2,NULL
+"Gender incongruence",C0353447,NULL,2,NULL,1,NULL
+"Lobstein disease",C0000720,9.7941,2,NULL,2,NULL
+"Supranuclear paralysis",C0032415,5.381,2,NULL,2,NULL
+"Clicking tinnitus",C0087367,6.8,2,NULL,2,NULL
+"Aase syndrome",C0027793,4.1563,2,NULL,1,NULL
+"Reiter syndrome",C0008249,7.3216,2,NULL,1,NULL
+"Nausea chronic",C0114846,NULL,2,NULL,4,2
+"Alzheimer disease 2",C0190062,11.1667,2,NULL,4,2
+"Niemann-pick disease, type c2",C0180718,9.5,2,NULL,1,NULL
+"Neuropathic ulcer",C0001966,5.7576,2,NULL,1,NULL
+"Dementia in parkinson's disease",C0049529,4,2,NULL,2,13
+"Pain of skin",C0023665,4.95,2,NULL,1,NULL
+"Bohring syndrome",C0116510,8.4375,2,NULL,2,NULL
+"Juvenile parkinsonism",C0116158,10.1111,2,NULL,1,1
+"Aberrant dna methylation",C0158768,5,2,NULL,1,NULL
+"Adenocarcinoma of lung stage iiia",C0130079,13.3675,2,NULL,3,4
+"Congenital hemangioma",C0020708,5.9531,2,NULL,7,NULL
+"Hemoglobin s disease without crisis",C0002239,10.1607,2,NULL,3,1
+"Primary orthostatic tremor",C0134239,7.6667,2,NULL,4,NULL
+"Type iia usher syndrome",C0182561,NULL,2,NULL,1,NULL
+"Painful neuropathy",C0183801,NULL,2,NULL,1,NULL
+"Urothelial neoplasm",C0160737,6.3333,2,NULL,1,1
+"Stage iv ampulla of vater cancer ajcc v7",C0155863,10,2,NULL,2,NULL
+Alpha-sarcoglycanopathies,C0295102,NULL,2,NULL,3,NULL
+"Sport drug abuse",C0295518,NULL,2,NULL,2,NULL
+"Werner syndrome",C0009098,4.9481,2,1152,1,NULL
+"Juvenile pilocytic astrocytoma",C0039468,11.6875,2,NULL,3,NULL
+"Peripheral motor neuropathy",C0020328,4.5789,2,NULL,1,NULL
+"Sexual problem",C0125126,NULL,2,NULL,1,NULL
+"Fraxa syndrome",C0115563,9.6667,2,NULL,1,NULL
+"Large cell lung cancer stage iv",C0123832,10.5,2,NULL,1,1
+"Malignant adult brain neoplasm",C0154714,9.9,2,NULL,1,NULL
+"Thymic carcinoid tumor",C0156014,11.2947,2,NULL,1,NULL
+"Lupus flare",C0349996,8,2,NULL,1,NULL
+"Benign neoplasm of stomach",C0011616,9.1783,2,NULL,1,NULL
+"Central nervous system depression",C0010092,4.8333,2,NULL,2,NULL
+"Neonatal adrenoleukodystrophy",C0039686,9.3947,2,NULL,2,1
+"Upper motor neuron disease",C0087257,6.6,2,NULL,1,NULL
+"Von willebrand disease, type 1",C0140563,5.8846,2,14,1,NULL
+Gossypiboma,C0161508,7,2,NULL,4,NULL
+"Bile acid synthesis defect",C0213945,4,2,NULL,1,NULL
+"Lymphoproliferative syndrome, x-linked, 2",C0181392,6,2,NULL,2,NULL
+"Cerebral astrocytoma",C0115419,12.214,2,NULL,1,NULL
+"Social anhedonia",C0303187,NULL,2,NULL,1,NULL
+"Macular degeneration, age-related, 2",C0312925,NULL,2,NULL,4,NULL
+"Renal glycosuria",C0006208,6.0078,2,406,1,NULL
+"Skin angiosarcoma",C0047398,8.3278,2,NULL,2,NULL
+"Congenital fiber type disproportion",C0088530,7.7143,2,NULL,4,NULL
+"Secondary fibromyalgia",C0115562,NULL,2,NULL,1,NULL
+"Permanent neonatal diabetes mellitus",C0176499,9.2222,2,NULL,2,2
+"Spastic neurogenic urinary bladder",C0115432,11.8,2,NULL,1,NULL
+"Sickle cell dactylitis",C0122217,5,2,NULL,1,1
+"Acute depression",C0156467,5,2,NULL,4,2
+"Juvenile huntington disease",C0115596,9.1,2,NULL,3,NULL
+"Maternal phenylketonuria",C0009305,5.9785,2,100,1,1
+"Chronic leukemia, t-cell",C0006902,7.4592,2,NULL,4,NULL
+"Autoimmune uveitis",C0334244,4,2,NULL,1,NULL
+"Combined hepatocellular carcinoma and cholangiocarcinoma",C0018188,11.6344,2,NULL,3,NULL
+"Farber lipogranulomatosis",C0030277,7.2361,2,9,4,NULL
+"Adenoid cystic carcinoma of submandibular gland",C0003317,12.5346,2,NULL,1,1
+Rectal/anal,C0088988,2,2,NULL,1,NULL
+"Primary hypertrophic osteoarthropathy",C0007506,6.1275,2,493,2,NULL
+"Hemoglobin s sickling disorder with crisis",C0170520,10.6364,2,NULL,2,1
+"Sinus histiocytosis",C0006455,5.0455,2,588,2,NULL
+"Headache migraine chronic",C0114603,NULL,2,NULL,2,NULL
+"Major depressive disorder 1",C0178836,NULL,2,NULL,4,NULL
+"Stage ivb hilar cholangiocarcinoma ajcc v7",C0297612,12.9286,2,NULL,2,NULL
+"Epidermolysis bullosa simplex kobner",C0009163,9.9474,2,NULL,1,NULL
+"Ehlers-danlos syndrome, type 3",C0030330,8.49,2,NULL,1,NULL
+"Alzheimer disease type 1",C0294460,NULL,2,NULL,4,NULL
+"Prostate cancer stage d",C0299581,10.8,2,NULL,10,2
+"Acute transverse myelitis",C0032181,8.2368,2,NULL,2,NULL
+"Acute congestive heart failure",C0027336,10.375,2,NULL,4,12
+"Pernicious anemia",C0004783,6.7126,2,5426,1,NULL
+"Gastric carcinoid tumor",C0049879,9.3605,2,NULL,1,NULL
+"Parkinson disease 2, autosomal recessive juvenile",C0192114,NULL,2,NULL,5,1
+"Thyroid cancer stage iv",C0301146,4,2,NULL,1,NULL
+"Egfr exon 20 insertion mutation",C0352978,7,2,NULL,2,NULL
+"Depression suicidal",C0018407,4,2,NULL,1,1
+"Chronic urinary tract infection",C0025716,7.56,2,NULL,7,NULL
+"Aquagenic pruritus",C0054195,7.1282,2,NULL,1,1
+"Cerebral glioblastoma",C0153814,12.1852,2,NULL,2,NULL
+"Brca1 syndrome",C0153608,6.5,2,NULL,2,2
+"Severe early-onset copd",C0195820,NULL,2,NULL,2,NULL
+"Malignant neoplasm of brain stem",C0000513,10.1646,2,NULL,1,NULL
+"Polyp of nasal sinus",C0026939,7.3636,2,NULL,3,NULL
+"Angiosarcoma of liver",C0047279,10.3419,2,NULL,1,NULL
+"Carcinoma of head of pancreas",C0001419,11.5364,2,NULL,14,5
+"Sickle cell-beta^0^-thalassemia",C0140522,11.5769,2,NULL,1,NULL
+"Lung sarcoma",C0110193,8.5417,2,NULL,2,2
+"Nail-patella syndrome",C0007301,5.8636,3,419,1,NULL
+"Usher syndrome type 2",C0042598,11.7544,3,NULL,6,NULL
+"Rheumatoid arthritis of knee",C0055024,8.5283,3,NULL,5,1
+"Pancreatic adenoma",C0138935,NULL,3,NULL,1,3
+"Endometrioid adenocarcinoma metastatic",C0129797,9.2105,3,NULL,1,1
+"Chronic myelomonocytic leukemia-1",C0153938,9.8571,3,NULL,1,NULL
+"Miyoshi myopathy",C0184134,8.6667,3,NULL,1,NULL
+"Indolent multiple myeloma",C0198686,10.6364,3,NULL,2,4
+"Acute inflammatory demyelinating polyneuropathy",C0314823,8.457,3,NULL,2,4
+Somnambulism,C0008537,5.3231,3,459,1,NULL
+"Trisomy x syndrome",C0018079,5.4286,3,NULL,2,NULL
+"Unspecified use opioid abuse",C0050292,6,3,NULL,1,NULL
+"Adult intracranial neoplasm",C0153478,8,3,NULL,1,NULL
+"Pancreatic leak",C0158503,4,3,NULL,1,1
+"Stage iv small cell lung carcinoma ajcc v7",C0155889,11.4118,3,NULL,1,NULL
+"Lewy body dementia with behavioral disturbance",C0320937,9.9565,3,NULL,1,2
+"Herpetic neuralgia",C0025755,NULL,3,NULL,1,NULL
+"Acute pericarditis",C0012867,7.9444,3,NULL,1,1
+"Pica disease",C0007958,4.1373,3,895,1,NULL
+"Lafora disease",C0115988,6.6477,3,132,3,NULL
+"C-met gene amplification",C0173823,6,3,NULL,3,NULL
+"Large cell lung neuroendocrine carcinoma",C0154622,9.907,3,NULL,1,NULL
+"Pleural epithelioid mesothelioma",C0173598,9.5455,3,NULL,4,3
+"Gaucher disease, type 2",C0030274,4.8636,3,NULL,1,NULL
+"Intestinal graft versus host disease",C0154545,6.5,3,NULL,8,NULL
+"Asthmatic bronchitis",C0152115,9.2424,3,NULL,1,NULL
+"Lung cyst",C0088578,5.8333,3,NULL,3,1
+"Bronchiolitis obliterans organizing pneumonia",C0002171,9.03,3,649,3,NULL
+"Idiopathic bronchiectasis",C0042894,9.1818,3,NULL,1,NULL
+"Autoimmune neutropenia",C0043684,5.4848,3,NULL,2,NULL
+"Upper gastrointestinal disorder",C0116961,3,3,NULL,2,NULL
+"Cardiac variant fabry disease",C0196231,NULL,3,NULL,14,NULL
+"Endocrine breast disease",C0158134,NULL,3,NULL,1,1
+"Krukenberg tumor",C0000259,11.6638,3,342,4,NULL
+"Epithelial basement membrane corneal dystrophy",C0087311,NULL,3,NULL,1,NULL
+"Overt fibrotic stage primary myelofibrosis",C0159967,9.625,3,NULL,1,1
+"Stage iii gallbladder cancer ajcc v7",C0299555,10.6154,3,NULL,2,NULL
+"Primary hypoparathyroidism",C0325955,5,3,NULL,2,NULL
+"Pyruvate dehydrogenase complex deficiency disease",C0008218,5.6187,3,320,1,NULL
+"Chronic pelvic inflammatory disease",C0009710,9.2419,3,NULL,1,NULL
+"Malignant neoplasm of scrotum",C0000001,9.7369,3,NULL,1,NULL
+"Pyridoxine-dependent epilepsy",C0183208,7.3103,3,NULL,2,NULL
+"Parkinson disease 10",C0182095,NULL,3,NULL,1,NULL
+"Supranuclear palsy, progressive, 1, atypical",C0183586,NULL,3,NULL,4,NULL
+Polysomy,C0159474,4,3,NULL,1,NULL
+"Secondary central nervous system hodgkin lymphoma",C0335481,9.8889,3,NULL,1,NULL
+"Adult sleep bruxism",C0115976,NULL,3,NULL,1,NULL
+"Anaplastic astrocytoma of brain",C0049941,11.1041,3,NULL,1,1
+"Chronic kidney disease stage 2",C0203535,9.963,3,NULL,1,NULL
+"Dedifferentiated chondrosarcoma",C0130162,9.7895,3,NULL,2,NULL
+"Parkinson's disease and parkinsonism",C0136204,3,3,NULL,32,NULL
+"Anal cancer metastatic",C0156269,6.2857,3,NULL,1,NULL
+"Avoidant personality disorder",C0004956,4.375,3,NULL,1,NULL
+"Pain sacroiliac",C0020689,NULL,3,NULL,1,NULL
+"Lyme arthritis",C0024425,9,3,NULL,3,NULL
+"Mature t all",C0160914,8,3,NULL,3,NULL
+"Progressive relapsing multiple sclerosis",C0051342,5.6667,3,NULL,1,NULL
+"Accommodative insufficiency",C0042715,8.6667,3,NULL,1,1
+"Joint loose body",C0006751,4.3889,3,600,1,NULL
+"Adult type ovarian granulosa cell tumor",C0153492,10.5217,3,NULL,2,2
+"Inherited bone marrow failure syndrome",C0299430,6,3,NULL,2,NULL
+"Behavioral variant of frontotemporal dementia",C0336152,9.1579,3,NULL,1,1
+"Tumor necrosis factor receptor 1-associated periodic syndrome",C0334745,5,3,NULL,1,NULL
+"Lower extremity paresis",C0115721,6,3,NULL,2,NULL
+"Objective tinnitus",C0012762,6.6667,3,NULL,4,NULL
+"Graft pain",C0139502,NULL,3,NULL,1,NULL
+"Facioscapulohumeral muscular dystrophy 1a",C0177120,NULL,3,NULL,2,NULL
+"Activated pi3k-delta syndrome",C0321382,6,3,NULL,2,NULL
+"Type iv ehlers-danlos syndrome",C0030331,8.6842,3,NULL,3,NULL
+"Parkinsonian tremor",C0109229,6,3,NULL,1,1
+"With oculomotor apraxia and hypoalbuminemia ataxia, early-onset",C0188400,NULL,3,NULL,1,NULL
+"Familial  infantile convulsion and paroxysmal choreoathetosis",C0191086,10.119,3,NULL,1,NULL
+"Metastatic ocular melanoma",C0202921,4,3,NULL,4,1
+"Hereditary angioedema type i",C0210594,NULL,3,NULL,3,NULL
+"Secondarily generalized seizure",C0032358,7,4,NULL,1,1
+"Aromatic amino acid decarboxylase deficiency",C0044967,9,4,NULL,2,NULL
+Cancerophobia,C0019722,9.6667,4,NULL,2,1
+"Gitelman syndrome",C0030421,7.949,4,81,1,NULL
+"Recurrent atrial fibrillation",C0114231,NULL,4,NULL,1,NULL
+"Multiple sclerosis relapse",C0124804,4,4,NULL,5,4
+"Nongerminomatous germ cell tumor",C0141696,10.2857,4,NULL,1,NULL
+"Breast carcinoma metastatic in the brain",C0153733,10.5532,4,NULL,2,3
+"Orbital pseudotumor",C0009258,5.8478,4,405,1,NULL
+"Basal cell neoplasm",C0017933,6,4,346,1,NULL
+"Congenital myotonic dystrophy",C0055556,8.4091,4,NULL,2,1
+"Tranexamic acid adverse reaction",C0056940,8,4,NULL,1,NULL
+"Vascular parkinsonism",C0051257,6.8205,4,NULL,1,NULL
+"Tnf receptor-associated periodic fever syndrome (trap)",C0143421,4.0732,4,NULL,1,1
+"Herlitz disease",C0001597,7.2901,4,300,1,NULL
+"Stargardt disease 1",C0186043,NULL,4,NULL,1,2
+"Renal pain",C0090877,6.6563,4,NULL,1,NULL
+"Whim syndrome",C0077187,6.8889,4,NULL,1,NULL
+"Limited scleroderma",C0115090,4.3448,4,147,2,NULL
+"Multifocal breast carcinoma",C0299412,7.6,4,NULL,1,3
+"Infectious gastroenteritis",C0038020,9.8212,4,NULL,1,NULL
+"Mass lesion of brain",C0114328,6.5,4,NULL,3,NULL
+"Adiposis dolorosa",C0004657,6.5814,4,124,1,NULL
+"Congenital anemia, hemolytic",C0004775,5.1477,4,1800,2,NULL
+"Stage iv diffuse large b-cell lymphoma",C0123962,9.0545,4,NULL,2,2
+"Plaque morphea",C0147266,11.3529,4,NULL,1,NULL
+"Pelvic floor dyssynergia",C0162545,4,4,NULL,1,NULL
+"Proteus infection",C0008118,4.3889,4,2595,1,NULL
+"Cancer pancreatic staging",C0039257,5,4,NULL,7,2
+"Secondary malignant neoplasm of large intestine",C0000695,13.0386,4,NULL,4,NULL
+"Visual halo",C0032620,8.6,4,NULL,1,NULL
+"Deficiency of butyryl-coa dehydrogenase",C0045036,4.6341,4,NULL,1,NULL
+"Hair loss/baldness",C0086166,2,4,NULL,2,1
+"Hereditary factor viii deficiency disease without inhibitor",C0137525,4.68,4,NULL,1,NULL
+"Lung cancer stage ii",C0130118,NULL,4,NULL,10,13
+"Polyglandular type i autoimmune syndrome",C0009397,7.9643,4,NULL,1,NULL
+"Cancer of nose",C0004546,5.0185,4,7643,6,4
+"Stent stenosis",C0349549,NULL,4,NULL,3,NULL
+"High grade adult non-hodgkin's lymphoma",C0038829,9,4,NULL,1,NULL
+Xerocytosis,C0033300,8.72,4,NULL,2,NULL
+"Gastrointestinal pain",C0113166,4.0833,4,NULL,1,1
+"Stage iv liver cancer",C0155872,9.8125,4,NULL,1,NULL
+"Familial hypoalphalipoproteinemia",C0172856,6.8,4,NULL,1,NULL
+"Malignant tumour of parotid gland",C0003576,12.3533,4,NULL,1,NULL
+"Dupuytren's disease of finger",C0055412,8.234,4,NULL,1,NULL
+"Tufted angioma of skin",C0047391,8.8204,4,NULL,3,NULL
+"Pancreatic pain",C0087495,7,4,NULL,2,NULL
+"Grade ii meningioma",C0159019,8.5,4,NULL,2,NULL
+Gliosis,C0006181,3.9333,4,2823,1,NULL
+"Pleomorphic rhabdomyosarcoma",C0041459,10.7917,4,NULL,1,NULL
+"Lung cancer stage i",C0130109,NULL,4,NULL,8,NULL
+"Central nervous system leukaemia",C0153792,5.0244,4,NULL,2,NULL
+"Familial hemiplegic migraine",C0041787,7.0676,4,NULL,1,1
+"Pain in testicle",C0008732,6.9032,4,NULL,1,NULL
+"Acute myeloid leukaemia recurrent",C0138736,4,4,NULL,4,NULL
+"Mitochondrial respiratory chain deficiency",C0137110,NULL,4,NULL,2,NULL
+"Sporadic amyotrophic lateral sclerosis",C0190033,NULL,4,NULL,1,1
+"Benzodiazepine withdrawal",C0198979,6,4,NULL,1,NULL
+"Burkitt-like lymphoma",C0156251,12.3,4,NULL,5,NULL
+"Narcotic dependence",C0161282,NULL,4,NULL,8,NULL
+"Inborn brain diseases, metabolic",C0116160,4.4912,4,311,8,NULL
+"Breast cyst",C0005088,4.8095,5,154,14,4
+"Chronic myeloid leukemia in remission",C0011578,8.9153,5,NULL,1,NULL
+"Disorder of knee",C0148063,7.4,5,NULL,1,NULL
+"Decompensated copd",C0269955,NULL,5,NULL,1,NULL
+"Pneumococcal meningitis",C0007126,7.4429,5,2622,1,2
+"Fgfr2 gene mutation",C0326063,5,5,NULL,5,NULL
+"Chronic gouty arthritis",C0030169,8.1304,5,NULL,1,NULL
+"Mild depression",C0109587,6,5,NULL,5,2
+"Clinical depression",C0204794,4,5,NULL,1,1
+"Blood stem cell transplant failure",C0138959,4,5,NULL,3,NULL
+"Benign tumor of pancreas",C0048166,8.4,5,NULL,7,1
+"Pulsatile tinnitus",C0115832,5,5,NULL,1,NULL
+"Recurrent meningioma",C0155376,8.5,5,NULL,2,NULL
+"Chronic pain due to injury",C0203518,8,5,NULL,1,NULL
+"Cecal neoplasm",C0003315,12.7058,5,2142,1,NULL
+"Capillary malformation",C0043536,7.3226,5,NULL,11,1
+"Zellweger syndrome",C0009134,4.8939,5,494,2,3
+"Craniomandibular disorder",C0009154,4,5,326,1,NULL
+"Lazy eye",C0063307,4,5,NULL,3,1
+"Kabuki make-up syndrome",C0116407,4.8333,5,NULL,4,NULL
+"Tangier disease",C0008713,6.0349,5,449,1,NULL
+"Young onset parkinson disease",C0362721,10.1111,5,NULL,3,6
+"Scurfiness of scalp",C0001223,8.4974,5,53,1,NULL
+"Cardiac pain",C0063897,6.1429,5,NULL,2,NULL
+"Congenital abnormality of vein",C0295197,6.4286,5,NULL,2,NULL
+"Hereditary spherocytosis",C0008556,6.03,5,1937,4,NULL
+Papillomatosis,C0017788,4.6,5,NULL,1,NULL
+"Sjogren-larsson syndrome",C0008503,5.7035,5,158,1,NULL
+"Metastasis to peripheral nerve",C0003521,10.3523,5,NULL,5,1
+"Acute pelvic inflammatory disease",C0009709,9.2419,5,NULL,1,NULL
+"Rat sarcoma",C0193471,9,5,NULL,1,NULL
+"Herpes simplex type ii",C0114091,NULL,5,NULL,1,NULL
+"Acute disseminated encephalomyelitis",C0005806,7.086,5,1355,1,NULL
+"Bilateral breast cancer",C0039503,8,5,NULL,2,NULL
+"Very long chain acyl-coa dehydrogenase deficiency",C0333974,4.641,5,NULL,1,NULL
+"Smoker's lung",C0121236,NULL,5,NULL,2,NULL
+"Copd bronchitis",C0114392,NULL,5,NULL,12,NULL
+"Central nervous system lupus vasculitis",C0116275,5.0939,5,374,3,NULL
+"Mastitis-metritis-agalactia syndrome",C0036770,10.5556,5,NULL,1,NULL
+"Cancer of lymph node",C0136717,7,5,NULL,1,NULL
+"Refsum disease",C0008247,6.3374,5,603,3,NULL
+"Chemo brain",C0192273,NULL,5,NULL,1,NULL
+"Inflammatory and toxic neuropathy",C0000419,5.7349,5,2803,1,NULL
+"Wernicke-korsakoff syndrome",C0049828,5.3709,5,319,2,NULL
+"Sudden deafness",C0139089,NULL,5,NULL,1,NULL
+"Kidney transplant failure",C0157166,5,5,NULL,1,NULL
+"Factor v leiden mutation",C0108675,4.2174,5,NULL,4,NULL
+"Stage iia lung cancer ajcc v7",C0155640,11.4545,5,NULL,1,2
+"Ocular onchocerciasis",C0007460,7.24,5,334,1,NULL
+"Psoriatic plaque",C0134910,NULL,5,NULL,1,2
+"Neonatal diabetes mellitus",C0015142,4.7391,5,NULL,1,4
+"Chronic nonmalignant pain",C0319253,8,5,NULL,2,2
+"Dermatofibrosis lenticularis disseminata",C0027984,7.0492,6,NULL,1,1
+"Congenital disorder of glycosylation",C0039694,4.8519,6,329,1,NULL
+Hypoplasminogenemia,C0051997,7,6,NULL,5,NULL
+"Cyclothymic disorder",C0002826,4.3784,6,463,1,NULL
+"Pruritus of vagina",C0009010,9.8571,6,NULL,1,NULL
+"Unknown primary tumor",C0009490,NULL,6,NULL,5,NULL
+"Benign neoplasm of adrenal gland",C0011694,8.8106,6,NULL,1,NULL
+"Childhood ataxia with central nervous system hypomyelinization",C0187972,9.3333,6,NULL,1,NULL
+"With uveitis and cranial neuropathy  synovitis, granulomatous",C0189264,4.2281,6,NULL,5,NULL
+"Renal fibrosis",C0010157,8.3,6,NULL,1,NULL
+"Postural low back pain",C0105960,7.6667,6,NULL,1,1
+"Infantile epilepsy, myoclonic",C0134419,NULL,6,NULL,1,NULL
+"Disorder of pregnancy",C0010278,4.1667,6,NULL,1,NULL
+"Radiation therapy complication",C0051105,5,6,NULL,5,NULL
+"Oncology problem",C0114128,NULL,6,NULL,7,NULL
+"Postmenopausal frontal fibrosing alopecia",C0143011,11.5738,6,NULL,2,NULL
+"Epithelioid hemangioendothelioma",C0017953,7.4444,6,473,1,NULL
+"Nodular sclerosis classical hodgkin lymphoma",C0010511,7.2,6,NULL,1,NULL
+"Grade iii meningioma",C0039480,8.5,6,NULL,1,NULL
+Myasthenia,C0136259,3.625,6,NULL,8,NULL
+"Pten gene mutation",C0305949,4.0909,6,NULL,3,NULL
+Lymphangiomatosis,C0041198,7.7895,6,NULL,2,NULL
+"Argininosuccinic aciduria",C0030492,5.8529,6,113,2,NULL
+"Bone marrow transplant failure",C0043699,6.2727,6,NULL,4,NULL
+"Poem syndrome",C0009286,4.5766,6,515,2,NULL
+"Cancer colon staged",C0039282,5.5,6,NULL,5,2
+"Spinocerebellar ataxia type 6",C0116166,9.75,6,NULL,8,NULL
+"Breastfeeding painful",C0090716,9.2222,6,NULL,1,NULL
+"Functional disorder of intestine",C0006113,7.8421,6,NULL,1,NULL
+"Persistent depressive disorder",C0353211,4,6,NULL,2,NULL
+"Occult malignancy",C0114298,NULL,6,NULL,3,NULL
+"Breast carcinoma metastatic in the bone",C0153732,10.0455,6,NULL,1,1
+"Hbv coinfection",C0202920,NULL,6,NULL,1,NULL
+"Kearns-sayre syndrome",C0006758,5.3971,6,541,3,NULL
+Osteoma,C0007517,7.0533,6,2905,1,NULL
+"Pten hamartoma tumor syndrome",C0194104,5.5,6,NULL,7,NULL
+"Amaurosis congenita of leber, type 1",C0294461,NULL,6,NULL,1,NULL
+"Duchenne and becker muscular dystrophy",C0314810,NULL,6,NULL,8,NULL
+"Adult burkitt lymphoma",C0038705,12.1111,6,NULL,1,NULL
+"Creutzfeldt-jakob disease",C0006734,6.0826,6,4998,3,NULL
+"Hereditary multiple exostosis",C0005935,7.4453,6,971,2,NULL
+"Malignant neoplasm of jejunum",C0003351,12.7131,7,NULL,2,NULL
+"Tethered cord syndrome",C0009211,7.7143,7,NULL,3,1
+"Recurrent lung cancer",C0130088,NULL,7,NULL,4,5
+"Stage iii lung cancer",C0130132,NULL,7,NULL,33,12
+"22q13.3 deletion syndrome",C0185148,7.6667,7,NULL,50,3
+"Coronary artery disease, autosomal dominant, 1",C0180221,NULL,7,NULL,1,NULL
+"Perihilar cholangiocarcinoma",C0348626,NULL,7,NULL,1,NULL
+"Venous malformation",C0028342,6.8182,7,NULL,10,NULL
+"Capillary leak syndrome",C0045232,5.4925,7,343,2,NULL
+"Erbb2 gene mutation",C0306388,5,7,NULL,10,NULL
+"Maple syrup urine disease",C0007068,5.1053,7,908,3,NULL
+"Pleural mesothelioma malignant advanced",C0123749,9.5,7,NULL,1,1
+"Infantile neuroaxonal dystrophy",C0032261,8.75,7,NULL,3,NULL
+"Malignant tumor of digestive organ",C0047728,6.8,7,NULL,3,NULL
+"Premature aging syndrome",C0018518,4.8,7,466,1,1
+"Hypermobility syndrome",C0010386,5.8649,7,NULL,1,NULL
+"Wolff-parkinson-white syndrome",C0009110,5.7959,7,4898,4,NULL
+"Adrenal cortical hypofunction",C0053874,6.9231,7,NULL,2,NULL
+"Neonatal opiate withdrawal syndrome",C0306888,5.6667,7,NULL,2,NULL
+"Endolymphatic hydrops",C0017852,7.8976,7,445,1,NULL
+"Facial neuralgia",C0005969,5.7183,7,1139,1,NULL
+"Acquired haemophilia",C0137261,4.25,7,NULL,1,NULL
+Leukocytosis,C0006906,3.94,7,4333,1,NULL
+"Evans syndrome",C0033371,8,7,NULL,2,NULL
+"Primary immunoglobulin a nephropathy",C0301502,14.8144,7,NULL,3,4
+"Glycogen storage disease type iii",C0006201,6.048,7,267,3,NULL
+Akathisia,C0050881,4.2692,7,NULL,1,NULL
+"Paroxysmal nocturnal dyspnea",C0194102,4.5652,7,NULL,1,NULL
+"Inflammatory carcinoma of breast stage iv",C0123088,7,7,NULL,1,NULL
+"Cardiac carcinoma",C0003496,7.1406,7,11703,2,NULL
+"Primary central nervous system neoplasm",C0115871,7,7,NULL,1,1
+"Central nervous system hodgkin lymphoma",C0198556,9.5455,7,NULL,1,NULL
+"Liver mass",C0022953,5.3,7,NULL,1,NULL
+"Inborn error metal metabolism",C0007152,4.2188,7,224,2,NULL
+"Angioimmunoblastic t-cell lymphoma recurrent",C0123702,10.2469,7,NULL,2,2
+"Non-small cell carcinoma of lung, tnm stage 4",C0175427,11.7917,7,NULL,2,4
+"Stiff-person syndrome",C0009264,4.495,8,402,1,NULL
+"Neuromuscular inhibition",C0019913,4,8,NULL,1,NULL
+"Egfr np_005219.2:p.l858r",C0306682,5,8,NULL,23,NULL
+"Liver cyst",C0029928,6.2545,8,NULL,1,NULL
+"Specific child development disorder",C0009409,NULL,8,NULL,1,NULL
+"Intravenous drug abuse",C0009419,5.5,8,NULL,1,NULL
+"Anal basaloid carcinoma",C0039438,9.1333,8,NULL,1,NULL
+"Mitochondrial toxicity",C0137305,3.9524,8,NULL,2,NULL
+"Acute lymphoblastic leukemia, in relapse",C0237271,5,8,NULL,4,7
+"Herpetic keratitis",C0002976,7.4516,8,1295,1,NULL
+Galactosemia,C0006125,4.8278,8,1979,32,NULL
+"Mobius syndrome",C0018099,7.8715,8,173,2,NULL
+"Anal cancer stage i",C0038569,4.1818,8,NULL,2,1
+"Hereditary angioedema type i and ii",C0210593,6.5385,8,19,1,NULL
+"Lumbar spondylosis",C0009725,8.3261,8,NULL,1,NULL
+"Non-24 hour sleep-wake disorder",C0115967,4,8,NULL,1,NULL
+"Pediatric autoimmune neuropsychiatric disorder associated with streptococcal infection",C0294614,4,8,NULL,1,NULL
+"Deficiency of pyruvate kinase",C0043681,5.125,8,NULL,46,NULL
+Meningoencephalitis,C0007130,6.0849,8,5097,1,NULL
+"Waldenstrom's macroglobulinaemia recurrent",C0122872,10.8605,8,NULL,1,2
+"Juvenile psoriatic arthritis",C0321359,8.2,8,NULL,1,1
+"C3 glomerulopathy",C0353221,4,8,NULL,9,2
+"Autosomal dominant optic atrophy",C0041806,6.8052,8,115,1,NULL
+"Stage prostate cancer",C0039299,5,8,NULL,9,NULL
+Butting,C0019594,5,8,NULL,1,NULL
+"Pilocytic astrocytoma",C0041543,10.1,8,NULL,5,NULL
+"Waldenstrom's macroglobulinaemia refractory",C0123676,9.0099,8,NULL,1,2
+"Brachial plexus neuritis",C0018412,6.6721,8,1227,3,NULL
+Cystadenoma,C0005509,6.5897,8,3501,1,NULL
+Glomerulosclerosis,C0017583,7.8571,8,NULL,1,NULL
+Progeria,C0008103,5.1286,8,969,7,NULL
+"Intracranial meningioma",C0049931,8.5581,8,NULL,5,NULL
+"Solid carcinoma",C0041307,12.1111,8,NULL,6,NULL
+"Angioimmunoblastic t-cell lymphoma refractory",C0123697,10.2469,8,NULL,1,1
+"Childhood depression",C0204980,4.25,8,NULL,1,2
+"Peripheral vertigo",C0012734,8.3571,8,NULL,1,NULL
+"Stage iv esophageal adenocarcinoma",C0138879,7.913,8,NULL,1,1
+"Giant cell fibroblastoma",C0320011,8.9439,8,NULL,2,1
+"Crohn's disease of large bowel",C0013218,10.0778,9,NULL,10,2
+"Fibrodysplasia ossificans progressiva",C0006030,5.3333,9,NULL,5,NULL
+"Epidermolysis bullosa acquisita",C0009158,5.4286,9,307,2,NULL
+"Cerebral toxoplasmosis",C0009274,7.1303,9,953,1,NULL
+"Propionic acidemia",C0000286,5.6538,9,36,2,NULL
+"Alk negative anaplastic large cell lymphoma",C0153425,11.0769,9,NULL,4,NULL
+"Reactive arthritis",C0009298,6.1905,9,3535,2,NULL
+"Cervix carcinoma stage i",C0038606,8.5769,9,NULL,1,NULL
+"Migraine with typical aura",C0174888,9.0625,9,NULL,1,NULL
+"Hangover from any alcohol or other drug substance",C0018109,4,9,NULL,1,NULL
+"Adenocarcinoma of the prostate metastatic",C0129940,10.6563,9,NULL,1,1
+"Ntrk1 gene rearrangement",C0173758,6,9,NULL,9,NULL
+Vaginospasm,C0197730,4.88,9,43,4,NULL
+"Difficulty sleeping",C0020411,4.25,9,NULL,1,NULL
+"Cancer fatigue",C0153756,5.5,9,NULL,6,NULL
+"Senile osteoporosis",C0007526,5.6667,9,NULL,1,NULL
+"Anxiety and fear",C0064333,5.5,9,NULL,1,NULL
+"Abortion early",C0136916,4,9,NULL,1,NULL
+"Hallervorden-spatz syndrome",C0006258,5.8636,9,353,11,8
+"Testicular disease",C0008730,4.8451,9,3876,2,2
+"Non-radiographic axial spondyloarthritis",C0334677,8.7037,9,NULL,3,NULL
+Syringomyelia,C0008700,4.9074,9,2965,1,NULL
+"Biliary colic",C0010254,6,9,NULL,1,NULL
+"Q fever",C0008221,4.4444,9,3516,3,NULL
+"Aggressive systemic mastocytosis",C0138003,9.2826,9,NULL,1,NULL
+"Signet ring cell carcinoma",C0017924,5.8182,9,1090,1,NULL
+"Bilateral glaucoma",C0125466,9.4,9,NULL,3,NULL
+"Adult brain glioblastoma",C0153462,11.4507,9,NULL,35,27
+"Niemann-pick disease, type c1",C0303265,9.5,9,NULL,3,1
+"Congenital hypothyroidism",C0000096,6.0985,10,3477,3,1
+"Cognitive deterioration",C0123270,3,10,NULL,1,NULL
+Lipoma,C0006944,5.5574,10,9508,1,NULL
+"Carcinoma in situ of bladder",C0001608,10,10,NULL,1,1
+"Type ii muscular atrophy, spinal",C0051232,8.9091,10,NULL,31,4
+Leukoaraiosis,C0136431,3.6111,10,185,1,NULL
+"Chronic idiopathic thrombocytopenic purpura",C0033520,7.619,10,NULL,2,3
+"Hyperlipoproteinemia type iia",C0114678,4.4545,10,NULL,3,NULL
+"Renal cyst",C0333959,6.9524,10,NULL,13,2
+"Neurotic disorder",C0007399,3.3043,10,17399,1,NULL
+"Non-small cell lung cancer stage 0",C0038811,4.2273,10,NULL,8,1
+Mucormycosis,C0007221,4.1207,10,2435,1,NULL
+"Malignant neoplasm of sigmoid colon",C0003692,13.1198,10,NULL,3,NULL
+"Spinocerebellar ataxia type 1",C0116162,9.6447,10,NULL,2,NULL
+"Pancreatic cancer non-resectable",C0129075,NULL,10,NULL,5,NULL
+"Bile acid malabsorption",C0211501,4,10,NULL,1,NULL
+"Spinocerebellar ataxia type 2",C0116163,9.75,10,NULL,1,NULL
+"Tonic-clonic epilepsy",C0005871,7.25,10,3764,8,NULL
+"Primary hypersomnia",C0008095,6.25,10,NULL,1,NULL
+"Cold hemagglutinin disease",C0002307,8.6753,10,NULL,2,NULL
+"Asthma with copd",C0131333,NULL,10,NULL,5,1
+"Heel spur",C0014750,6.5273,10,76,1,NULL
+"Emphysema or copd",C0173987,NULL,10,NULL,2,NULL
+"Semantic dementia",C0041770,9.4091,10,NULL,4,NULL
+"Metastatic leiomyosarcoma",C0123903,7.65,10,NULL,1,1
+"Atm gene mutation",C0158764,5,10,NULL,6,NULL
+"Fibrous dysplasia",C0024539,10.1765,10,NULL,1,NULL
+"Adenocarcinoma unknown primary",C0039171,9.2,10,NULL,1,NULL
+"Depression and suicide",C0161222,4,10,NULL,1,NULL
+"Amyotrophic lateral sclerosis 1",C0190031,4,10,NULL,9,24
+"Gangliosidosis gm1",C0009237,8.2959,10,269,1,NULL
+Nephrocalcinosis,C0007365,5.8864,10,1591,2,NULL
+"Undifferentiated connective tissue disease",C0055352,3.8837,10,NULL,1,1
+"Cystic fibrosis pulmonary exacerbation",C0138399,5,10,NULL,10,13
+"Congenital mesoblastic nephroma",C0153865,8.2105,10,NULL,3,NULL
+"Lesch-nyhan syndrome",C0006866,5.1975,11,1062,2,NULL
+"Carcinoma in situ of esophagus",C0011707,8.2773,11,NULL,1,1
+"Epidermolysis bullosa simplex",C0009162,6,11,322,5,NULL
+"Sturge-weber syndrome",C0008632,6.4147,11,891,7,NULL
+"Patellar tendonitis",C0014746,7.1739,11,NULL,1,NULL
+"Stage iiia hepatocellular carcinoma ajcc v7",C0155681,12.2,11,NULL,2,NULL
+"Treatment-resistant schizophrenia",C0315025,NULL,11,NULL,2,NULL
+"Glycogen storage disease type i",C0006200,6.1023,11,1100,7,NULL
+"Effect of immunotherapy",C0140546,3,11,NULL,7,NULL
+"Hereditary fructose intolerance syndrome",C0006107,4.9136,11,321,1,NULL
+"Cadasil syndrome",C0115849,5.5224,11,298,6,1
+"Other dermatology or skin adverse event",C0167473,7,11,NULL,1,NULL
+"Crigler najjar syndrome, type 1",C0005491,5.4688,11,347,8,NULL
+"Joint stiffness",C0017366,3.9545,11,NULL,1,NULL
+"Philadelphia chromosome-positive acute lymphoblastic leukemia",C0194298,10.6471,11,NULL,1,1
+"Stage ii pleural malignant mesothelioma ajcc v7",C0155767,10.5,11,NULL,6,NULL
+"Braf np_004324.2:p.v600e",C0306508,6,11,NULL,3,NULL
+"Anorectal disease",C0113164,7.3235,11,NULL,1,NULL
+"Chronic anemia",C0107695,7.1765,11,NULL,1,2
+Methemoglobinemia,C0007159,4.0233,11,2645,4,NULL
+"Primary sjögren's syndrome",C0010039,8.7945,11,NULL,3,NULL
+"Sickle cell-thalassemia disease",C0203014,7.5741,11,NULL,18,NULL
+"Alveolar periostitis",C0005693,7.2745,11,615,1,NULL
+"Keratosis follicularis",C0006773,4.5375,12,1482,1,NULL
+"Pancreatic intraductal papillary-mucinous neoplasm",C0160526,8.75,12,NULL,2,NULL
+"Leigh disease",C0006848,5.7759,12,663,2,NULL
+"Stage i cutaneous melanoma ajcc v6",C0038782,8.25,12,NULL,1,1
+"Diabetic autonomic neuropathy",C0032983,4.9231,12,NULL,10,NULL
+"Klippel-trenaunay-weber syndrome",C0006787,8.8741,12,895,22,NULL
+"Delayed sleep phase syndrome",C0051430,6.4286,12,NULL,1,NULL
+"Antibiotic resistant strain",C0127796,NULL,12,NULL,1,NULL
+"Cerebral amyloid angiopathy",C0009251,5.6596,12,844,1,NULL
+"Carcinoma in situ of prostate",C0003402,9.8788,12,888,1,NULL
+"Exogenous obesity",C0002864,4.5,12,NULL,2,NULL
+"Progressive muscular atrophy",C0134437,5.5,12,NULL,5,3
+"Chronic heart disease",C0147591,7.6667,12,NULL,3,NULL
+"Facet joint pain",C0063939,5.0938,12,NULL,1,NULL
+"Dysplastic nevus",C0017764,7.9474,12,NULL,2,NULL
+"Non-healed wound",C0115294,9,12,NULL,1,NULL
+"Pancreatic carcinoma stage iva",C0139445,7.3333,12,NULL,1,1
+"Atypical lipoma",C0141669,9.5,12,NULL,1,NULL
+"Malignant neoplasm of pancreatic duct",C0011316,11.0253,12,NULL,12,NULL
+"Light chain disease",C0021485,6.3226,12,NULL,2,NULL
+Thrombasthenia,C0008749,5.0361,12,709,1,NULL
+"Chronic kidney disease stage 3",C0203536,9.963,12,NULL,3,NULL
+"Mucopolysaccharidosis vii",C0009238,5.7708,12,202,2,1
+"X-linked centronuclear myopathy",C0055537,8.6316,12,NULL,5,NULL
+Ganglioglioma,C0017938,6.3662,12,549,1,NULL
+"Mixed anxiety and depressive disorder",C0042116,4.3333,12,NULL,14,NULL
+"X-linked bulbo-spinal atrophy",C0179265,4.8966,12,23,1,NULL
+"Adult hodgkin lymphoma",C0017973,9.4545,13,NULL,5,4
+"Severe depression",C0109589,6,13,NULL,2,2
+"Emotional disorder",C0019543,4,13,NULL,1,NULL
+Albinism,C0004698,4.4726,13,1660,1,NULL
+"Noonan syndrome",C0007422,4.6154,13,993,5,NULL
+"Idh-wildtype glioblastoma",C0159496,10.8333,13,NULL,9,2
+"Sickle cell-beta-thalassemia",C0018068,10.7258,13,NULL,8,NULL
+"Intervertebral disc disorder",C0014694,6.2,13,NULL,1,NULL
+"Adult non-hodgkin lymphoma",C0017975,9.4545,13,NULL,1,2
+"Eye pain",C0010256,4.4921,13,106,1,NULL
+"Chronic depression",C0107702,6,13,NULL,20,7
+"Anoxic encephalopathy",C0004826,9.1333,13,NULL,1,NULL
+"Benign tumor of mediastinum",C0011624,7.099,13,NULL,1,NULL
+"Li-fraumeni syndrome",C0009277,4.1311,13,424,5,3
+"Nephropathic cystinosis",C0294396,7.25,13,983,23,NULL
+"Denture stomatitis",C0008610,7.9032,13,861,1,1
+"Chronic kidney disease stage 4",C0203672,9.963,13,NULL,1,NULL
+"Dedifferentiated liposarcoma",C0017777,6.9487,13,NULL,1,NULL
+"Mixed connective tissue disease",C0007184,4.9138,13,1339,5,1
+Morphea,C0161273,5.8696,13,NULL,5,NULL
+"End stage cancer",C0114297,NULL,13,NULL,2,1
+"Lupus cutaneous",C0114785,NULL,14,NULL,1,NULL
+"Castration-resistant prostatic cancer",C0318988,NULL,14,NULL,6,NULL
+"Late-infantile neuronal ceroid lipfuscinosis",C0006735,8.9333,14,NULL,18,NULL
+"Congenital neutropenia",C0043683,6.7273,14,NULL,1,NULL
+"Chronic post-traumatic stress disorder",C0113921,5.5,14,NULL,7,4
+"Spastic paraparesis",C0008543,6.1053,14,252,3,NULL
+"Late onset alzheimer disease",C0000421,10.1538,14,NULL,2,5
+"Hemoglobin s disease with crisis",C0021594,8.9155,14,NULL,35,6
+Hyperacusis,C0008235,5.3545,14,324,4,NULL
+"Sporadic inclusion body myopathy",C0115937,NULL,14,NULL,2,NULL
+"MPS III B",C0009462,8.3,14,NULL,7,NULL
+"Hmn (hereditary motor neuropathy) proximal type i",C0009097,8.0385,14,NULL,20,NULL
+Causalgia,C0005201,5.2698,14,599,4,NULL
+"Clostridium difficile diarrhea",C0020828,12.4568,14,NULL,2,NULL
+"Second primary cancer",C0115874,4.5,14,NULL,1,NULL
+Alpha-thalassemia,C0004730,5.9694,14,1164,1,NULL
+"Recurrent depression",C0018243,5.8,14,NULL,2,NULL
+"Disorder of shoulder",C0148044,6.6,14,NULL,9,NULL
+"Clear-cell metastatic renal cell carcinoma",C0295005,NULL,14,NULL,11,1
+"Urinary tract obstruction",C0000054,5.6,14,NULL,1,NULL
+"Marinesco-sjogren syndrome",C0007075,9.7778,14,NULL,1,NULL
+"T-cell lymphoma refractory",C0123690,7.6087,14,NULL,1,NULL
+"Tp53 gene mutation",C0335416,5,14,NULL,2,NULL
+"Alopecia universalis",C0026335,6.8,15,NULL,3,1
+"Hereditary spastic paraplegia",C0008545,6.7095,15,641,2,NULL
+"Cutaneous lymphoma",C0143891,4,15,NULL,1,NULL
+"Lymphatic abnormality",C0051920,3.7647,15,110,6,NULL
+"Nut hypersensitivity",C0105927,6.2,15,137,1,NULL
+"Treatment related secondary malignancy",C0134044,6.5,15,NULL,1,NULL
+"Adrenal gland disease",C0004669,3.7091,15,4769,2,NULL
+"Primary hiv infection",C0139031,NULL,15,NULL,1,NULL
+"Lumbosacral radiculopathy",C0012168,6.2105,15,NULL,1,NULL
+"Pseudoxanthoma elasticum",C0008151,4.1667,15,1241,1,NULL
+"Diffuse lymphoma",C0321315,5.6,15,NULL,2,NULL
+"Irritable bowel syndrome with constipation",C0359793,4,15,NULL,1,1
+"Toxic epidermal necrolysis",C0005860,5.9432,15,NULL,1,NULL
+"Primary fibromyalgia",C0115561,7.2381,15,NULL,2,1
+"Leptomeningeal neoplasm",C0115649,8,15,NULL,1,NULL
+"Juvenile spinal muscular atrophy",C0010396,8.6667,16,NULL,16,NULL
+"Idiopathic hypereosinophilic syndrome",C0017817,8.1429,16,NULL,1,NULL
+"Stage iii pleural malignant mesothelioma ajcc v7",C0155729,10.5,16,NULL,1,NULL
+"Immune suppression",C0179752,NULL,16,NULL,1,NULL
+"Cancer other",C0173083,6,16,NULL,6,NULL
+"Functional colonic disease",C0005397,5.2667,16,3553,1,NULL
+"B acute lymphoblastic leukemia with t(9,22)(q34.1,q11.2), bcr-abl1",C0173582,11.0526,16,NULL,1,NULL
+"Brain stem infarction",C0087154,6.1405,16,389,2,4
+"Social stress",C0133550,NULL,16,NULL,2,NULL
+"Congenital nonbullous ichthyosiform erythroderma",C0009152,6.1364,16,517,1,NULL
+"Respiratory distress syndrome in premature infant",C0195134,NULL,16,NULL,1,NULL
+"Stage iv adenocarcinoma of lung",C0123838,10.2353,16,NULL,13,10
+"Williams syndrome",C0017475,4.9917,16,914,2,NULL
+"Ornithine carbamoyltransferase deficiency",C0030487,5.7,16,711,2,NULL
+"Chronic atrial fibrillation",C0113255,10.2241,16,NULL,1,1
+"Juvenile rheumatoid arthritis",C0321358,7.95,16,NULL,4,1
+Photopsia,C0009346,4.6,16,NULL,1,NULL
+"Multifocal motor neuropathy",C0051492,4.2917,16,NULL,7,NULL
+"Usher syndrome",C0032552,8.1162,17,171,6,NULL
+"X-linked dominant hypophosphatemic rickets",C0113972,6.375,17,NULL,1,NULL
+"Acid cholesteryl ester hydrolase deficiency, type 2",C0295153,NULL,17,NULL,1,NULL
+"Membranoproliferative glomerulonephritis",C0006187,10.7244,17,1797,5,NULL
+"Chaga cardiomyopathy",C0005258,7.0847,17,1452,2,NULL
+"Mccune-albright syndrome",C0000040,7.037,17,1063,1,NULL
+"Uterine cervical incompetence",C0005256,7.5909,17,1125,1,NULL
+"Nonaka myopathy",C0185290,6.275,17,NULL,3,NULL
+"Extrahepatic cholangiocarcinoma",C0321672,NULL,17,NULL,2,NULL
+"Limbal stem cell deficiency",C0170016,7.2424,17,NULL,1,NULL
+"Christ-siemens-touraine syndrome",C0017371,6.0748,17,53,2,NULL
+"Brain stem neoplasm",C0004203,7.8812,17,780,7,NULL
+"Orphan disease",C0134977,NULL,17,NULL,1,NULL
+"Recurrent major depressive episode",C0011925,6.5882,17,NULL,6,1
+"Pyoderma gangrenosum",C0009355,6.2727,17,1067,1,NULL
+"Bladder transitional cell carcinoma stage iv",C0129741,7.8333,17,NULL,1,1
+"Borrelia infection",C0005072,4.0943,17,826,9,NULL
+"Immunoglobulin g4 related sclerosing disease",C0303408,6,17,NULL,1,NULL
+"Prolonged labor",C0010423,4.2917,18,NULL,3,NULL
+"Mammary ductal carcinoma",C0006652,NULL,18,NULL,8,NULL
+Asthenopia,C0004921,3.1429,18,693,1,NULL
+"Psoriasis of nail",C0054111,5.9535,18,NULL,2,1
+"Absence epilepsy",C0005873,6.9107,18,3079,3,NULL
+"Peutz-jeghers syndrome",C0007937,6.7031,18,1438,1,NULL
+"Thromboangiitis obliterans",C0008750,7.2138,18,2830,2,NULL
+"Thrombotic microangiopathies",C0210601,5.6104,18,154,50,NULL
+"Idh1 gene mutation",C0335732,6,18,NULL,1,NULL
+"Chronically ill",C0005345,NULL,18,NULL,2,NULL
+Hemophilia,C0111000,4.3846,18,NULL,1,NULL
+"Machado-joseph disease",C0007027,8.035,19,452,2,NULL
+"Adult cholangiocarcinoma",C0039461,10.375,19,NULL,17,NULL
+"Age-related memory disorder",C0115645,NULL,19,NULL,1,1
+"Cystic fibrosis with pulmonary manifestation",C0000328,5.5789,19,NULL,3,2
+"Familial amyloidosis",C0114030,4.3514,19,237,2,1
+Beriberi,C0001355,6.4237,19,2903,3,NULL
+"Idiopathic pulmonary hypertension",C0010437,4.6667,19,NULL,1,NULL
+"Stage ia pancreatic cancer ajcc v6 and v7",C0297624,11.7273,19,NULL,1,1
+Osteopetrosis,C0007523,5.9538,19,2226,3,NULL
+"Malignant tumor of optic nerve",C0000156,9.0909,19,NULL,1,NULL
+"Non-hodgkin's lymphoma transformed recurrent",C0123730,5.4821,19,NULL,3,NULL
+Brucellosis,C0005105,4,19,8834,1,NULL
+"Interstitial pneumonia",C0017801,9.0164,19,NULL,2,NULL
+"Blood in stool",C0000407,4.8,19,NULL,1,NULL
+Prognathism,C0008104,5.4148,19,2739,2,NULL
+"Atypical teratoid rhabdoid tumor",C0141715,9.1818,19,NULL,2,NULL
+"Childhood medulloblastoma",C0038577,11.0794,19,NULL,3,4
+"Stage ib pancreatic cancer ajcc v6 and v7",C0297625,11.7273,20,NULL,1,NULL
+"Generalized seizure",C0020132,4.6667,20,NULL,1,NULL
+"Adult epithelioid sarcoma",C0038867,9.45,20,NULL,1,1
+"Stage iv lung cancer ajcc v6",C0297534,10.4545,20,NULL,5,2
+"Chronic infectious disease",C0009952,3.6667,20,NULL,1,NULL
+"Melas syndrome",C0017425,5.6484,20,858,4,1
+"Metastatic malignant melanoma",C0128104,5.7586,20,NULL,1,2
+"Malignant mesothelioma of peritoneum",C0047415,10.3495,20,NULL,1,NULL
+"Irritable bowel syndrome characterized by constipation",C0192271,11,20,NULL,2,3
+"Malignant neoplasm of breast staging",C0202032,4.5,20,NULL,9,NULL
+"Atopic eczema/dermatitis (non-specific)",C0086177,2,20,NULL,2,1
+"Russell-silver syndrome",C0017468,4.4556,20,31,2,NULL
+Sphingolipidoses,C0008557,6.1797,20,329,3,NULL
+"Severe combined immunodeficiency due to adenosine deaminase deficiency",C0051043,7,20,NULL,11,1
+"Pancreatic pseudocyst",C0007801,5.4262,21,2614,1,NULL
+"Multiple endocrine neoplasia type 1",C0007119,5.3387,21,1186,5,1
+"Lambert-eaton myasthenic syndrome",C0006811,4.8113,21,558,3,1
+"Acute intermittent porphyria",C0017401,4.7083,21,851,4,NULL
+Hypogammaglobulinemia,C0009441,4.381,21,NULL,1,NULL
+"Cerebrotendinous xanthomatosis",C0021377,6.4713,21,176,1,NULL
+"Panic attack",C0009473,4.5714,21,NULL,1,NULL
+"Growth hormone treatment",C0114584,NULL,21,NULL,10,NULL
+"Early onset alzheimer disease",C0000441,10.0455,22,NULL,3,7
+"Mixed oligodendroglioma-astrocytoma",C0039476,7,22,NULL,1,NULL
+"Nerve pain",C0115702,NULL,22,NULL,8,NULL
+Lymphocele,C0007012,3.8788,22,628,3,NULL
+Pyoderma,C0008211,5.4868,22,2365,1,NULL
+"Cervix carcinoma stage iv",C0038609,8.5769,22,NULL,2,4
+"Female pattern alopecia",C0026312,8.4286,22,NULL,1,1
+"Impaired wound healing",C0010186,3.65,22,NULL,9,NULL
+"Amyloid neuropathy",C0017838,6.7045,22,479,1,NULL
+"Corticobasal degeneration",C0051258,6.8594,22,NULL,4,NULL
+"Secondary malignant neoplasm of adnexa of skin",C0003332,11.13,22,NULL,2,NULL
+"Recurrent childhood anaplastic astrocytoma",C0335533,11.112,22,NULL,12,NULL
+"Friedreich ataxia 1",C0186881,NULL,22,NULL,1,1
+"Pathological fracture",C0006093,5.3023,23,5788,1,NULL
+"Abscess of skin and/or subcutaneous tissue",C0009607,6.0909,23,NULL,1,NULL
+"Osteitis deformans",C0007501,4.76,23,4605,1,NULL
+"Spinal muscular atrophy of childhood",C0113478,5.0886,23,746,1,1
+"Pseudotumor cerebri",C0008150,5.6,23,2742,5,NULL
+"Ectodermal dysplasia",C0005749,4.8559,23,2425,2,NULL
+"Burn scar",C0008373,8.9474,23,NULL,3,NULL
+Fatigability,C0018472,5.6667,23,NULL,1,NULL
+"Acute hiv infection",C0045746,4.3846,23,NULL,1,1
+"Shwachman syndrome",C0033411,6.9149,23,NULL,1,NULL
+"Pseudomyxoma peritonei",C0008140,10.4042,23,583,3,NULL
+Chorea,C0005313,4.6575,23,3358,1,NULL
+"Hemoglobin sc disease",C0006338,6.7778,23,527,18,1
+"Moyamoya disease",C0007207,5.9209,23,1798,2,1
+"Globoid cell leukodystrophy",C0006908,6.4142,23,736,7,NULL
+"Cancer relapse",C0004249,3.7241,23,68027,1,1
+"Transverse myelitis",C0007260,5.0979,23,845,1,NULL
+"Lichen sclerosus et atrophicus",C0006930,6.2963,24,683,3,NULL
+"Benign teratoma",C0000079,6.2347,24,3950,1,NULL
+"Large cell carcinoma",C0017931,6.9091,24,1277,1,NULL
+"Generalized myasthenia gravis",C0115674,NULL,24,NULL,2,NULL
+"Henoch-schoenlein purpura",C0008200,5.4244,24,3418,1,NULL
+"Mild dementia",C0312604,8.6667,24,NULL,2,1
+Myelitis,C0007259,4.9747,25,2182,1,NULL
+"Small intestinal bacterial overgrowth",C0301161,NULL,25,NULL,1,NULL
+"Mucoepidermoid carcinoma",C0017922,5.8571,25,936,11,NULL
+Polyarthritis,C0000936,5.7708,25,NULL,1,NULL
+"Hepatolenticular degeneration",C0006383,5.1038,25,4548,5,NULL
+"Leber congenital amaurosis",C0042593,6.6786,25,71,2,NULL
+"Cancer-related problem/condition",C0039485,2.5,25,NULL,1,NULL
+"Progressive multifocal leukoencephalopathy",C0006911,5.2471,25,1949,4,NULL
+Pouchitis,C0050755,5.5161,25,422,4,NULL
+"Chronic back pain",C0114073,6.75,25,NULL,6,NULL
+Alpha-mannosidosis,C0007066,6.3333,25,209,5,NULL
+"Angiolymphoid hyperplasia",C0006162,6.1868,25,1532,3,NULL
+"Cat allergy",C0042767,8.75,26,NULL,1,NULL
+"Gallbladder adenocarcinoma",C0038956,6.2973,26,NULL,1,NULL
+"Juvenile neuronal ceroid lipofuscinosis",C0115711,8,26,NULL,3,NULL
+"Pulmonary thromboembolism",C0087779,9.3721,26,NULL,1,NULL
+"Acute migraine",C0175176,NULL,26,NULL,1,NULL
+"Colon cancer liver metastasis",C0114370,NULL,26,NULL,6,4
+"Congenital dyserythropoietic anemia",C0004771,5.6279,26,368,2,NULL
+"Mitochondrial myopathy",C0017424,4.6923,26,1281,4,4
+"Adult nodular sclerosis classical hodgkin lymphoma",C0038863,11.619,26,NULL,1,1
+Vesicle,C0040650,5.4,26,NULL,3,NULL
+"Cerebral edema",C0005084,5.7,26,NULL,3,NULL
+"Vascular endothelial growth factor overexpression",C0305951,4,26,NULL,1,NULL
+"Antisocial personality disorder",C0004835,3.9333,26,6800,2,NULL
+"Uraemic pruritus",C0139983,4,26,NULL,2,1
+"Manic disorder",C0007065,6.6,26,NULL,1,NULL
+Hypoalbuminemia,C0001560,4.5122,26,430,1,NULL
+"Eye neoplasm",C0003329,6.8881,26,10296,24,2
+"Prostate carcinoma metastatic in the bone",C0155303,10.2609,26,NULL,7,4
+"Acute abdomen",C0004549,5.3,27,7889,1,1
+"Acinar cell carcinoma of pancreas",C0038965,6.9762,27,NULL,1,1
+"Anxiety state",C0113479,5.4,27,NULL,1,NULL
+"Small fiber neuropathy",C0307665,4.6078,27,25,33,2
+"Hirschsprung disease",C0006445,9.6389,27,3083,2,NULL
+"Irritable bowel syndrome with diarrhea",C0049375,10.0577,27,NULL,3,3
+"Corkscrew esophagus",C0000535,5.7238,27,1431,1,NULL
+"Scalp psoriasis",C0054115,8.9583,27,NULL,4,1
+"Sudden infant death syndrome",C0008653,4.65,27,6274,1,NULL
+"In situ neoplasm of vulva",C0001618,7.6621,27,NULL,4,NULL
+"Loss of chromosome 5q",C0160844,5,27,NULL,2,NULL
+"Carcinoma of ampulla of vater",C0004238,13.4732,27,NULL,2,NULL
+"Rheumatic fever",C0008302,6.5427,27,9874,4,NULL
+"Gastrointestinal carcinoid tumor",C0017981,6.1833,27,NULL,1,NULL
+"Bile duct adenoma",C0005292,9.1172,27,1711,2,NULL
+Drusen,C0139843,10,27,NULL,1,NULL
+"Visceral obesity",C0295085,NULL,27,NULL,1,NULL
+"Stage iia pancreatic cancer ajcc v6 and v7",C0297626,11.7273,27,NULL,1,1
+"Alveolar soft part sarcoma",C0017899,6.0698,27,197,1,NULL
+"Stage ivb pancreatic cancer",C0139447,7.3333,27,NULL,2,2
+"Biliary tract disease",C0005013,4.0698,28,10887,1,NULL
+"Nontuberculous mycobacterium infection",C0007252,4.8378,28,3987,2,NULL
+"Hearing problem",C0024828,4.25,28,13360,1,NULL
+"Vaginal cancer recurrent",C0038693,6.55,28,NULL,1,NULL
+Toxoplasmosis,C0008820,4.2619,28,9103,1,NULL
+"Atypical hemolytic uremic syndrome",C0294947,5.4253,28,83,4,3
+"Mucopolysaccharidosis vi",C0007220,6.264,28,310,5,NULL
+"Acute asthma",C0107982,6.4286,28,NULL,2,NULL
+"Adult brain neoplasm",C0017983,8.1667,28,NULL,12,2
+"Primary spontaneous pneumothorax",C0191914,9.3,28,NULL,2,NULL
+Choroideremia,C0005323,7.4661,28,211,3,NULL
+"Lateral sclerosis",C0012124,6.4,28,NULL,9,1
+"Neuronal ceroid-lipofuscinoses",C0007395,5.1186,28,1472,6,NULL
+"Par planitis",C0007862,10.9098,28,98,2,NULL
+"Wolman disease",C0009112,5.6466,28,144,1,NULL
+"Mucopolysaccharidosis iv",C0007218,6.1496,28,937,3,NULL
+"Cns metastasis",C0003976,9.8631,29,NULL,1,NULL
+"Sleep bruxism",C0115978,4.25,29,195,11,NULL
+"Appendiceal neoplasm",C0004865,8.37,29,2116,1,NULL
+"Egfr np_005219.2:p.t790m",C0306670,5,29,NULL,10,NULL
+"Myotonic dystrophy 1",C0303770,9.6667,29,NULL,2,2
+"Female breast carcinoma",C0005159,8,29,NULL,8,4
+"Antibiotic resistant infection",C0196583,NULL,29,NULL,6,1
+"Chronic leukemia (category)",C0144846,6.6119,29,NULL,1,NULL
+"Plasma cell leukemia",C0006895,7.1053,30,767,2,5
+"Biliary atresia",C0005010,6.3034,30,1886,1,NULL
+"Glial tumor of brain",C0000175,8.7414,30,NULL,17,2
+"Renal anemia",C0138822,NULL,30,NULL,1,NULL
+"Intrahepatic cholestasis",C0005301,4.7368,30,3114,3,NULL
+Leprosy,C0006858,4.78,31,17586,1,NULL
+"Knee pain chronic",C0114735,NULL,31,NULL,2,NULL
+"Leber optic atrophy, hereditary",C0134416,5.8595,31,527,5,1
+Ichthyoses,C0006604,3.9674,31,2870,6,NULL
+"Persistent fetal circulation syndrome",C0007931,5.6897,31,818,1,NULL
+"Cancer patient and suicide and depression",C0117036,3.5,31,NULL,1,2
+"Malignant epithelioid mesothelioma",C0129634,5.3333,31,NULL,2,2
+"Early infantile epileptic encephalopathy with suppression burst",C0051376,7.4,31,NULL,2,NULL
+"Primary hyperoxaluria",C0006529,7.1845,32,517,1,NULL
+"Partial paralysis (paresis) vocal cord",C0001241,4.7823,32,4452,3,NULL
+"Drug effect disorder",C0113578,2,32,NULL,1,NULL
+"Anal squamous cell carcinoma",C0157464,5.625,32,NULL,1,NULL
+Coxitis,C0026556,8.4286,33,NULL,1,NULL
+"Deficiency of glucose-6-phosphate dehydrogenase",C0295486,4.8713,33,3936,3,NULL
+"Bacterial resistance",C0010073,3.9231,33,NULL,1,1
+Uremia,C0008968,5.9608,33,16882,2,NULL
+"Bone sarcoma",C0172837,6.75,33,NULL,1,NULL
+"Adult classical hodgkin lymphoma",C0203867,10.8,33,NULL,1,3
+"Castration-resistant prostatic neoplasm",C0318989,5.5333,33,633,1,NULL
+"Severe hereditary factor viii deficiency disease",C0033546,7.4,33,NULL,2,1
+"Clostridium difficile colitis",C0002033,11.1241,33,5295,5,3
+"Limb-girdle muscular dystrophy",C0112779,5.803,33,314,7,NULL
+"Inclusion body myositis",C0021452,5.6543,33,589,17,NULL
+"Stage 0 bladder carcinoma",C0038735,9.2857,33,NULL,1,NULL
+"Premenstrual dysphoric disorder",C0086843,4.5111,33,31,1,NULL
+"Infective vaginitis",C0053153,9.2976,33,NULL,1,NULL
+"Familial mediterranean fever",C0007913,4.2549,34,2432,1,NULL
+"Central nervous system lymphoma",C0114363,6.0541,34,NULL,4,NULL
+Encephalomyelitis,C0005813,6.2231,34,3697,2,NULL
+"Her-2 positive breast cancer",C0172751,4,34,NULL,3,NULL
+"Mucopolysaccharidosis iii",C0007217,5.7551,35,452,15,2
+"Adult liposarcoma",C0038626,8.2857,35,NULL,1,1
+"Left-sided heart failure",C0006838,7.3429,35,NULL,2,NULL
+"Wiskott-aldrich syndrome",C0009108,5.1552,35,1163,5,2
+"Lactose intolerance",C0006809,5.3761,35,2533,4,1
+"Familial idiopathic cardiomyopathy",C0158126,12.1552,35,NULL,2,NULL
+"Dupuytren's disease",C0352849,7.5263,35,NULL,2,NULL
+"Pleural mesothelioma",C0156346,4.5833,35,NULL,4,1
+"Sickle cell trait",C0008479,6.1569,35,1762,53,5
+"Cervical arthritis",C0001818,9.309,35,NULL,1,NULL
+"Cumulative trauma disorder",C0008258,4.0882,35,2788,1,NULL
+"Widespread chronic pain",C0303185,4,35,NULL,2,1
+Hyperoxaluria,C0006528,6.1754,35,628,3,NULL
+"Epidermolysis bullosa dystrophica",C0009159,5.7477,35,611,1,NULL
+"Systemic mastocytosis",C0018064,5.4615,35,300,4,NULL
+"Eosinophilic granulomatosis with polyangiitis",C0005346,7.4762,36,1265,13,2
+"Progressive multiple sclerosis",C0137167,4,36,NULL,3,1
+"Degenerative disorder",C0145335,4,36,NULL,1,NULL
+"Malignant peripheral nerve sheath tumor",C0115917,6.766,36,NULL,1,NULL
+"Adult ependymoma",C0038776,9.75,36,NULL,1,NULL
+"Chronic rejection of renal transplant",C0052881,6.8806,36,NULL,2,NULL
+"Stage iv lung cancer ajcc v7",C0123855,6.2903,36,NULL,53,1
+"Gaucher disease, type 1",C0194572,3.9048,36,NULL,1,NULL
+"Multiple endocrine neoplasia",C0007348,3.9556,36,1964,6,1
+Lymphangioleiomyomatosis,C0115908,5.0957,36,622,4,NULL
+"Infantile severe myoclonic epilepsy",C0115542,8.5614,36,NULL,18,NULL
+"Streptococcal pneumonia",C0013002,9.3755,36,3614,3,NULL
+"Anterior polar cataract",C0185832,5.3333,37,NULL,1,1
+"Diabetic ketoacidosis",C0005613,4.7647,37,4718,1,NULL
+"Von hippel-lindau syndrome",C0006444,5.2245,37,1838,2,NULL
+"Aid dementia complex",C0004691,5.914,37,2874,1,NULL
+"Adult leiomyosarcoma",C0038625,9.4167,37,NULL,1,1
+"Angelman syndrome",C0017415,4.4767,37,736,6,2
+Trichotillomania,C0008861,4.0233,37,620,3,NULL
+"Acute bronchitis",C0009504,8.3474,37,NULL,1,NULL
+Hemangiosarcoma,C0006315,6.7,37,5249,4,NULL
+Hypopituitarism,C0006584,5.25,38,5535,2,NULL
+"Familial amyloid neuropathy",C0017837,5.2361,38,376,2,1
+"Disseminated hyalohyphomycosis",C0000545,4.6418,38,2097,2,NULL
+"Ehlers-danlos syndrome",C0005770,5.4398,38,2242,11,1
+Myelofibrosis,C0007262,4.25,38,NULL,4,2
+"Childhood brain stem glioma",C0038624,11.1471,38,NULL,2,NULL
+"Malignant melanoma of eye",C0090799,7.6667,38,NULL,4,2
+"Malignant neoplasm of endocrine pancreas",C0003306,10.4588,39,273,9,NULL
+"Pulmonary sarcoidosis",C0008356,6.1818,39,2071,33,NULL
+"Digeorge syndrome",C0005629,5.7832,39,1240,5,NULL
+"Aural vertigo",C0003032,5.3913,39,5896,2,1
+"Relapse multiple myeloma",C0203969,8.2857,39,NULL,6,10
+"Marfan syndrome",C0007072,4.1513,39,4380,3,NULL
+"Klatskin tumor",C0017929,10.8973,40,244,16,NULL
+"Neurofibromatosis 2",C0007387,6.2296,40,884,1,NULL
+"Breast adenocarcinoma",C0126314,8,40,NULL,1,NULL
+"Gastroparesis due to diabetes mellitus",C0029345,5.7288,40,NULL,4,NULL
+"Yellow fever",C0009129,4.3544,40,2251,1,NULL
+"Female sexual dysfunction",C0137972,4.1429,40,NULL,1,NULL
+"Autoimmune hemolytic anemia",C0004774,6.0805,40,4584,4,NULL
+Endophthalmitis,C0005835,5.7833,40,4758,1,NULL
+"Familial hypophosphatemia",C0000094,6.4407,40,1534,4,NULL
+"Stage iva colorectal cancer ajcc v7",C0297574,11.7273,40,NULL,1,NULL
+"Multiple hamartoma syndrome",C0006264,5.2407,41,601,1,NULL
+Endometritis,C0000201,9.0732,41,3110,1,NULL
+"Autoimmune hepatitis",C0024253,6.0337,41,1698,3,NULL
+"Lennox-gastaut syndrome",C0021409,6.127,41,39,3,NULL
+"Infection of ear",C0113334,4.8421,41,NULL,1,NULL
+Nightmare,C0007409,4.3333,41,NULL,1,NULL
+Mastodynia,C0007085,4.8966,41,38,5,NULL
+"Recurrent urinary tract infection",C0025833,7.3714,41,NULL,14,3
+"Adult t acute lymphoblastic leukemia",C0038903,10.7447,41,NULL,1,NULL
+"Venoocclusive disease",C0136639,5.0526,41,NULL,1,NULL
+"Asthmatic pulmonary eosinophilia",C0000122,7.0351,41,2323,1,NULL
+"Philadelphia chromosome positive chronic myelogenous leukemia",C0038865,9.8974,41,NULL,3,1
+Pemphigus,C0007882,5.2222,41,6351,5,NULL
+"Stage iv colorectal cancer",C0110463,6.3871,41,NULL,2,1
+"Mucopolysaccharidosis type iiia",C0009461,8.3,42,NULL,23,2
+"Primary progressive multiple sclerosis",C0116145,5.0714,42,NULL,10,7
+"Congenital exomphalos",C0001595,7.0036,42,2878,2,NULL
+"Adult myxopapillary ependymoma",C0333969,9.4118,42,NULL,5,NULL
+"Subjective tinnitus",C0012761,6.1429,42,NULL,16,2
+"Autoimmune diabetes",C0017761,NULL,42,NULL,1,NULL
+"Congenital clubfoot",C0005367,7.2074,42,2904,1,2
+"Lucey-driscoll syndrome",C0000536,4.7079,43,5140,1,NULL
+"Brain stem glioma",C0110451,8.9801,43,NULL,2,NULL
+Blepharitis,C0005040,5.1579,44,929,1,NULL
+"Pilonidal cyst",C0007965,5.493,44,1355,1,NULL
+"Obesity hypoventilation syndrome",C0007959,5.1134,44,563,1,NULL
+"Thymic carcinoma",C0017795,5.4651,44,NULL,5,4
+"Acute myeloid leukemia in remission",C0011576,9.2303,44,NULL,3,NULL
+"Autoimmune polyendocrinopathies",C0009288,3.7179,45,686,1,NULL
+"Malignant neoplasm of penis",C0003338,10.197,45,3889,9,NULL
+Anhedonia,C0017568,4.4151,45,163,2,NULL
+"Hemolytic-uremic syndrome",C0006345,8.1667,45,3819,4,NULL
+"Heart block",C0006288,5.7969,46,19008,1,NULL
+"Leiomyosarcoma of uterus",C0039458,11,46,NULL,10,NULL
+Halitosis,C0006256,4.4857,46,866,5,1
+"Chronic inflammation",C0006657,5,46,NULL,1,NULL
+"West syndrome",C0008542,6.7671,46,2405,2,NULL
+"Aphthous stomatitis",C0000520,6.3333,47,3775,3,NULL
+"Osteogenesis imperfecta",C0007513,5.5926,47,3465,2,NULL
+"Niemann-pick disease",C0007407,6.4972,47,1508,11,1
+"Transthyretin-related amyloidosis, hereditary",C0213432,NULL,48,NULL,3,2
+Gastrinoma,C0006135,7.8956,48,769,1,NULL
+"Adult medulloblastoma",C0038778,11.4423,48,NULL,1,NULL
+"Hashimoto disease",C0110382,6.7381,48,919,3,4
+Chordoma,C0005312,5.098,48,2370,11,1
+"Methicillin resistant staphylococcus aureus infection (mrsa)",C0045455,6.4,49,NULL,1,NULL
+"Thrombotic thrombocytopenic purpura",C0008201,6.6282,49,3206,3,NULL
+Hemochromatosis,C0002765,4.7794,49,6647,8,1
+"Herpes labialis",C0006426,8.1257,49,998,2,NULL
+"Pituitary-dependent Cushing's disease",C0018234,7.7531,50,481,5,NULL
+"Degeneration of lumbar intervertebral disc",C0026637,9.3846,50,NULL,1,NULL
+"Frozen shoulder",C0000267,7.7368,50,NULL,1,1
+"Mechanical low back pain",C0063933,7.6667,50,NULL,1,NULL
+"Myotonic dystrophy",C0007291,5.1508,50,3868,1,2
+"Inborn urea cycle disorder",C0011826,5.0263,50,32,3,NULL
+Myocarditis,C0007278,7.5248,50,10768,2,NULL
+"Stage ivb colon cancer ajcc v7",C0335440,12.7818,51,NULL,1,NULL
+"Kartagener syndrome",C0006757,6.9176,51,918,3,1
+"Metastatic malignant neoplasm in the adult brain",C0154863,10.6875,51,NULL,1,NULL
+"Mucopolysaccharidosis ii",C0007216,5.9304,51,640,11,2
+"Cervical radiculopathy",C0114339,6,51,NULL,1,NULL
+"Metachromatic leukodystrophy",C0006909,6.9021,51,1002,11,NULL
+Gigantism,C0006164,5.2958,51,1165,2,NULL
+"Angle closure glaucoma",C0006176,6.7755,51,1889,2,NULL
+Paraganglioma,C0007820,6.5111,52,2922,34,NULL
+"Growth failure",C0134343,3.9688,52,NULL,4,NULL
+"Chocolate cyst of ovary",C0002233,10.2716,52,NULL,1,NULL
+"Cancer of lip",C0000763,10.7772,52,3417,19,14
+"Diamond-blackfan anemia",C0139819,5.8919,52,192,5,NULL
+"Zika virus infection",C0036932,4.3611,52,990,1,NULL
+"Breast cancer lymphedema",C0362752,4.3043,52,32,2,1
+"Well differentiated pancreatic endocrine tumor",C0156165,8.4667,52,NULL,1,1
+"Hemophagocytic lymphohistiocytosis",C0007016,5.6333,52,618,5,NULL
+"Benign retention cyst",C0001596,7.3646,52,5470,1,NULL
+"Klinefelter syndrome",C0002906,5.4225,53,3148,11,NULL
+"Healed  wound",C0141251,9,53,NULL,1,NULL
+"Mast-cell leukemia",C0006882,7.3033,53,128,6,NULL
+"Ewings sarcoma-primitive neuroectodermal tumor (pnet)",C0111012,7.2222,53,1453,1,NULL
+Spondylarthropathies,C0137106,5.1875,54,586,1,NULL
+"Type i choledochal cyst",C0005405,NULL,54,NULL,1,NULL
+"Neuromyelitis optica",C0007394,6.0431,54,756,9,NULL
+"Opioid abuse",C0007466,4.75,54,NULL,1,NULL
+"Langerhans-cell histiocytosis",C0006452,6.2149,54,4179,4,NULL
+"Adrenogenital syndrome",C0039825,4.4943,54,684,1,NULL
+Hypocalcemia,C0006569,4.3542,54,5686,1,NULL
+"Typhoid fever",C0008920,8.7547,54,9663,1,NULL
+"Synovial cyst",C0009352,4.4074,55,1759,2,NULL
+"Dupuytren contracture",C0005702,7.865,55,1965,4,NULL
+"Islet cell tumor",C0024423,8.4873,55,NULL,7,NULL
+"Pelvic cancer",C0003621,4.8182,55,5612,1,NULL
+"Visceral leishmaniasis",C0006854,4.9706,55,6243,1,NULL
+"Trigeminal neuralgia",C0008866,6.2308,56,5047,1,NULL
+"Hematopoietic neoplasm",C0050749,5.3667,56,NULL,1,NULL
+"Locally advanced malignant neoplasm",C0110473,8.6667,56,NULL,1,NULL
+"Guillain-barre syndrome",C0006245,5.8497,56,2422,4,4
+"Chronic inflammatory demyelinating polyradiculoneuropathy",C0051465,6.5034,56,614,18,1
+"Friedreich ataxia",C0006101,6.1457,57,1874,32,3
+Hypospadias,C0121054,6.12,57,3550,2,NULL
+Hypersomnia,C0134418,4.4643,57,NULL,2,NULL
+"Charcot-marie-tooth disease",C0001883,4.6633,58,3042,9,NULL
+Nevus,C0007401,4.25,58,4763,1,NULL
+"Lyme disease",C0006999,4.7021,58,7146,64,2
+"Facioscapulohumeral muscular dystrophy",C0021509,6.4224,58,333,5,1
+"Malignant squamous cell neoplasm",C0115915,NULL,58,NULL,2,NULL
+"Brain edema",C0161257,4.0732,58,10777,3,1
+"Arthritis of knee",C0022865,7.3,58,NULL,2,4
+"Congenital adrenal hyperplasia",C0004671,6.1802,58,5123,2,NULL
+Mastocytosis,C0007082,4.5422,59,1085,1,NULL
+"Brain death",C0005081,4.8636,59,6215,11,NULL
+Adrenoleukodystrophy,C0017369,5.8266,59,1289,7,4
+"Vaso-occlusive crisis",C0115268,8.5,60,NULL,3,2
+"Mucinous adenocarcinoma",C0005165,7.4524,60,6184,10,NULL
+"Common migraine",C0041784,6.5972,60,361,4,NULL
+Histiocytosis,C0006451,3.8548,60,554,2,NULL
+"Antiphospholipid syndrome",C0009261,3.8889,60,5128,4,NULL
+"Pancreatic carcinoma stage i",C0139157,4.1818,60,NULL,6,1
+"Serous cystadenocarcinoma ovary",C0038967,9.8068,60,NULL,2,1
+"Facial pain",C0005970,5.413,61,4016,1,NULL
+"Brca1 gene mutation",C0158807,4.0909,61,NULL,1,NULL
+Hypoparathyroidism,C0006582,4.3485,61,3569,6,NULL
+Hemangioendothelioma,C0006310,7.04,61,2297,17,NULL
+"Recurrent cancer of gallbladder",C0133871,9.4211,61,NULL,1,NULL
+"Memory loss",C0115648,4,61,NULL,2,NULL
+"Childhood brain neoplasm",C0017974,6.7778,61,NULL,2,NULL
+"Duodenal ulcer",C0005699,9.1459,61,24026,1,NULL
+"Brain infarction",C0116141,5.7368,61,2035,1,NULL
+"Axial spondyloarthritis",C0303346,6.7021,61,NULL,1,NULL
+"Hemolytic anemia",C0004772,4.8511,61,10943,2,NULL
+"Lymphatic disease",C0007009,3.597,62,13062,3,NULL
+Melanosis,C0007108,5,62,2436,6,NULL
+"Non-hodgkin's lymphoma refractory",C0123729,6.4167,62,NULL,1,NULL
+Prostatitis,C0008110,6.9898,62,4011,15,NULL
+"Cutis laxa",C0000464,4.4792,62,550,1,NULL
+"Spinocerebellar ataxia",C0009486,6.4049,62,1046,4,NULL
+Spondylosis,C0008580,6.2453,62,520,1,NULL
+Carcinosarcoma,C0005169,5.5143,62,2181,1,NULL
+"Postural orthostatic tachycardia syndrome",C0149592,4.7297,62,69,1,4
+"Microsatellite instability",C0134928,4.2683,63,809,2,NULL
+"Cytomegalovirus retinitis",C0017826,7.3333,63,1249,2,NULL
+"Failure to thrive",C0005980,3.7451,63,1448,1,NULL
+"Adenoid cystic carcinoma",C0005505,7.2857,63,4539,7,1
+"Genital herpes",C0006424,4.7891,63,3518,3,NULL
+"Urethral carcinoma",C0113383,4.8621,64,NULL,2,NULL
+"Early-stage breast carcinoma",C0299415,8,64,NULL,1,2
+Smallpox,C0008524,5.8889,64,5358,3,NULL
+Hyperthyroidism,C0006550,4.2586,65,23553,4,NULL
+Candidemia,C0133939,5.6721,65,113,1,NULL
+"Smoldering myeloma",C0161340,5.7273,65,NULL,1,1
+"Recurrent brain neoplasm",C0115448,8.25,65,NULL,5,NULL
+Pyelonephritis,C0008204,6.6929,65,12708,1,NULL
+"Diffuse intrinsic pontine glioma",C0299410,11.9111,65,NULL,19,1
+"Brca2 gene mutation",C0158809,4.0909,66,NULL,4,NULL
+"Central serous chorioretinopathy",C0113858,7.7447,66,130,1,NULL
+"Adenosquamous cell lung cancer",C0038875,6.4286,66,NULL,1,9
+"Diabetes insipidus",C0005603,4.7386,66,5712,3,8
+"Acute liver failure",C0017400,6.8727,66,2547,1,NULL
+Syphilis,C0008695,5.0545,66,18301,1,NULL
+"Malignant neoplasm of thymus",C0003523,9.6659,67,6751,1,NULL
+"Constipation functional",C0052667,11.25,67,NULL,1,NULL
+"Rett syndrome",C0008294,4.9565,67,1476,7,NULL
+"Pancreatic cyst",C0007797,5.1628,67,3821,12,2
+"Mycobacterium avium-intracellulare infection",C0007250,6.1923,67,2400,1,NULL
+"Von willebrand disease",C0009084,4.5,68,4259,2,NULL
+"Dissecting aneurysm",C0004795,6.1154,68,10531,1,NULL
+"Secondary progressive multiple sclerosis",C0116146,5.0714,68,NULL,6,4
+"Skin ulcer",C0000205,4.8226,69,6100,2,NULL
+"Urethral neoplasm",C0008975,6.1935,69,2139,4,NULL
+"Carcinoma of spinal cord",C0003289,8.2374,69,9507,7,NULL
+"Focal glomerulosclerosis",C0006190,8.2747,69,3574,2,NULL
+"Adult acute promyelocytic leukemia with pml-rara",C0038933,11.7391,69,NULL,1,NULL
+"Low grade glioma",C0196905,10,69,NULL,4,NULL
+"Migraine with aura",C0012157,6.6714,69,894,7,1
+"Behcet syndrome",C0004994,4.195,70,6204,4,NULL
+"Cluster headache",C0005371,7.0506,70,1876,6,1
+"Colorectal cancer, hereditary nonpolyposis, type 1",C0003489,5.5688,71,2601,1,1
+"Endocrine exopthalmos",C0000325,4.7422,71,719,5,NULL
+"Infectious arthritis",C0004893,4.8396,71,8368,2,NULL
+"Rhabdoid tumor",C0017961,5,72,711,9,NULL
+Osteomyelitis,C0007520,5.7297,72,16014,1,NULL
+"Tension headache",C0008156,5.7917,73,1190,2,NULL
+"Non-small cell lung cancer stage iii",C0038576,8.5893,73,NULL,6,8
+"Primary brain tumor",C0115447,8.75,73,NULL,6,2
+"Pelvic floor disorder",C0303197,2.9706,73,100,5,NULL
+"Intrahepatic cholangiocarcinoma",C0000481,11.1245,73,NULL,135,NULL
+"Becker muscular dystrophy",C0000405,8.2396,73,NULL,8,NULL
+"Asperger syndrome",C0021074,5.1364,73,914,2,NULL
+"Classical hodgkin's lymphoma",C0153957,10.8125,74,NULL,1,1
+"Benign neoplasm of the lip",C0011606,9.1183,74,NULL,1,NULL
+"Cancer of urinary tract",C0003522,7.4476,74,2784,4,NULL
+"Raynaud disease",C0000229,5.68,74,5449,4,1
+"Type c niemann-pick disease",C0018030,8.0417,74,148,12,1
+Vulvodynia,C0054429,6.7805,75,46,1,NULL
+"Hereditary hemorrhagic telangiectasia",C0008718,5.2754,75,2280,1,NULL
+"Chronic constipation",C0052670,10.7179,75,NULL,2,NULL
+"Atrioventricular block",C0004937,7.6947,75,763,3,NULL
+"Asphyxia neonatorum",C0004913,4,75,6430,1,NULL
+"Non-small cell carcinoma",C0141552,10.4286,75,NULL,2,NULL
+"Fragile x syndrome",C0006096,4.9722,75,3373,33,NULL
+Narcolepsy,C0007307,5.4068,76,2366,29,1
+Tonsillitis,C0008794,6.9606,77,5986,1,NULL
+"De toni-debre-fanconi syndrome",C0001947,7.5598,77,1252,11,NULL
+"Tuberous sclerosis",C0008912,4.6599,77,4248,8,NULL
+"Gene deletion abnormality",C0157522,6,78,NULL,1,NULL
+"Paroxysmal nocturnal hemoglobinuria",C0007070,4.8936,78,NULL,7,1
+"Physiological stress",C0074917,2.6875,78,41855,1,NULL
+Chondrosarcoma,C0000076,7.5217,79,5123,1,NULL
+Amenorrhea,C0004743,5.2414,79,8780,2,NULL
+"Graf disease",C0006242,5.7305,79,12669,3,NULL
+"Acute exacerbation of chronic obstructive airway disease",C0042941,8.6,79,NULL,2,4
+"Epidermolysis bullosa",C0005863,4.7642,79,2147,15,1
+"Congenital arteriovenous malformation",C0004886,5.1042,80,6132,11,2
+"Severe combined immunodeficiency",C0009232,4.1429,80,2874,7,NULL
+Pterygium,C0008173,3.5789,80,1654,1,NULL
+"Cannabis dependence",C0002247,5.25,80,NULL,1,NULL
+"Stage iii breast cancer ajcc v6",C0038561,4.72,80,NULL,5,NULL
+"Spina bifida",C0009208,5.6607,80,4733,3,NULL
+"Acute megakaryocytic leukemia",C0006883,8.7985,81,800,1,NULL
+"Synovial sarcoma",C0008691,6.9583,81,2286,3,NULL
+"Cocaine abuse",C0005374,5,81,NULL,3,NULL
+"Carcinomatosis of peritoneal cavity",C0047941,11.0414,81,NULL,5,NULL
+"Sarcoma of ovary",C0039466,10.8381,81,NULL,2,NULL
+"Cartilage disease",C0005191,3.5294,82,3428,1,NULL
+"Alpha 1-antitrypsin deficiency",C0018410,4.9174,82,2588,19,1
+"Adult oligodendroglioma",C0038827,9.8696,83,NULL,7,NULL
+"Pseudomonas infection",C0008139,3.8889,83,14373,1,NULL
+"Recurrent chronic lymphoid leukemia",C0123669,8.8469,84,NULL,1,NULL
+"Progressive supranuclear palsy",C0008670,6.1989,84,1533,10,NULL
+"Hidradenitis suppurativa",C0017450,6.8192,84,471,3,1
+"Primary sclerosing cholangitis",C0096231,8.931,84,NULL,4,1
+"Lichen planus",C0006925,6.4118,84,4300,5,2
+"Chlamydia infection",C0005286,4.5089,85,11452,2,NULL
+"Female genital disease",C0006154,5.5,85,16026,5,NULL
+"Condylomata acuminata",C0005421,7.6573,85,4013,3,NULL
+"Head and neck carcinoma",C0333942,7,85,NULL,1,NULL
+"Adenomatous polyposis coli",C0008031,7.2206,85,4177,8,NULL
+"Post-concussion syndrome",C0088620,5.6813,85,327,3,NULL
+Hidradenitis,C0009240,5.6,86,187,4,NULL
+"Shy-drager syndrome",C0008473,5.5843,86,505,2,NULL
+"Adult brain stem glioma",C0038775,10.963,86,NULL,1,1
+"Hereditary angioedema",C0006389,4.8333,86,154,9,1
+"Ebola hemorrhagic fever",C0039704,4.7966,87,1255,6,NULL
+"Pelvic inflammatory disease",C0024403,6.2397,87,4454,1,NULL
+Dermatomyositis,C0005594,5.4522,87,5662,1,NULL
+Vaginitis,C0009012,7.9747,87,3073,2,NULL
+"Lewy body disease",C0116280,6.5646,88,1496,9,5
+Endocarditis,C0005823,7.0377,88,6662,1,NULL
+"Localized scleroderma",C0008403,5.8125,88,3446,2,NULL
+"Adenoid cystic carcinoma of oropharynx",C0002183,12.2495,89,2174,2,NULL
+Pheochromocytoma,C0007943,6.4483,89,12952,3,NULL
+"Headache disorder",C0051401,5.2,89,1121,1,2
+"Fanconi anemia",C0005986,6.08,89,2213,6,NULL
+"Diabetic peripheral neuropathy",C0114088,8,89,NULL,1,NULL
+"Cervical carcinoma stage ivb",C0161289,12.4375,89,NULL,4,3
+"Heroin dependence",C0006422,4.0323,90,7036,4,1
+"Myasthenia gravis",C0007248,4.7429,90,11685,18,7
+"Stage iia breast carcinoma",C0155632,10,90,NULL,2,1
+"Malignant epithelial neoplasm of small intestine",C0001035,11.3317,90,NULL,3,1
+"Tic disorder",C0000814,3.9,90,1093,1,NULL
+Hyperopia,C0006521,4.7556,91,2184,2,NULL
+Liposarcoma,C0006951,5.622,91,3105,6,NULL
+Hyperbilirubinemia,C0006497,3.7308,91,3761,1,NULL
+"Prader-willi syndrome",C0008062,4.472,91,1912,5,NULL
+"Bronchiolitis obliterans",C0005099,8,91,1716,1,NULL
+"Granulomatosis with polyangiitis",C0312982,7.55,91,5155,1,2
+"Plantar fasciitis",C0009595,5.5584,92,284,1,NULL
+Mumps,C0007231,8.2976,92,3756,2,1
+"Social anxiety",C0064358,4.3636,92,NULL,2,2
+"Mitochondrial disease",C0115893,3.1875,93,1893,8,3
+"Malignant neoplasm of stomach stage iii",C0038567,5.7333,93,NULL,3,NULL
+"Stage iib breast carcinoma",C0155653,10,93,NULL,3,1
+"Short bowel syndrome",C0008467,7.1574,93,1917,4,NULL
+"Retinal defect",C0001955,7.9915,94,3146,6,NULL
+"Congenital acetabular dysplasia",C0001364,7.3575,94,6326,1,NULL
+"Small cell lung cancer limited stage",C0038679,8.2097,94,NULL,2,1
+"Gastric ulcer",C0002071,6.3295,95,23427,1,NULL
+"Testis cancer recurrent",C0038751,6.45,96,NULL,1,1
+"Hairy cell leukemia",C0006877,7.7419,96,3631,2,NULL
+Exanthema,C0000761,4.7586,97,4036,5,NULL
+Rickets,C0008317,5.2525,97,5210,1,NULL
+"Multiple system atrophy",C0051259,4.425,97,1140,18,NULL
+"Acute promyelocytic leukemia",C0006898,9.4322,97,5163,1,NULL
+"Acute chest syndrome",C0114355,4.9744,98,36,1,1
+"Classical phenylketonuria",C0000154,4.8868,98,5779,12,1
+"Meningococcal cerebrospinal fever",C0001373,7.0163,98,4086,1,NULL
+"Pancreatic carcinoma non-resectable",C0123643,9.5,99,NULL,1,2
+"Stage ii prostate carcinoma",C0038745,6.25,100,NULL,6,NULL
+Viremia,C0009057,4.283,100,5655,7,NULL
+"Perinatal asphyxia",C0091403,4.2174,100,NULL,1,NULL
+"Chronic kidney disease stage 5",C0203542,9.129,100,NULL,1,NULL
+"Osteosarcoma recurrent",C0038713,5.2581,100,NULL,1,1
+"Recurrent childhood medulloblastoma",C0041700,11.3526,100,NULL,1,2
+"Pulmonary edema",C0001156,4.7975,100,14213,3,NULL
+"Chronic insomnia",C0115628,6.3333,101,NULL,1,NULL
+"Hypoxic-ischemic encephalopathy",C0116262,5.9231,101,NULL,1,NULL
+Pancytopenia,C0007803,4.5455,101,2538,24,NULL
+"Paraganglioma and gastric stromal sarcoma",C0182085,7.8163,102,NULL,1,1
+Paraplegia,C0007837,5,102,10604,6,NULL
+"Small for gestational age infant",C0006642,5.3793,102,4134,1,NULL
+"Metastasis from malignant tumor of prostate",C0145170,7,103,NULL,2,NULL
+"Adrenal gland hypofunction",C0004670,4.5957,103,5211,2,NULL
+"Multi-infarct dementia",C0000342,7.0685,103,4151,1,2
+"Chronic progressive multiple sclerosis",C0051341,5.766,104,934,1,1
+"Malignant epithelial neoplasm of ureter",C0002566,9.7814,104,3595,1,NULL
+"Effect of chemotherapy",C0141026,3,105,NULL,2,NULL
+"Iga glomerulonephritis",C0006186,10.2071,105,4030,11,3
+"Allergy to peanut",C0091398,6.6842,105,412,1,1
+"Breast disease",C0005089,3.6429,105,9992,11,12
+"Patellofemoral pain syndrome",C0133727,3.5833,105,246,1,NULL
+"Stage ii rectal cancer",C0038587,9.2727,105,NULL,3,1
+"Pervasive development disorder",C0087762,4.4,105,NULL,1,2
+"Carcinoma of unknown primary",C0004077,5.8636,106,2224,9,NULL
+"Biliary cirrhosis",C0006958,6.8557,106,6313,1,NULL
+"Autonomic nervous system disorder",C0139071,2.9762,106,7330,1,NULL
+Myositis,C0007288,4.8901,107,6147,3,NULL
+"Primary biliary cirrhosis",C0005294,8.3026,107,NULL,2,1
+"Geographic atrophy",C0162660,5.3077,108,105,7,NULL
+Hemorrhoid,C0006364,7.1408,108,4111,5,NULL
+"Malignant neoplasm of tongue",C0003587,10.1581,108,7251,4,NULL
+"Transformed migraine",C0194471,8.3947,108,NULL,6,NULL
+"Gaucher disease",C0006146,6.4566,108,3423,11,NULL
+"Alcoholic fatty liver",C0005999,6.2913,108,921,1,NULL
+Glomerulonephritis,C0006185,7.5,108,22851,7,3
+"Acute monocytic leukemia",C0006884,7.6866,108,2393,1,1
+Bursitis,C0000519,4.7667,108,2388,2,NULL
+Leiomyosarcoma,C0006850,6.0471,109,6871,16,2
+"Premature rupture fetal membrane",C0006022,5.4194,109,3530,2,NULL
+"Testicular dysgenesis",C0000712,6.7822,110,6186,4,NULL
+"Stage i grade iii follicular lymphoma",C0039140,12.8103,110,NULL,1,1
+"Chronic graft-versus-host disease",C0132179,4.5,110,NULL,6,7
+Wart,C0319644,4.0145,111,3694,1,NULL
+"Stage iva cervical carcinoma",C0038618,12.4375,111,NULL,1,1
+"Inappropriate adh syndrome",C0006630,4.988,112,1941,1,NULL
+Algoneurodystrophy,C0000144,5.358,112,3158,1,NULL
+Fasciitis,C0005991,4.86,112,1997,1,NULL
+"Attention deficit disorder",C0008933,3.875,112,NULL,3,2
+"Stage iii renal cell cancer",C0038644,5.2,113,NULL,2,NULL
+Hunger,C0006480,4,113,3778,1,1
+Rabies,C0008223,4.3387,114,7728,8,NULL
+"Bone necrosis",C0007521,4.4935,114,4287,1,1
+"Intervertebral disk displacement",C0006694,4.2564,115,14098,3,NULL
+"Metastatic squamous cell carcinoma",C0041267,7.3462,115,NULL,1,NULL
+"Allergic asthma",C0013014,6.4,115,NULL,1,2
+"Nephrotic syndrome",C0007369,6.2973,115,12849,6,NULL
+Encephalopathy,C0009318,4.0294,115,NULL,3,NULL
+"Autosomal dominant polycystic kidney",C0009291,5.8689,115,1900,2,1
+"Squamous cell neoplasm",C0017942,5,115,830,1,NULL
+"Chronic fatigue syndrome",C0005998,3.61,116,3584,444,34
+"Copd exacerbation",C0114008,NULL,116,NULL,8,2
+"Multiple organ failure",C0007227,4.2581,117,6790,3,NULL
+Angioedema,C0004806,4.2344,117,3720,21,NULL
+"Malignant neoplasm of pituitary gland",C0003606,11.657,117,20290,5,NULL
+"Diastolic heart failure",C0138283,7.1429,117,148,3,2
+"T-cell large granular lymphocyte leukemia",C0194064,11.13,118,NULL,1,NULL
+Prehypertension,C0172406,3.96,119,122,1,NULL
+Icterus,C0006736,3.9753,119,12234,1,NULL
+"Stage iv adult soft tissue sarcoma",C0038640,6.5,120,NULL,1,NULL
+"Adenoid cystic carcinoma of salivary gland",C0003287,9.526,121,6262,4,2
+"Nasal polyp",C0007312,5.5986,121,4035,1,NULL
+"Immunoblastic large-cell lymphoma",C0009182,7.2414,123,242,3,NULL
+"Bladder cancer recurrent",C0038739,6.1316,123,NULL,1,1
+"Adult liver carcinoma",C0017984,9.2222,124,NULL,1,1
+"Stage iv bladder cancer ajcc v6",C0038740,4.8125,124,NULL,1,NULL
+"Congenital cystic kidney disease",C0001046,6.9027,124,4922,7,1
+"Bipolar i disorder",C0122474,4.1818,124,NULL,3,NULL
+"Spinal muscular atrophy",C0007239,4.7451,125,2118,33,12
+"Adrenal gland hyperfunction",C0001952,4.5642,126,12249,8,2
+Vitiligo,C0009073,5.7581,126,3141,6,NULL
+"T-cell leukemia",C0006900,5.2326,127,2234,1,NULL
+"Adult acute lymphocytic leukemia",C0115864,9.6316,127,NULL,1,1
+Meningioma,C0000142,5.2083,128,14124,11,NULL
+"Lipid metabolism disorder",C0011829,3.2128,128,243,1,NULL
+"Acute gvh disease",C0125277,4.5,129,NULL,27,1
+"Ductal carcinoma",C0139661,5.7586,131,730,1,NULL
+Mucopolysaccharidoses,C0007215,4.9429,131,1769,31,NULL
+"Serous cystadenocarcinoma",C0017928,8.5,133,1628,1,NULL
+"Adult t-cell lymphoma/leukemia",C0006901,8.6375,136,3152,20,5
+"Eosinophilic esophagitis",C0043761,6,137,224,1,NULL
+Telangiectasis,C0008719,5.5862,137,3062,3,NULL
+"Ventricular fibrillation",C0009038,7.2157,137,13431,2,NULL
+"Cervix carcinoma recurrent",C0038610,7.2444,137,NULL,1,1
+"Acute heart failure",C0027332,8.1667,137,NULL,1,19
+"Pancreatic carcinoma stage ii",C0139158,4.1818,138,NULL,3,1
+"Non-small cell lung cancer stage ii",C0038575,8.5893,139,NULL,6,7
+"Drug dependence",C0158747,4.3043,139,NULL,3,NULL
+"Lupus nephritis",C0006995,8.134,140,3544,1,2
+"Esophageal neoplasm metastatic",C0038595,5.7333,140,NULL,7,NULL
+"Pick disease of the brain",C0020949,7.7091,140,399,2,NULL
+Hemangioma,C0006311,5.1905,142,16904,5,NULL
+"Cerebellar ataxia",C0005220,5.4079,142,3277,1,NULL
+"Uveal melanoma",C0003369,4.2683,142,2668,7,NULL
+Hyperphosphatemia,C0009375,4.3,142,233,1,NULL
+"Non-small cell lung cancer stage i",C0038574,8.5893,142,NULL,4,NULL
+"Hepatic encephalopathy",C0006369,5.7222,143,8149,1,NULL
+"Sezary syndrome",C0008456,10.4414,143,1251,1,1
+"Carcinoma of endocrine gland",C0001308,5.0844,144,2277,6,NULL
+"Extranodal nk-t-cell lymphoma",C0194070,6.3571,144,204,1,1
+Peritonitis,C0007927,4.6707,145,20044,1,NULL
+"Influenza in bird",C0006084,4.459,147,2896,1,NULL
+"Essential tremor",C0032271,4.3226,147,824,8,NULL
+"Atrial flutter",C0004936,6.3016,148,4494,1,NULL
+"Malignant neoplasm of parietal pleura",C0000579,9.7757,148,NULL,1,NULL
+"Myxoid cyst",C0139722,4.1091,149,431,1,NULL
+Vaccinia,C0009004,7.8409,149,2295,1,NULL
+Thrombocytosis,C0117182,4.3276,149,2437,2,NULL
+Measles,C0007092,4.6667,149,10691,1,NULL
+"Bacterial vaginosis",C0009243,9.2907,149,1829,1,NULL
+"Primary amyloidosis",C0030366,5.4211,149,NULL,4,NULL
+"Chronic lymphocytic leukaemia stage 2",C0123670,7.0256,150,NULL,1,NULL
+"Fabry disease",C0001909,7.0762,150,2052,212,NULL
+"Stage iii cutaneous melanoma ajcc v6",C0038784,8.25,150,NULL,3,3
+"Postherpetic neuralgia",C0008041,5.4545,150,321,1,NULL
+Hematoma,C0006323,4.2286,151,17519,22,NULL
+"Stage 0 breast carcinoma",C0011725,6.1753,151,33,7,NULL
+Spondylolisthesis,C0008577,5.9808,152,3146,1,NULL
+"Anaplastic astrocytoma",C0041539,8.1296,152,NULL,29,1
+"Hypertrophic cardiomyopathy",C0005175,8.2825,153,9790,8,NULL
+"Sensorineural hearing loss",C0006286,5.4176,154,10693,2,NULL
+Lipodystrophy,C0006940,4.7838,155,2598,2,NULL
+Leishmaniasis,C0006851,4.1067,155,5401,1,NULL
+Hypothyroidism,C0006596,4.2031,156,21899,6,2
+Heartburn,C0000163,5.1081,156,1356,3,NULL
+Rosacea,C0008331,3.8333,157,1687,6,NULL
+"Adult t-cell lymphoma/leukaemia stage iv",C0039427,11.186,157,NULL,1,1
+"Complication of diabetes mellitus",C0044610,3.1212,158,29564,2,3
+"No salivation",C0001363,6.9674,158,3149,1,NULL
+"Neurofibromatosis 1",C0007386,7.15,159,7220,8,2
+Presbyopia,C0008089,4.125,159,970,5,NULL
+"Metastasis to digestive organ",C0003520,10.2327,161,NULL,38,NULL
+"Borderline personality disorder",C0005069,4.0909,162,3957,1,NULL
+"Advanced breast cancer",C0313076,NULL,162,NULL,1,NULL
+"Adult acute monoblastic leukemia",C0038935,12.413,162,NULL,1,NULL
+"Corneal disease",C0005463,4.5106,163,8692,1,NULL
+"Retinitis pigmentosa",C0008286,6.3913,163,5274,6,NULL
+"Collagen disease",C0005392,3.7381,163,5873,10,NULL
+"Interstitial cystitis",C0039680,7.0351,163,1157,2,NULL
+Neurofibromatoses,C0017429,5.1361,164,1585,2,NULL
+Aspergillosis,C0000724,3.8333,164,9590,1,NULL
+"Malignant pleural mesothelioma",C0117037,8.8897,165,NULL,3,4
+Nephritis,C0007357,6.2564,165,7194,1,NULL
+"Adult acute myeloid leukemia with maturation",C0038932,11.2258,166,NULL,1,3
+Acromegaly,C0004612,5.2286,166,6730,27,NULL
+Urticaria,C0000035,4.1944,166,8575,3,1
+Abfraction,C0147947,9.6,166,NULL,1,1
+"Bronchial neoplasm",C0004042,5.9091,168,19110,81,85
+Vasculitis,C0009025,4.3158,169,9600,8,1
+"Gilles de la tourette syndrome",C0008812,4.8852,169,3023,5,NULL
+"Lymphangitis carcinomatosa",C0003298,11.2612,170,NULL,13,1
+"Dilated cardiomyopathy",C0005174,8.5972,171,10800,4,NULL
+"Bile duct carcinoma",C0003855,4.8947,172,8692,74,NULL
+"Chronic sinusitis",C0009505,6.5854,172,NULL,1,NULL
+"Acute myelomonocytic leukemia",C0006891,8.7769,173,1227,2,4
+Polyneuropathy,C0010354,4.8,174,3616,5,1
+Cholelithiasis,C0005297,4.8364,174,23613,1,NULL
+Coinfection,C0036304,2.7143,174,1527,1,NULL
+"Childhood acute myeloid leukemia",C0017982,9.1071,176,NULL,2,NULL
+"Primitive neuroectodermal tumor",C0017903,6.7303,177,1138,1,NULL
+"Benign prostatic hypertrophy",C0004999,2.75,179,NULL,2,NULL
+"Small cell lung cancer recurrent",C0038681,8.5658,179,NULL,2,NULL
+Gastritis,C0006136,5.8916,179,15166,1,NULL
+"Malignant neoplasm of retina",C0003547,9.9478,180,5980,6,NULL
+"Restless leg syndrome",C0008269,4.404,180,1790,1,NULL
+"Beta thalassemia",C0005005,6.0103,182,5435,4,2
+"Panic disorder",C0007805,3.7813,182,4874,2,NULL
+"Malignant neoplasm of cerebellopontine angle",C0000120,10.0298,183,4724,10,5
+"Discoid lupus erythematosus",C0006992,5.4583,183,2500,3,NULL
+"Celiac disease",C0005205,5.4526,183,14069,20,3
+"Anal carcinoma",C0001169,9.5373,186,3893,4,1
+"Childhood acute lymphoblastic leukemia",C0006880,8.8824,186,NULL,8,1
+"Huntington disease",C0006481,5.1282,187,7767,60,6
+Amnesia,C0000704,4.4561,187,5506,1,NULL
+Dizziness,C0000178,4.3944,187,9911,6,NULL
+"Nerve root disorder",C0001333,4.82,188,2803,1,NULL
+Cystitis,C0005519,6.1869,188,5976,2,NULL
+"Sicca syndrome",C0000678,5.6209,189,8945,19,1
+Rhabdomyosarcoma,C0008300,6.3636,190,7398,10,NULL
+"Infectious mononucleosis",C0000029,4.304,190,6615,1,NULL
+Gastroparesis,C0010351,6.5581,191,849,4,NULL
+"Malignant neoplasm of stomach stage iv",C0038568,5.04,192,NULL,14,2
+Varicosity,C0009018,4.791,192,11254,3,NULL
+Arthralgia,C0004889,4.5313,193,3227,1,NULL
+Myalgia,C0018611,4.4679,194,338,4,NULL
+"Lupus erythematosus",C0055329,4.4,194,NULL,2,1
+"Premature obstetric labor",C0006801,4.4412,195,11065,2,NULL
+"Stage ia breast cancer ajcc v7",C0213965,10,196,NULL,1,NULL
+"Small cell carcinoma",C0025799,7.6441,197,15507,2,NULL
+"Staphylococcal infection",C0008590,4.0476,197,39758,1,NULL
+"Critical limb ischemia",C0138812,NULL,198,NULL,13,NULL
+Ileus,C0001840,5.3704,198,25215,2,NULL
+Cholestasis,C0005300,6.7079,200,14998,1,NULL
+Bradycardia,C0067527,4.5692,200,8412,4,NULL
+"Follicular lymphoma, large-cell",C0009181,11.4545,201,NULL,1,NULL
+Sarcoidosis,C0008353,3.9048,202,17871,73,1
+"Bcr-abl negative leukemia, myeloid, chronic, atypical",C0148882,8.8727,202,295,1,NULL
+"Neuroendocrine carcinoma",C0017923,6,202,1577,20,NULL
+"Sexual dysfunction",C0088992,3.9677,202,NULL,1,2
+Ataxia,C0004926,4.7077,203,5726,29,NULL
+Aphasia,C0004859,5.7656,203,7728,1,NULL
+Sciatica,C0008397,6.3065,204,4154,1,NULL
+Encephalitis,C0001556,5.1538,204,14316,4,NULL
+"Partial epilepsy",C0005869,6.6552,206,6603,4,NULL
+"Thrombocytopenic purpura",C0125587,4.6542,206,6004,1,NULL
+"Unclassifiable myelodysplastic/myeloproliferative neoplasm",C0153115,8.4583,210,NULL,1,NULL
+Gout,C0006226,4.3644,210,8168,7,1
+Acne,C0113552,3.9487,211,NULL,1,NULL
+"Ewings sarcoma",C0089096,6.0588,212,4901,11,1
+"Pituitary dwarfism",C0005703,6.1058,215,1889,4,NULL
+"Stage i prostate carcinoma",C0038744,6.25,216,NULL,3,NULL
+"Childbirth and the puerperium complication of pregnancy",C0000753,3.1563,219,65746,1,NULL
+"Gallbladder carcinoma",C0000305,9.9904,219,6194,131,NULL
+"Neurodegenerative disorder",C0087789,3.0714,219,7219,1,NULL
+Bulimia,C0005108,5.5556,221,4426,3,1
+"Postpartum depression",C0018104,4.3611,221,2338,6,NULL
+"Movement disorder",C0007206,3.8718,221,11982,2,NULL
+"Mycosis fungoides",C0000171,9.7651,223,4110,6,1
+"Disorder of skeletal muscle",C0002314,3.5278,223,20150,4,NULL
+Stomatitis,C0008609,6.4353,223,4932,2,NULL
+"Colonic polyp",C0005398,8.9596,226,4811,1,NULL
+"Myelodysplastic-myeloproliferative disease",C0150234,6.2895,226,24,2,NULL
+"Alopecia areata",C0004721,5.8438,227,2135,7,2
+"Pituitary disease",C0007970,4.52,228,6269,4,NULL
+"Carpal tunnel syndrome",C0005188,8.6741,228,5989,1,NULL
+"Hot flush",C0110328,5.6538,228,1519,1,NULL
+"Opioid use",C0023243,NULL,228,NULL,3,NULL
+"Spontaneous abortion",C0004563,3.5882,228,15569,1,NULL
+"Adult anaplastic astrocytoma",C0039445,10.6977,229,NULL,5,1
+"Gingival disease",C0006166,6.9375,230,3960,3,NULL
+"Sleep disturbance",C0008521,2.9474,231,NULL,1,NULL
+Bronchitis,C0005101,5.2182,231,19242,12,NULL
+"Hemophilia b",C0005325,4.7064,232,3068,5,NULL
+"Treatment-resistant depressive disorder",C0199068,4.4167,234,175,8,1
+"Leg ulcer",C0006845,4.7619,234,6785,1,NULL
+"Social phobia",C0007951,4.4667,235,223,1,NULL
+Gliosarcoma,C0017948,7.7093,235,467,5,NULL
+"Essential thrombocythemia",C0008751,5.6075,237,1900,5,NULL
+Candidiasis,C0005135,3.6429,238,16591,3,NULL
+Pruritus,C0008125,4.3218,239,7477,2,NULL
+"Angina decubitus",C0002139,7.8971,239,7450,1,6
+"Germ cell tumor",C0001688,5.2449,239,2599,3,NULL
+"Refractory anemia",C0000885,7.2976,239,822,1,NULL
+"Pancreatic carcinoma stage iii",C0139159,4.1818,241,NULL,4,1
+"Bipolar depression",C0005017,5.8,242,NULL,8,NULL
+"Exudative macular degeneration",C0202643,5.3077,242,364,5,NULL
+"Barrett esophagus",C0004979,5.5205,243,4672,1,NULL
+"Duodenal cancer",C0003290,11.7578,244,18745,15,1
+"Postmenopausal osteoporosis",C0007525,5.8312,245,8723,2,NULL
+"Urothelial carcinoma",C0201118,7.4286,245,NULL,1,2
+"Respiration disorder",C0008259,3.093,245,7018,2,NULL
+"Paroxysmal atrial fibrillation",C0020572,9.9048,247,NULL,1,1
+"Weight loss adverse event",C0293090,7,249,NULL,1,NULL
+"Small cell lung cancer extensive stage",C0038680,8.2097,249,NULL,7,NULL
+"Chronic erythremia",C0000934,6.2109,249,4933,11,NULL
+Dystonia,C0001682,4.7333,250,5451,5,NULL
+"Female infertility",C0006649,5.2692,250,20764,1,NULL
+"Lymphoproliferative disorder",C0007025,4.5,254,5878,2,NULL
+"Noninfiltrating intraductal carcinoma",C0005162,9.3623,256,6518,1,NULL
+"Uterine fibroid",C0008991,9.9914,257,NULL,20,NULL
+"Ovarian cancer stage iii",C0038652,6.0877,258,NULL,4,NULL
+"Stage iii prostate cancer ajcc v7",C0299578,10.8,260,NULL,1,NULL
+"Duchenne muscular dystrophy",C0005696,6.4179,260,2217,191,4
+"Spinal cord disease",C0008561,4.2364,261,9641,1,NULL
+"Transient cerebral ischemia",C0000972,5.8283,263,15684,2,NULL
+"Nonalcoholic steatohepatitis",C0303486,7.619,265,NULL,10,3
+"Immune thrombocytopenic purpura",C0052022,5.1528,266,3722,15,6
+Alopecia,C0004720,4.4306,268,7582,18,4
+Lymphedema,C0007011,3.6825,268,5983,2,NULL
+"Drug abuse",C0005685,3.7368,269,NULL,1,1
+"Brain ischemia",C0005234,5.2432,269,29307,2,NULL
+"Cancer of digestive system",C0003650,7.6184,270,NULL,27,NULL
+Uveitis,C0008999,5.5789,270,8485,2,NULL
+Dyspepsia,C0005720,4.0857,271,6618,1,NULL
+"Stage iii prostate carcinoma",C0038746,6.25,271,NULL,1,NULL
+Esophagitis,C0005918,5.5833,271,4485,10,NULL
+"Congenital postural scoliosis",C0002388,5.7264,272,11806,7,NULL
+"Cutaneous lymphoma, t-cell",C0009189,10.2974,272,1995,8,1
+"Cancer pain",C0109955,4.75,272,249,16,1
+"Chronic lymphocytic leukaemia stage 4",C0123671,7.0256,274,NULL,3,NULL
+"Aplastic anemia",C0004769,4.3438,276,11592,10,1
+"Peripheral t-cell lymphoma",C0009190,8.5403,277,754,89,10
+"Stage iv pancreatic cancer",C0139162,4.1818,279,NULL,30,4
+Amyloidosis,C0004756,3.6842,284,15701,26,5
+"Alcohol abuse",C0009393,4.9545,284,NULL,3,NULL
+"Chronic myeloproliferative disorder",C0148888,7.7188,284,NULL,1,NULL
+"Eating disorder",C0005735,3.5,286,NULL,1,1
+"Mental deterioration",C0020305,3.8,286,NULL,2,NULL
+"Stage iv renal cell cancer",C0129757,5.2,286,NULL,4,NULL
+"Kidney calculus",C0001577,5.4737,292,14749,2,NULL
+"Interstitial lung disease",C0017802,4.6182,294,4773,2,NULL
+Incontinence,C0006633,3.8889,296,NULL,1,NULL
+"Carcinoma breast stage i",C0038559,4.72,297,NULL,4,NULL
+"Gastrointestinal stromal tumor",C0021456,5.3523,297,1998,5,5
+"Cocaine dependence",C0110342,5.1111,303,NULL,1,NULL
+"D stage i plasma cell myeloma",C0038676,11.8333,303,NULL,3,3
+"Malignant neoplasm of breast stage i",C0202025,9,304,NULL,1,NULL
+"Heart valve disease",C0006301,4.9552,309,16975,1,NULL
+"Muscular atrophy",C0007238,4.3619,310,7683,2,NULL
+Anorexia,C0000189,4.1622,310,12864,4,1
+"Acute leukemia",C0009370,6.6324,310,NULL,4,6
+"Common wart",C0000230,4.8772,312,NULL,1,NULL
+Macule,C0040186,4.2667,313,NULL,3,NULL
+"Pancreatic disease",C0007798,4,314,11969,9,NULL
+"Intervertebral disc degeneration",C0014705,7.2917,315,931,2,NULL
+Thalassemia,C0008740,5.4745,318,9671,8,1
+"Adult acute myeloblastic leukemia",C0017979,9.625,321,NULL,5,3
+"Carcinoma in situ of uterine cervix",C0004052,12.2572,321,7818,10,NULL
+"Ankylosing spondylitis",C0008575,6.6017,322,10289,18,2
+"Chest pain",C0005272,4.4118,323,7237,1,1
+"Abdominal aortic aneurysm",C0017462,10.0531,324,10487,2,NULL
+"Psoriatic arthritis",C0004894,6.2857,324,2646,8,3
+Rheumatism,C0000997,3.7778,328,18811,6,NULL
+"Alcohol use disorder",C0004703,4,331,NULL,1,NULL
+"Generalized glycogen storage disease of infant",C0000731,5.6545,332,855,15,2
+"Musculoskeletal and connective tissue disorder",C0001027,2.4808,332,6893,3,NULL
+"Non-small cell lung cancer stage iiia",C0038808,9.7612,333,NULL,3,5
+"Hamman-rich syndrome",C0001606,9.8624,335,651,42,4
+Sinusitis,C0008498,5.2627,338,11832,3,NULL
+"Stage iv rectal carcinoma",C0129106,8.0465,338,NULL,1,1
+"Adult glioblastoma",C0038780,10.5172,341,NULL,25,12
+Meningitis,C0007122,4.6143,343,17304,19,3
+"Cognition disorder",C0005386,4.3043,344,33488,2,NULL
+"Bone disease",C0005060,3.7907,346,18755,1,NULL
+"Diabetic nephropathy",C0000038,5.2871,346,16077,2,NULL
+"Pathological accumulation of air in tissue",C0000830,5.8132,347,17107,10,NULL
+"Diabetic foot ulcer",C0158469,8.3636,349,NULL,1,NULL
+"D stage ii plasma cell myeloma",C0038677,11.8333,352,NULL,3,1
+"Mantle cell lymphoma stage iv",C0110434,9.381,352,NULL,1,NULL
+"Brain hemorrhage",C0000689,5.1484,357,24565,9,1
+"Depressive symptom",C0009415,4.1429,359,NULL,1,NULL
+Plasmacytoma,C0007985,7.7879,359,7611,1,NULL
+"Opiate addiction",C0087773,5,362,NULL,1,NULL
+"Ki-1+ anaplastic large cell lymphoma",C0017827,7.8462,363,855,1,NULL
+"Metastatic prostate carcinoma",C0135022,5.9333,365,NULL,12,5
+"Stage iv ovarian carcinoma",C0038653,6.0893,366,NULL,8,NULL
+"Colon cancer recurrent",C0038589,8.3607,371,NULL,9,10
+"Cytomegalovirus infection",C0005523,3.9556,374,17577,14,1
+"Blast phase",C0005034,7.5912,378,2079,4,NULL
+Neutropenia,C0001095,5.0857,379,12719,1,NULL
+"Vaginal disease",C0009007,6.3571,379,3493,2,NULL
+"Muscular dystrophy",C0007241,4.7,381,12294,7,NULL
+Scleroderma,C0002938,3.8889,382,13875,21,1
+"Psychological stress",C0008622,3.6897,382,67920,1,NULL
+"Hay fever",C0006274,7.4122,382,10665,3,NULL
+"D stage iii plasma cell myeloma",C0038678,11.8333,383,NULL,2,4
+"Chronic low back pain",C0076810,7.6667,386,NULL,1,NULL
+"Disorder of endocrine gonad",C0000709,3.1186,388,8135,5,NULL
+"Digestive system disorder",C0005631,2.0333,389,3684,4,NULL
+"Obsessional neurosis",C0001738,3.7436,393,9381,4,2
+"Malignant neoplasm of colon stage iv",C0038558,4.119,395,NULL,14,1
+"Stage iv prostate carcinoma",C0038747,6.25,400,NULL,10,2
+"Secondary malignant neoplasm of acromion",C0003310,11.1214,404,NULL,3,2
+Endometriosis,C0005831,4.5957,405,14279,24,NULL
+Astrocytoma,C0004925,6.6778,407,11616,15,NULL
+"Benign prostatic hyperplasia",C0172825,8.0227,409,NULL,1,NULL
+"Autoimmune disease",C0004946,2.7442,413,36893,1,NULL
+"Parkinsonian disorder",C0024432,5.4921,414,4205,8,4
+"Gastrointestinal neoplasm",C0006144,4.4157,414,12574,7,NULL
+"Diabetic neuropathy",C0005614,4.4225,417,10426,1,NULL
+"Metastatic renal cell cancer",C0038645,12.0447,430,NULL,2,3
+"Acute cerebrovascular accident",C0116142,3,432,NULL,6,NULL
+"Rare disease",C0110497,3.8333,434,3492,4,NULL
+"Primary myelofibrosis",C0004685,6.7403,434,4547,2,2
+"Neuroendocrine tumor",C0017968,5.0484,435,2705,26,1
+Sarcopenia,C0133568,5.2449,437,654,1,NULL
+Pancreatitis,C0007802,5.2,437,35174,39,NULL
+"Bleeding tendency",C0000497,3.4789,438,12435,1,NULL
+"Muscle spasticity",C0007237,4.6027,438,6470,1,NULL
+"Pulmonary fibrosis",C0008183,5.283,439,14799,22,2
+"Carcinoma in situ",C0005157,5.8537,440,12119,3,NULL
+"Erectile dysfunction",C0000422,5.2627,443,12464,10,4
+"Deep vein thrombosis",C0009658,6.8571,443,NULL,1,NULL
+"Gestational diabetes",C0009248,4.4902,451,4114,7,NULL
+"Congenital heart disease",C0010352,6.3483,452,NULL,2,NULL
+"Sleep disorder",C0121485,3.1556,455,NULL,2,NULL
+Hiv-infection/aids,C0086023,2,456,NULL,2,NULL
+Osteopenia,C0007522,4.7551,459,NULL,11,NULL
+"Non-small cell lung cancer recurrent",C0038581,7.4792,459,NULL,5,1
+"Foot ulcer",C0009234,5.4359,461,1155,1,NULL
+Dyspnea,C0005723,3.7317,463,12221,3,NULL
+Herpes,C0000387,4.1027,465,18511,10,NULL
+"Chronic leukemia, myelomonocytic",C0006892,7.4286,467,826,1,NULL
+"Common cold",C0005408,6.3291,468,3483,6,1
+"Waldenstrom macroglobulinemia",C0007028,5.9217,472,4378,7,6
+"Relapsing-remitting multiple sclerosis",C0116147,5.4561,474,2191,11,8
+"Burkitt lymphoma",C0005114,7.6138,488,8631,4,1
+Pre-eclampsia,C0001954,5.2609,500,20898,2,NULL
+"Transitional cell carcinoma",C0005168,5.2857,500,13965,7,NULL
+"Prostate cancer recurrent",C0038748,6.55,501,NULL,1,1
+"Acne vulgaris",C0004601,4.7949,502,8288,9,NULL
+Neuroblastoma,C0007382,6.6931,503,21044,29,8
+"Urinary tract infection",C0008984,4.1714,507,29219,14,NULL
+Neuropathy,C0074777,4.5714,508,NULL,5,NULL
+"Addictive behavior",C0009263,5.1429,510,3788,4,NULL
+"Bacterial infection",C0004968,3.1091,511,54160,2,1
+"Fallopian tube carcinoma",C0003760,11.3092,514,NULL,1,1
+"Diabetic retinopathy",C0005615,5.6378,515,16054,1,1
+"Chronic-phase leukemia, myeloid",C0006889,8.8571,516,512,1,NULL
+"Motor neuron disease",C0009225,3.5593,517,2925,10,NULL
+"Non-small cell lung cancer stage iiib",C0038809,9.7612,519,NULL,9,2
+"Amyotrophic lateral sclerosis",C0004758,4.6421,522,9938,484,48
+"Bone neoplasm",C0000013,7.0632,523,50807,32,3
+"Chronic lymphocytic leukaemia refractory",C0038718,7.1333,532,NULL,1,NULL
+"Metastatic malignant neoplasm to brain",C0003530,9.5456,534,NULL,11,3
+"Malignant epithelial neoplasm of peritoneum",C0001860,9.3932,546,9282,11,NULL
+"Secondary malignant neoplasm of intrahepatic bile duct",C0004057,10.515,549,NULL,11,NULL
+"Ovarian epithelial cancer recurrent",C0038654,6.2154,560,NULL,5,3
+"Breast cancer stage ii",C0038560,4.1364,569,NULL,5,2
+"Cervical adenocarcinoma",C0001109,12.5663,570,NULL,1,3
+"Cerebral infarction",C0005233,6.0789,573,17206,2,NULL
+"Diabetic foot",C0000566,4.9063,573,4211,3,1
+"Anaplastic thyroid carcinoma",C0003047,8.7134,575,32980,16,7
+"Colorectal cancer metastatic",C0136590,4,576,NULL,42,2
+"Hemophilia a",C0006350,5.1831,583,15427,20,2
+Illness,C0000153,4.5,588,NULL,1,NULL
+"Stage iiib breast carcinoma",C0038580,8.6,589,NULL,3,NULL
+"T-cell lymphoma",C0009188,5.1786,593,4480,5,3
+"Adenocarcinoma of pancreas",C0039513,9.1935,594,NULL,14,9
+"Non-small cell lung cancer metastatic",C0038812,7.3816,595,NULL,46,6
+"Morbid obesity",C0007433,7.1563,596,8129,4,NULL
+"Diffuse malignant lymphoma, lymphocytic, intermediate differentiation",C0000912,7.3704,598,1223,14,NULL
+Arthropathy,C0006749,3.4776,612,20341,3,1
+"Nervous system disorder",C0007374,2.1522,618,31706,4,NULL
+"Benign neoplasm of kidney",C0085843,8.9784,623,NULL,27,6
+"Biliary tract cancer",C0003435,8.6859,624,5454,562,NULL
+"Polycystic ovary syndrome",C0008024,8.5182,630,8035,10,NULL
+"Benign neoplasm of prostate",C0011669,8.7166,631,NULL,2,NULL
+"Retinal disease",C0008277,5.0361,631,14913,1,NULL
+"Peripheral neuropathy",C0007920,3.8393,632,17517,2,NULL
+"Systemic lupus erythematosus",C0006994,3.8537,633,39795,73,2
+Nausea,C0007317,4.2368,637,11400,3,NULL
+"Chronic hepatitis b",C0087791,8.7818,642,6486,1,NULL
+"Open-angle glaucoma",C0006179,7.2706,652,8468,1,NULL
+"Kidney failure",C0000025,7.3,655,NULL,15,NULL
+Periodontitis,C0007917,7.2212,663,12650,5,NULL
+"Mucosa-associated lymphoid tissue lymphoma",C0024463,9.9252,668,2649,2,NULL
+"Follicular lymphoma",C0007017,8.8455,669,3545,11,NULL
+"Cerebral palsy",C0005236,4.8986,679,13261,2,NULL
+"Dry eye syndrome",C0001025,7.0743,688,2987,3,NULL
+Fibromyalgia,C0006037,5.4533,689,4643,50,9
+"Macular retinal edema",C0032517,8.5405,697,3013,2,NULL
+Constipation,C0005449,6.7349,699,8642,1,NULL
+"Breast cancer recurrent",C0038564,4.9643,701,NULL,8,7
+"Metabolic disease",C0007149,2.975,706,8480,15,NULL
+"Sickle cell anemia",C0004785,6.305,712,14715,3148,28
+"Cardiac arrest",C0001068,6.3228,714,19469,1,NULL
+"Acute myocardial infarction",C0012821,8.392,722,NULL,3,10
+"Intestinal disease",C0006698,5.2632,725,15135,1,NULL
+"Colorectal hyperplastic polyp",C0138015,7.2,730,NULL,1,NULL
+"Autism spectrum disorder",C0158756,4,744,1909,5,6
+Bedwetting,C0001452,4.8188,750,4029,1,NULL
+"Non-alcoholic fatty liver disease",C0052518,5.551,758,1610,1,NULL
+"Atopic dermatitis",C0000041,5.5,763,12436,29,6
+"Advanced cancer",C0133885,7.6667,774,NULL,7,2
+Sleeplessness,C0134420,4.25,778,NULL,13,1
+"Irritable bowel syndrome",C0006726,6.6,786,2577,33,6
+Hernia,C0006392,3.4103,788,6573,7,NULL
+"Graft-vs-host disease",C0006229,3.6739,790,14561,60,11
+Eczema,C0005756,5.9451,791,8701,13,4
+"Pulmonary hypertension",C0006546,4.4524,796,20867,5,NULL
+Cardiomyopathy,C0134232,5.875,799,18794,10,NULL
+"Acute lymphocytic leukemia",C0006879,6.622,813,NULL,69,56
+"Adult solid neoplasm",C0039174,4.5,817,NULL,1,NULL
+Headache,C0006278,4.1791,824,19852,20,5
+"Autistic disorder",C0004945,5.4324,836,12053,12,7
+"Pathologic fistula",C0006049,3.8571,839,15850,1,NULL
+"Fatty liver",C0000962,5.7339,839,11265,3,NULL
+Colitis,C0005391,7.581,840,12998,16,NULL
+Neuralgia,C0007377,4.75,850,6524,3,NULL
+"Hyperactive behavior",C0064463,4.675,862,3461,1,NULL
+"Diffuse large b-cell lymphoma",C0000004,8.1507,879,12359,16,NULL
+"Acid reflux",C0000908,6.6622,888,18080,56,NULL
+"Inflammatory bowel disease",C0006663,5.2167,893,9747,8,1
+"Metastatic melanoma",C0038785,7.5,895,NULL,18,2
+"Impaired glucose tolerance",C0002389,4.686,914,7340,6,NULL
+"Disorder of eye",C0005951,3.3333,930,31398,4,NULL
+"Chronic alcoholic intoxication",C0004706,4.7846,932,60914,8,NULL
+"Migraine disorder",C0009691,5.2472,934,16906,47,11
+"Virus disease",C0009059,2.8095,936,30824,2,NULL
+Cataract,C0002134,5.4353,936,21527,2,NULL
+Stenosis,C0139904,4.3235,945,21579,1,NULL
+"Chronic myeloid leukemia",C0006888,7.1047,969,11753,12,1
+Proctocolitis,C0000462,8.7957,978,24270,19,4
+Aneurysm,C0004792,4.119,990,16409,5,NULL
+"Adenohypophyseal disease",C0115735,8.0909,998,NULL,1,NULL
+"Adult respiratory distress syndrome",C0008261,5.3176,1004,12761,5,1
+"Hodgkin disease",C0000782,8.4662,1009,29082,16,12
+"Age related macular degeneration",C0024426,9,1015,8395,14,NULL
+Hypercholesterolemia,C0006503,4.4043,1023,19297,5,2
+Tuberculosis,C0008885,4.6078,1025,85635,30,NULL
+"Bladder adenocarcinoma",C0003307,10.681,1056,38001,59,7
+Seizure,C0008420,3.8983,1068,37819,4,1
+"Peripheral arterial disease",C0172859,5.5185,1087,1167,2,NULL
+"Congestive heart failure",C0006291,7.2424,1088,NULL,6,1
+"Hematologic neoplasm",C0002107,4.2805,1104,5943,12,NULL
+"Ischemic stroke",C0136316,6.36,1121,NULL,5,1
+"Attention deficit hyperactivity disorder",C0001131,4.3898,1122,14939,24,2
+Thrombosis,C0008755,4.4634,1135,51480,4,1
+"Liver cirrhosis",C0006957,5.9844,1136,50153,14,NULL
+"Crohn disease",C0000386,5.4066,1157,25321,59,6
+"Cystic fibrosis",C0005515,3.6286,1163,24723,72,16
+"Cervical cancer",C0004063,8.5931,1163,51187,28,8
+"Chronic hepatitis c",C0087792,8.7175,1169,11349,1,1
+"Allan-herndon-dudley syndrome (ahds)",C0116364,4.3878,1169,NULL,2,NULL
+"Bipolar disorder",C0005016,3.7778,1212,26099,15,NULL
+"B-cell lymphoma",C0009178,5.5,1218,10515,4,3
+Apnea,C0004863,4.0377,1241,5872,3,NULL
+"Immunologic deficiency syndrome",C0006619,3.0417,1249,11992,4,NULL
+Sepsis,C0024500,4.0517,1285,37741,1,NULL
+Epilepsy,C0005868,5.1695,1292,53704,89,4
+"Infantile malignant osteopetrosis",C0001112,5.5182,1303,28717,9,NULL
+"Hepatitis b",C0006374,7.1985,1314,32179,13,1
+"Adenocarcinoma of rectum",C0003473,11.3008,1315,29674,8,1
+"Malignant neoplasm of connective and soft tissue",C0003422,5.0751,1331,25237,49,3
+Psoriasis,C0008152,4.6667,1336,22968,45,14
+Glaucoma,C0006175,4.0877,1342,27564,11,1
+Fatigue,C0005997,3.7619,1349,15476,6,NULL
+"Chronic lymphocytic leukemia",C0000228,7.9073,1367,9450,124,3
+"Anxiety disorder",C0004839,3.1714,1382,19635,3,4
+"Malignant neoplasm of epicardium",C0000116,10.9708,1399,NULL,8,NULL
+Pneumonia,C0008003,5.6239,1409,34390,3,3
+"Post-traumatic stress disorder",C0008619,4.3143,1415,16025,39,6
+"Obstructive sleep apnea",C0086846,5.7451,1421,7191,2,NULL
+Dementia,C0002004,4.481,1449,30443,26,6
+"Metabolic syndrome x",C0087769,4.4127,1463,10511,3,NULL
+"Low back pain",C0006976,5.7805,1463,10980,6,1
+"Precursor cell lymphoblastic leukemia lymphoma",C0194556,7.5455,1514,16076,4,NULL
+"Adenocarcinoma of colon",C0001481,12.2443,1516,1529,152,18
+"Psychotic disorder",C0008171,3.5897,1525,32347,5,1
+"Chronic pain",C0009759,4.9524,1527,1981,20,5
+"Carcinoma breast stage iv",C0038562,4.0714,1555,NULL,49,5
+Arteriosclerosis,C0000794,5.4353,1599,66422,4,NULL
+"Sleep apnea syndrome",C0008519,4.3978,1650,10370,4,NULL
+"Back pain",C0004963,4.6,1673,13321,8,NULL
+"Mental disorder",C0004992,2.25,1711,115598,1,1
+"Chronic kidney failure",C0001816,8.0174,1718,65266,4,NULL
+"Knee osteoarthritis",C0055316,5.8214,1775,6787,20,3
+"Myelodysplastic syndrome",C0311297,4.8932,1845,8565,21,NULL
+"Solid neoplasm",C0039175,3.5,1851,NULL,34,NULL
+Ulcer,C0008924,3.8438,1854,11738,1,NULL
+Anemia,C0004767,4.1224,1859,39411,4,2
+"Early gastric cancer",C0003382,10.3322,1876,63825,52,8
+Influenza,C0006665,4.2031,1910,24879,8,3
+Infertility,C0006647,3.9074,1957,10823,1,NULL
+"Major depressive disorder",C0141946,4.3793,1965,12887,243,3
+"Chronic kidney disease",C0000203,7.8304,1988,3636,3,NULL
+"Multiple sclerosis",C0007228,4.6374,1997,32786,318,47
+"Pulmonary tuberculosis",C0008906,6.9786,2005,64092,45,44
+"Impaired cognition",C0001550,4.6923,2046,3321,2,NULL
+"Acquired immunodeficiency syndrome",C0000077,4.6056,2105,69253,13,2
+Infarction,C0006643,4.3095,2117,7216,2,NULL
+"Non-hodgkin lymphoma",C0007021,6.3107,2125,29397,37,7
+"Lymphoid leukemia",C0006878,5.959,2128,21082,1,NULL
+"Basal cell carcinoma",C0000213,11.9752,2130,129224,57,8
+"Hepatitis c",C0006382,7.6522,2133,25763,22,2
+"Coronary thrombosis",C0000549,6.6484,2175,125019,18,1
+"Alzheimer's disease",C0000159,5.4766,2195,52419,172,26
+"Atrial fibrillation",C0004935,6.9412,2213,26027,16,NULL
+"Colorectal carcinoma",C0005402,7.7692,2280,NULL,9,NULL
+"Hepatitis a",C0006373,7.078,2299,18995,4,NULL
+Tension,C0019570,4.3333,2309,NULL,1,NULL
+Melanoma,C0007106,5.3882,2319,56138,622,21
+"Functional disorder",C0038240,5,2329,NULL,1,NULL
+Anxiety,C0002597,3.7222,2358,44498,20,3
+"Myeloid leukemia",C0000611,6.8117,2364,21404,1,NULL
+Sclerosis,C0008404,3.9524,2371,6856,8,1
+"Rheumatoid arthritis",C0004895,4.487,2388,72016,32,7
+"Acute leukemia, myelocytic",C0006886,7.6736,2389,24276,96,10
+"Parkinson disease",C0007851,5.6818,2390,37640,219,85
+Malnutrition,C0017377,3.7021,2399,4568,1,NULL
+"Urologic disease",C0008988,3.6364,2399,11189,8,1
+"Dermatologic disorder",C0001407,3.4,2404,47094,1,NULL
+"Insulin-dependent diabetes mellitus",C0005606,4.1078,2440,51605,45,3
+"Liver carcinoma",C0003596,9.59,2451,93516,81,8
+"Malignant neoplasm of cardia",C0011303,10.5019,2469,NULL,1,NULL
+Fibrosis,C0006039,3.6216,2507,13874,5,NULL
+"Multiple myeloma",C0002090,5.6989,2531,26938,136,51
+"Carcinoma of ovary, stage 1",C0001316,11.7521,2544,60112,112,24
+Schizophrenia,C0008385,3.913,2658,70754,13,1
+"Allergic condition",C0001153,3.3846,2680,38544,2,NULL
+Hepatitis,C0006372,5.1846,3052,20472,7,NULL
+Arthritis,C0004890,4.5614,3072,30164,28,4
+"Heart disease",C0000829,3.8462,3084,52681,20,36
+"Kidney disease",C0002167,4.5114,3114,63440,8,7
+Symptom,C0158480,2.4,3208,NULL,1,NULL
+"Degenerative polyarthritis",C0000180,4.6575,3415,25115,2,NULL
+Inflammation,C0006653,3.5116,3470,72976,2,NULL
+"Chronic obstructive airway disease",C0006988,5.6724,3491,13914,36,5
+Asthma,C0004922,4.1858,3525,90500,20,4
+"Depressive disorder",C0005584,3.3103,3650,52489,204,14
+"Coronary heart disease",C0005471,4.2333,3745,119787,1,NULL
+"Cardiovascular disease",C0005177,3.0213,3764,77282,17,1
+"Neoplasm metastasis",C0007335,3.5849,3890,71702,15,NULL
+"Heart failure",C0006290,4.8462,3952,69083,36,NULL
+"Adenocarcinoma of prostate",C0003293,10.4362,4459,70895,220,23
+"Cerebrovascular accident",C0008625,4.8681,4711,37726,16,NULL
+"Hiv infection",C0006460,4.1429,4731,109369,5,6
+Lymphoma,C0002912,5.449,5085,42800,56,9
+Diabetes,C0005602,2.5,5174,NULL,15,18
+Leukemia,C0006868,4.4078,5203,49606,68,12
+"Lung disease",C0006986,4.0222,5216,56043,13,20
+"Hypertensive disease",C0000008,3.8657,5775,173008,19,4
+"Depressed mood",C0001978,3.9565,6011,60520,4,4
+"Blood and lymphatic system disorder",C0121352,1.2727,6114,NULL,2,NULL
+"Communicable disease",C0000356,2.7361,6350,50991,3,1
+"Non-insulin-dependent diabetes mellitus",C0005608,4.2667,7166,61302,54,1
+Obesity,C0007432,5.5909,7452,93715,16,NULL
+Pain,C0007784,4.0132,8507,93252,11,2
+"Breast cancer 3",C0000050,10.193,9178,176087,1083,81
+"Diabetes mellitus",C0005604,3.6512,11531,81729,100,24
+Adenocarcinoma,C0000043,10.1069,38598,959772,11016,336
